@@ -1,0 +1,20 @@
+## localidadCNBV [/cat/localidadCNBV]
+Solo deberá mostrar las localidades de acuerdo al país de 
+domicilio capturado, es decir, en la tabla BMV.LOCALIDAD.CNBV
+el campo ID.PAIS debe de ser igual al país de domicilio registrado.
+
+### localidadCNBV [POST]
+    Obtiene el listado de localidadCNBVs con el país.
+
++ Request Ejemplo
+    + Attributes 
+        + pais(string) - País a consultar
+
++ Response 200 (application/json)
+<!-- include(localidadCNBV.json) -->
+
++ Response 200 (application/json)
+<!-- include(../errors/nodata.json) -->
+
++ Response 500 (application/json)
+<!-- include(../errors/500.json) -->

@@ -1,0 +1,233 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": "99999",
+            "zipCode": "87274",
+            "description": null,
+            "municipio": {
+                "id": "041",
+                "description": "VICTORIA"
+            },
+            "ciudad": {
+                "id": null,
+                "description": null
+            },
+            "estado": {
+                "id": "28",
+                "description": "TAMAULIPAS"
+            },
+            "localidad_cnbv": "484280410001.87274",
+            "localidad_banxico": "03981009"
+        },
+        {
+            "id": "3048",
+            "zipCode": "87274",
+            "description": "SANTA ANA (EJIDO)",
+            "municipio": {
+                "id": "041",
+                "description": "VICTORIA"
+            },
+            "ciudad": {
+                "id": null,
+                "description": null
+            },
+            "estado": {
+                "id": "28",
+                "description": "TAMAULIPAS"
+            },
+            "localidad_cnbv": "484280410001.87274",
+            "localidad_banxico": "03981009"
+        },
+        {
+            "id": "0267",
+            "zipCode": "87274",
+            "description": "SANTA LIBRADA (EJIDO)",
+            "municipio": {
+                "id": "041",
+                "description": "VICTORIA"
+            },
+            "ciudad": {
+                "id": null,
+                "description": null
+            },
+            "estado": {
+                "id": "28",
+                "description": "TAMAULIPAS"
+            },
+            "localidad_cnbv": "484280410001.87274",
+            "localidad_banxico": "03981009"
+        },
+        {
+            "id": "24336.0065",
+            "zipCode": 24336,
+            "description": "LOS LIMONES",
+            "municipio": {
+                "id": "011",
+                "description": "CANDELARIA"
+            },
+            "ciudad": {
+                "id": 1,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "04",
+                "description": "CAMPECHE"
+            },
+            "localidad_cnbv": "484040110001.24336",
+            "localidad_banxico": "00407043"
+        },
+        {
+            "id": "55846.9288",
+            "zipCode": 55846,
+            "description": "TERCERA SECCION DE ATLATONGO (CERRO OCUILAN)",
+            "municipio": {
+                "id": "092",
+                "description": "TEOTIHUACAN"
+            },
+            "ciudad": {
+                "id": 2,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "15",
+                "description": "MEXICO"
+            },
+            "localidad_cnbv": "484150920001.55846",
+            "localidad_banxico": "01793008"
+        },
+        {
+            "id": "80856.0042",
+            "zipCode": 80856,
+            "description": "RANCHO VIEJO",
+            "municipio": {
+                "id": "013",
+                "description": "MOCORITO"
+            },
+            "ciudad": {
+                "id": 3,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "25",
+                "description": "SINALOA"
+            },
+            "localidad_cnbv": "484250130001.80856",
+            "localidad_banxico": "03637156"
+        },
+        {
+            "id": "76893.2620",
+            "zipCode": 76893,
+            "description": "TIERRA NEGRA",
+            "municipio": {
+                "id": "001",
+                "description": "AMEALCO DE BONFIL"
+            },
+            "ciudad": {
+                "id": 4,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "22",
+                "description": "QUERETARO"
+            },
+            "localidad_cnbv": "484220010001.76893",
+            "localidad_banxico": "03303009"
+        },
+        {
+            "id": "71770.3118",
+            "zipCode": 71770,
+            "description": "SAN ANDRES HUAXPALTEPEC",
+            "municipio": {
+                "id": "090",
+                "description": "SAN ANDRES HUAXPALTEPEC"
+            },
+            "ciudad": {
+                "id": 5,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "20",
+                "description": "OAXACA"
+            },
+            "localidad_cnbv": "484200900001.71770",
+            "localidad_banxico": "02489007"
+        },
+        {
+            "id": "30566.4814",
+            "zipCode": 30566,
+            "description": "LA ALIANZA",
+            "municipio": {
+                "id": "051",
+                "description": "MAPASTEPEC"
+            },
+            "ciudad": {
+                "id": 6,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "07",
+                "description": "CHIAPAS"
+            },
+            "localidad_cnbv": "484070510001.30566",
+            "localidad_banxico": "00751003"
+        },
+        {
+            "id": "68861.0801",
+            "zipCode": 68861,
+            "description": "SAN MELCHOR YOHUECHE",
+            "municipio": {
+                "id": "114",
+                "description": "SAN BALTAZAR YATZACHI EL BAJO"
+            },
+            "ciudad": {
+                "id": 7,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "20",
+                "description": "OAXACA"
+            },
+            "localidad_cnbv": "484201140001.68861",
+            "localidad_banxico": "02514006"
+        },
+        {
+            "id": "43000.2064",
+            "zipCode": 24336,
+            "description": "LAS CHACAS II",
+            "municipio": {
+                "id": "028",
+                "description": "HUEJUTLA DE REYES"
+            },
+            "ciudad": {
+                "id": 8,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "13",
+                "description": "HIDALGO"
+            },
+            "localidad_cnbv": "484130280001.43000",
+            "localidad_banxico": "01428006"
+        },
+        {
+            "id": "6445",
+            "zipCode": 53426,
+            "description": "LAS CHACAS II",
+            "municipio": {
+                "id": "028",
+                "description": "HUEJUTLA DE REYES"
+            },
+            "ciudad": {
+                "id": 8,
+                "description": "HUEJUTLA DE REYES"
+            },
+            "estado": {
+                "id": "13",
+                "description": "HIDALGO"
+            },
+            "localidad_cnbv": "484130280001.43000",
+            "localidad_banxico": "01428006"
+        }
+    ]
+}

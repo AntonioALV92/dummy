@@ -1,0 +1,41 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": 1,
+            "description": "AGUASCALIENTES"
+        },
+        {
+            "id": 9,
+            "description": "CIUDAD DE MEXICO"
+        },
+        {
+            "id": 10,
+            "description": "DURANGO"
+        },
+        {
+            "id": 11,
+            "description": "GUANAJUATO"
+        },
+        {
+            "id": 12,
+            "description": "GUERRERO"
+        },
+        {
+            "id": 13,
+            "description": "HIDALGO"
+        },
+        {
+            "id": 14,
+            "description": "JALISCO"
+        },
+        {
+            "id": 15,
+            "description": "MEXICO"
+        },
+        {
+            "id": 16,
+            "description": "MICHOACAN DE OCAMPO"
+        }
+    ]
+}

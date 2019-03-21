@@ -1,0 +1,1553 @@
+{
+    "error":null,
+    "result":[
+       {
+          "id":9011015,
+          "description":"DIRECCIÓN GRAL ADJUNTA DE TESORERIA 1015"
+       },
+       {
+          "id":90105103,
+          "description":"DIRECCIÓN ADMÓN. DE RIESGO"
+       },
+       {
+          "id":101021742101001,
+          "description":"ILSE MARIBEL MURGUÍA FALCÓN"
+       },
+       {
+          "id":101021742103002,
+          "description":"ARACELI VELAZQUEZ SANCHEZ"
+       },
+       {
+          "id":101021742103003,
+          "description":"JESSICA SAMANTHA TORRES SALINAS"
+       },
+       {
+          "id":101021742103005,
+          "description":"ANA MARIA BAUTISTA TISCAREÑO"
+       },
+       {
+          "id":101021742103101,
+          "description":"LASKHMI PAOLA DE LA LANZA LUNA"
+       },
+       {
+          "id":101031712105009,
+          "description":"CINTLI PEREZ"
+       },
+       {
+          "id":101031742101001,
+          "description":"ORLANDO ORTIZ FLORES"
+       },
+       {
+          "id":101031742103001,
+          "description":"KARLA PATRICIA GONZALEZ HERNANDEZ"
+       },
+       {
+          "id":101031742103002,
+          "description":"GERARDO ESQUIVEL MENDOZA"
+       },
+       {
+          "id":101031742103004,
+          "description":"RODOLFO RUIZ MORALES"
+       },
+       {
+          "id":101031742103006,
+          "description":"MONSERRATH CARDENAS ARREDONDO"
+       },
+       {
+          "id":101031742103008,
+          "description":"ISRAEL CABALLERO NABOR"
+       },
+       {
+          "id":101041742301001,
+          "description":"WENDY MENDEZ ESPINOSA DE LOS MONTEROS"
+       },
+       {
+          "id":101041742303001,
+          "description":"JORGE MIGUEL MUNGUIA GALVAN"
+       },
+       {
+          "id":101041742303002,
+          "description":"ERIKA HERNANDEZ ESCANDÓN"
+       },
+       {
+          "id":101041742303003,
+          "description":"DAVID ALEJANDRO MENDOZA MENDOZA"
+       },
+       {
+          "id":101041742303004,
+          "description":"JUAN ANGEL GARCIA BRETON"
+       },
+       {
+          "id":101051712105001,
+          "description":"LORENZO OSORIO GOMEZ"
+       },
+       {
+          "id":101051712105002,
+          "description":"CONCEPCION GUERRERO"
+       },
+       {
+          "id":101051712105003,
+          "description":"DORIS MAGAÑA"
+       },
+       {
+          "id":101051712105004,
+          "description":"RODRIGO DIAZ MIER"
+       },
+       {
+          "id":101051712105006,
+          "description":"ELIAS ANTONIO PADILLA PASAGALI"
+       },
+       {
+          "id":101051712105010,
+          "description":"FLAVIO JOSE MORAN CAMARGO"
+       },
+       {
+          "id":101051712105011,
+          "description":"MARIA CONCEPCION VIBIA CAMACHO"
+       },
+       {
+          "id":101051712105012,
+          "description":"JOAQUIN GARCIA MARGAIN"
+       },
+       {
+          "id":101051722106001,
+          "description":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":101051722106003,
+          "description":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":101051722106004,
+          "description":"EMILIO CUEVAS"
+       },
+       {
+          "id":101051722106009,
+          "description":"JORGE FRANCISCO IBARRA GONZALEZ"
+       },
+       {
+          "id":101051722106012,
+          "description":"JUAN CARLOS BRITO ALBA"
+       },
+       {
+          "id":101051722106013,
+          "description":"GABRIELA MORALES PEREZ"
+       },
+       {
+          "id":101051722106014,
+          "description":"GISELLE SILES CEDILLO"
+       },
+       {
+          "id":101051722106015,
+          "description":"TANIA JOCELYN CASTRO VALDES"
+       },
+       {
+          "id":101051722106016,
+          "description":"ADRIANA MARTINEZ BERMUDEZ"
+       },
+       {
+          "id":101051722106019,
+          "description":"AIDA CLAUDIA VARELA MENDOZA"
+       },
+       {
+          "id":101051722106020,
+          "description":"REBECA JAYME TORRES"
+       },
+       {
+          "id":101051722106021,
+          "description":"CESIAH HATZIRI MARTINEZ HERNANDEZ"
+       },
+       {
+          "id":101051722106022,
+          "description":"SANDRA FERNANDEZ ARANZA"
+       },
+       {
+          "id":101051722106024,
+          "description":"ACBOR GONZALEZ BARRIOS"
+       },
+       {
+          "id":101051722106025,
+          "description":"DENISSE DANAE DÍAZ GUERRERO"
+       },
+       {
+          "id":101051722106027,
+          "description":"CLAUDIA ADELAIDA AGUILAR SEGOVIA"
+       },
+       {
+          "id":101051722106029,
+          "description":"CRISTINA RODRIGUEZ MANDUJANO"
+       },
+       {
+          "id":101051722106031,
+          "description":"MARCELO GARCIA RENDON"
+       },
+       {
+          "id":101051722106032,
+          "description":"PATRICIA JIMENA RIVERA LEON"
+       },
+       {
+          "id":101051732101015,
+          "description":"CONSULTORES FINANCIEROS"
+       },
+       {
+          "id":101051732101016,
+          "description":"ASOCIADOS QUERÉTARO"
+       },
+       {
+          "id":101051732101017,
+          "description":"DAMYD"
+       },
+       {
+          "id":101051732101018,
+          "description":"ROXANA RAMÍREZ MORVEN"
+       },
+       {
+          "id":101051732101020,
+          "description":"ANTONIO DIAZ TIRADO"
+       },
+       {
+          "id":101051732101021,
+          "description":"SEAMANDURAS Y ASOCIADOS"
+       },
+       {
+          "id":101051732101022,
+          "description":"CESAR JAIME PACHECO VALENCIA"
+       },
+       {
+          "id":101051732101026,
+          "description":"WALTER CONTRERAS LARA"
+       },
+       {
+          "id":101051732101027,
+          "description":"MARIA EUGENIA NUCHE SANCHEZ"
+       },
+       {
+          "id":101051732101028,
+          "description":"RAUL JAVIER LOPEZ VILLEGAS"
+       },
+       {
+          "id":101051732101029,
+          "description":"MIGUEL A. AGUILAR G"
+       },
+       {
+          "id":101051732101030,
+          "description":"HANELLORE EMELHAINZ"
+       },
+       {
+          "id":101051742101001,
+          "description":"ANA CECILIA MIYANO ZUÑIGA"
+       },
+       {
+          "id":101051742103001,
+          "description":"KARINA B GUADALUPE MARTINEZ LEDEZMA"
+       },
+       {
+          "id":101051742103002,
+          "description":"ANA CLAUDIA GOMEZ DURAN"
+       },
+       {
+          "id":101051742103003,
+          "description":"MIGUEL ANGEL BUENDIA RAMIREZ"
+       },
+       {
+          "id":101051742103004,
+          "description":"ANA CECILIA MIYANO ZUÑIGA"
+       },
+       {
+          "id":101051742103005,
+          "description":"RECURSOS HUMANOS"
+       },
+       {
+          "id":101051742103006,
+          "description":"MANUEL MORALES MAGALLON"
+       },
+       {
+          "id":101051752107301,
+          "description":"LOURDES LILIAN ALVARADO ARRIAGA"
+       },
+       {
+          "id":101051752107302,
+          "description":"DIANA CECILIA MENDOZA GUEVARA"
+       },
+       {
+          "id":101051752107305,
+          "description":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":101051762100001,
+          "description":"MOISES DE JESUS BUENDIA SUAREZ"
+       },
+       {
+          "id":101051762101001,
+          "description":"JOSE GUADALUPE GALLO PADILLA"
+       },
+       {
+          "id":101051762101002,
+          "description":"OSEIR JAVIER SOTO CID"
+       },
+       {
+          "id":101051762101003,
+          "description":"ABEL RODRIGUEZ VALLES"
+       },
+       {
+          "id":101051772108001,
+          "description":"EDUARDO ALEJANDRO ESCOBEDO ALVAREZ"
+       },
+       {
+          "id":101051772108002,
+          "description":"PABLO ANTONIO AMAYA GALLARDO"
+       },
+       {
+          "id":201011752107302,
+          "description":"YESSICA ALEJANDRA POLINA SALAS"
+       },
+       {
+          "id":101051772108003,
+          "description":"CLAUDIA VERONICA ESPINOZA OLIVAS"
+       },
+       {
+          "id":101051772108004,
+          "description":"MONTSERRAT MARLENE GALVAN MERCADAL"
+       },
+       {
+          "id":101051772108005,
+          "description":"RAQUEL GONZALEZ GARCIA"
+       },
+       {
+          "id":101051772108006,
+          "description":"NOEMI SOFIA ITZEL AMADOR MENESES"
+       },
+       {
+          "id":101051782201001,
+          "description":"CARTERA AUTOMOTRIZ"
+       },
+       {
+          "id":101061742101001,
+          "description":"ISABEL MAYA CALLEJAS"
+       },
+       {
+          "id":101061742103001,
+          "description":"ROBERTO FABIAN MORENO GUERRERO"
+       },
+       {
+          "id":101061742103003,
+          "description":"CLAUDIA IVETTE VAZQUEZ RODRIGUEZ"
+       },
+       {
+          "id":101071722106002,
+          "description":"GAMALIEL ROSARIO LUNA LOPEZ"
+       },
+       {
+          "id":101071722106005,
+          "description":"ALBERTO RODRIGUEZ HUACUZ"
+       },
+       {
+          "id":101071722106006,
+          "description":"BEATRIZ ELENA VILLARRUEL GUZMAN"
+       },
+       {
+          "id":101071722106008,
+          "description":"JUAN CARLOS MACARY NAVARRETE"
+       },
+       {
+          "id":101071722106009,
+          "description":"CLAUDIA KAREN CERVANTES TEJEIDA"
+       },
+       {
+          "id":101071742101001,
+          "description":"CARLOS GILBERTO CERVANTES PATIÑO"
+       },
+       {
+          "id":101071742103002,
+          "description":"MIGUEL ANGEL MUCIÑO"
+       },
+       {
+          "id":101071742103004,
+          "description":"ERIKA JULIETA OROS CHAVEZ"
+       },
+       {
+          "id":101071742103005,
+          "description":"VERONICA MEJIA"
+       },
+       {
+          "id":101071742103006,
+          "description":"JOSE MANUEL HERRERA PUENTE"
+       },
+       {
+          "id":101091742101001,
+          "description":"REBECA FLORES DE LA CRUZ"
+       },
+       {
+          "id":101091742103002,
+          "description":"TOMAS MEZA RIVAS"
+       },
+       {
+          "id":101091742103003,
+          "description":"YOZGAT SALINAS RUIZ"
+       },
+       {
+          "id":101091742103004,
+          "description":"SAIRA MALLELY JIMENEZ RUEDA"
+       },
+       {
+          "id":101091742103006,
+          "description":"JONATHAN CHRISTIAN JUAREZ CRUZALTA"
+       },
+       {
+          "id":101101742101001,
+          "description":"SANDRA IVONNE ALCALA LOPEZ"
+       },
+       {
+          "id":101101742103002,
+          "description":"LUIS GUILLERMO BARRIOS QUINTANAR"
+       },
+       {
+          "id":101101742103003,
+          "description":"JORGE GREGORIO ADAME CASTRO"
+       },
+       {
+          "id":101101742103005,
+          "description":"MARIA DE LOURDES MILLAN TOVAR"
+       },
+       {
+          "id":101101742103006,
+          "description":"MARIA ELIZABETH ESCALONA SOBRADO"
+       },
+       {
+          "id":101111742101001,
+          "description":"TERESA JIMENEZ GUTIERREZ"
+       },
+       {
+          "id":101111742102006,
+          "description":"MANUEL ALEJANDRO ZARATE GARCIA"
+       },
+       {
+          "id":101111742103006,
+          "description":"ALMA XOCHITL HUIDOBRO JUAREZ"
+       },
+       {
+          "id":101111742103011,
+          "description":"CESAR FERNANDO MARTINEZ MENDEZ"
+       },
+       {
+          "id":101111742103012,
+          "description":"ANTONIO LOPEZ HERNANDEZ"
+       },
+       {
+          "id":101131742201001,
+          "description":"JOSE RAMON RODRIGUEZ VERGARA"
+       },
+       {
+          "id":101131742203001,
+          "description":"DIANA DANIELA GARRIDO ENASTEGUI"
+       },
+       {
+          "id":101131742203003,
+          "description":"ANA KAREN VELAZQUEZ LEYVA"
+       },
+       {
+          "id":101141712105002,
+          "description":"RAUL NIETO ZETTER"
+       },
+       {
+          "id":101141712105003,
+          "description":"ANGELICA ROBLES GONZALEZ"
+       },
+       {
+          "id":101141742101001,
+          "description":"PEDRO FERNANDO RAMIREZ ARZATE"
+       },
+       {
+          "id":101141742103003,
+          "description":"DENISSE OROZCO MIRANDA"
+       },
+       {
+          "id":101141742103005,
+          "description":"ERICK LOPEZ BRAVO"
+       },
+       {
+          "id":101141742103007,
+          "description":"PATRICIA VILLARRUEL MARTINEZ"
+       },
+       {
+          "id":101151742101001,
+          "description":"ELIZABETH VEGA MEDINA"
+       },
+       {
+          "id":101151742103001,
+          "description":"EDGAR MENDEZ BENAVIDES"
+       },
+       {
+          "id":101151742103003,
+          "description":"RODRIGO ABELARDO GLORIA RIVERA"
+       },
+       {
+          "id":101161742101001,
+          "description":"IRMA ALEJANDRA MONDRAGON HERNANDEZ"
+       },
+       {
+          "id":101161742103001,
+          "description":"KARLA JOSELIN OLIVARES RAMIREZ"
+       },
+       {
+          "id":101161742103002,
+          "description":"GABRIEL ARROYO MORENO"
+       },
+       {
+          "id":101161742103004,
+          "description":"OSCAR IVAN VARGAS SUAREZ"
+       },
+       {
+          "id":101161742103005,
+          "description":"EJECUTIVO SUCURSAL LINDAVISTA"
+       },
+       {
+          "id":101161742103101,
+          "description":"EJECUTIVOS RECOLECTORES LINDAVISTA"
+       },
+       {
+          "id":101171742101001,
+          "description":"JUAN CARLOS LAGUNA FIGUEROA"
+       },
+       {
+          "id":101171742103001,
+          "description":"GERARDO PANTOJA MUÑOZ"
+       },
+       {
+          "id":101171742103003,
+          "description":"MARTHA ELBA JUAREZ HERRERA"
+       },
+       {
+          "id":101181722106001,
+          "description":"EJECUTIVO BANCA EMPRESARIAL"
+       },
+       {
+          "id":101181742101001,
+          "description":"ANGELICA MARTINEZ ALANIS"
+       },
+       {
+          "id":101181742103001,
+          "description":"JUAN CARLOS MARTINEZ MORONES"
+       },
+       {
+          "id":101181742103002,
+          "description":"ARMANDINA PESSINA HERRERA"
+       },
+       {
+          "id":101181742103003,
+          "description":"ANABEL GRISELL GONZALEZ ADAME"
+       },
+       {
+          "id":101181742103004,
+          "description":"OMAR JAVIER CHAVARRIA GUADARRAMA"
+       },
+       {
+          "id":101191742101001,
+          "description":"JULIO CESAR GUTIERREZ ROMERO"
+       },
+       {
+          "id":101191742103001,
+          "description":"IDALIA HERNANDEZ ARELLANO"
+       },
+       {
+          "id":101191742103002,
+          "description":"PAULINA JAHEL GUTIERREZ PEREZ"
+       },
+       {
+          "id":101191742103003,
+          "description":"VERONICA ALEJANDRA RIVERA HURTADO"
+       },
+       {
+          "id":101211742101001,
+          "description":"MONICA PAOLA SALGADO VALDOVINO"
+       },
+       {
+          "id":101211742103101,
+          "description":"LIZBETH SARAI GUTIERREZ SOTELO"
+       },
+       {
+          "id":101221742101001,
+          "description":"CARLOS MARIN BARRUETA"
+       },
+       {
+          "id":101221742103001,
+          "description":"ERIKA SELENE PEREZ IGARI"
+       },
+       {
+          "id":101221742103002,
+          "description":"MARINA FIGUEROA ANAYA"
+       },
+       {
+          "id":101231712100001,
+          "description":"ROBERTO ARTURO ARGUELLES CARDENAS"
+       },
+       {
+          "id":101231712105001,
+          "description":"FIDEL ALEJANDRO GUERRERO PINEDO"
+       },
+       {
+          "id":101231712105004,
+          "description":"JAVIER MENDEZ MARIMON"
+       },
+       {
+          "id":101231742101001,
+          "description":"CHRISTIAN FIGUEROA CAMACHO"
+       },
+       {
+          "id":101231742103001,
+          "description":"RUTH MARIA BERENICE MENDOZA ESQUIVEL"
+       },
+       {
+          "id":101231742103002,
+          "description":"MARIA CRUZ ORTEGA MARTINEZ"
+       },
+       {
+          "id":101231742103003,
+          "description":"JUAN CARLOS GUTIERREZ GONZALEZ"
+       },
+       {
+          "id":101241742101001,
+          "description":"JOSE RAMON RODRIGUEZ VERGARA"
+       },
+       {
+          "id":101241742101002,
+          "description":"PAOLA ITZEL ESCOBAR MONTAÑO"
+       },
+       {
+          "id":101241742103001,
+          "description":"ALBERTO CHAMBERT TAPIA"
+       },
+       {
+          "id":101241742103003,
+          "description":"GUSTAVO GONZALO BALCAZAR DEL CARPIO"
+       },
+       {
+          "id":101241742103004,
+          "description":"BLANCA ESTELA BARRIOS SANCHEZ"
+       },
+       {
+          "id":102011722106002,
+          "description":"LILIANA MERIT TORRES LUNA"
+       },
+       {
+          "id":102011722106005,
+          "description":"CARLOS ZAMARRIPA AGUILERA"
+       },
+       {
+          "id":102011722106006,
+          "description":"ELIZABETH PEREDO ROSAS"
+       },
+       {
+          "id":102011722106008,
+          "description":"GABRIELA RODRIGUEZ CESEÑAS"
+       },
+       {
+          "id":102011722106009,
+          "description":"BANCA EMPRESARIAL (MUNDO E)"
+       },
+       {
+          "id":102011722106010,
+          "description":"ROBERTO DUCOING LOPEZ"
+       },
+       {
+          "id":102011722106012,
+          "description":"ARTURO TOMAS CASTILLO MORALES"
+       },
+       {
+          "id":102011722106013,
+          "description":"LAURA ELENA VILLEGAS CARDENAS"
+       },
+       {
+          "id":102011722106015,
+          "description":"BANCA EMPRESARIAL"
+       },
+       {
+          "id":102011722106016,
+          "description":"BIANCA ESTELA GONZALEZ SOTO"
+       },
+       {
+          "id":102011722106017,
+          "description":"LUIS MANUEL GONZALEZ TORRES"
+       },
+       {
+          "id":102011742101001,
+          "description":"GERARDO PEÑA PEREZ"
+       },
+       {
+          "id":102011742103001,
+          "description":"PAMELA OSIRIS GUERERO OLVERA"
+       },
+       {
+          "id":102011742103002,
+          "description":"MARCO ANTONIO ESTRADA GAYTAN"
+       },
+       {
+          "id":102011742103004,
+          "description":"JULIETA GONZALEZ PEÑA"
+       },
+       {
+          "id":102011742103005,
+          "description":"MIREYA LARA GONZALEZ"
+       },
+       {
+          "id":102031742101001,
+          "description":"EVA ESTELA SABANERO SOSA"
+       },
+       {
+          "id":102031742103001,
+          "description":"ALBERTO SANCHEZ PINEDA"
+       },
+       {
+          "id":102031742103002,
+          "description":"EJECUTIVO SUCURSAL FUENTES 10203"
+       },
+       {
+          "id":102041712105001,
+          "description":"MARIA NOHEMI SANCHEZ OLGUIN"
+       },
+       {
+          "id":102041712105002,
+          "description":"SARA ADRIANA VALERDI SANCHEZ"
+       },
+       {
+          "id":102041712105003,
+          "description":"ALEJANDRO VALENCIA AVILA"
+       },
+       {
+          "id":102041712105004,
+          "description":"ALEJANDRO RUBIO VARGAS"
+       },
+       {
+          "id":102041742101001,
+          "description":"ROBERTO ADRIAN ALTAMIRANO MEDINA"
+       },
+       {
+          "id":102041742103001,
+          "description":"JORGE LUIS REYES OSNAYA"
+       },
+       {
+          "id":102041742103002,
+          "description":"ALMA IRLANDA PALMA HERNANDEZ"
+       },
+       {
+          "id":102041742103003,
+          "description":"LILIA TRETO ACEVEDO"
+       },
+       {
+          "id":103011742101001,
+          "description":"PERLA AURORA ACEVEDO SANCHEZ"
+       },
+       {
+          "id":103011742103001,
+          "description":"CARMINA URBINA ECHEVERRÍA"
+       },
+       {
+          "id":103011742103101,
+          "description":"MARCELA REGALADO RODRIGUEZ"
+       },
+       {
+          "id":103021742101001,
+          "description":"JULIETA CRUZ ARIAS VERGARA"
+       },
+       {
+          "id":103021742103001,
+          "description":"GERARDO SANCHEZ ROMERO"
+       },
+       {
+          "id":103021742103002,
+          "description":"YURICO MANCERA VALDES"
+       },
+       {
+          "id":103021742103003,
+          "description":"CARLOS GUIAZCON GARCIA"
+       },
+       {
+          "id":103021742103004,
+          "description":"ERNESTO ORTIZ ALVAREZ"
+       },
+       {
+          "id":103031712105001,
+          "description":"MARIO GERARDO HERNANDEZ PEREZ"
+       },
+       {
+          "id":103031712105002,
+          "description":"DANIEL ANTONIO OLIVER MENDOZA"
+       },
+       {
+          "id":103031724106002,
+          "description":"OMAR ALEJANDRO RUIZ AVILA"
+       },
+       {
+          "id":103031724106003,
+          "description":"JESUS CESAR ALBARRAN PEREZ"
+       },
+       {
+          "id":103031724106004,
+          "description":"HECTOR ALFREDO OVIEDO OSORIO"
+       },
+       {
+          "id":103031742101001,
+          "description":"VICTOR RAUL ORTIZ GUILLEN"
+       },
+       {
+          "id":103031742103001,
+          "description":"SHEYLA DEL VALLE MONRROY"
+       },
+       {
+          "id":103031742103002,
+          "description":"JOSE ADAN GUSTAVO HERNANDEZ MORAN"
+       },
+       {
+          "id":103031742103003,
+          "description":"JORGE LUIS GUZMAN MARTINEZ"
+       },
+       {
+          "id":103031762101001,
+          "description":"JOSE ELIAS ESTRADA LOPEZ"
+       },
+       {
+          "id":103031762101002,
+          "description":"JOANNA LIZETH UNAS RUIZ"
+       },
+       {
+          "id":103051742101001,
+          "description":"LUIS DAVID ESPÍNDOLA ROBLES"
+       },
+       {
+          "id":103051742103001,
+          "description":"ENRIQUE RIVERA SANCHEZ"
+       },
+       {
+          "id":103051742103002,
+          "description":"JUANITA YAZMIN VAZQUEZ BRIONES"
+       },
+       {
+          "id":103051742103003,
+          "description":"SALVADOR GOMEZ GARCIA"
+       },
+       {
+          "id":103061742101001,
+          "description":"LILIA EUSTOLIA VILLANUEVA HERNANDEZ"
+       },
+       {
+          "id":103061742103001,
+          "description":"JOSE CARLOS MOLINA RODRIGUEZ"
+       },
+       {
+          "id":103061742103002,
+          "description":"JOSE FRANCISCO LEDESMA PALACIOS"
+       },
+       {
+          "id":103061742103003,
+          "description":"EDGAR ELIUT CRUZ BARBOSA"
+       },
+       {
+          "id":201011712105003,
+          "description":"COLBERT SALINAS QUIROGA"
+       },
+       {
+          "id":201011712105008,
+          "description":"MAURICIO RENE RIVERA ARREOLA"
+       },
+       {
+          "id":201011722106002,
+          "description":"GABRIEL ALEJANDRO SEPULVEDA DUQUE"
+       },
+       {
+          "id":201011722106003,
+          "description":"YAMILLETH DEL CARMEN CALDERA USCANGA"
+       },
+       {
+          "id":201011722106004,
+          "description":"ALFREDO DE GABRIEL RODRIGUEZ"
+       },
+       {
+          "id":201011722106005,
+          "description":"EVA CECILIA SANTOS AVILA"
+       },
+       {
+          "id":201011742101001,
+          "description":"ALEJANDRO RODRIGUEZ ARIAS"
+       },
+       {
+          "id":201011742103010,
+          "description":"KARINA SALINAS RODRIGUEZ"
+       },
+       {
+          "id":201011742103101,
+          "description":"JESSICA DEYANIRA PIÑA SANDOVAL"
+       },
+       {
+          "id":201011752107101,
+          "description":"ANA DOLORES REYES TIBURCIO"
+       },
+       {
+          "id":201011752107301,
+          "description":"ROSELENA LOZANO LEDEZMA"
+       },
+       {
+          "id":201011752107303,
+          "description":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":201011752107304,
+          "description":"SERGIO ARZOLA DEL TORO"
+       },
+       {
+          "id":201011762101001,
+          "description":"JUAN FRANCISCO RUIZ ALVAREZ"
+       },
+       {
+          "id":201011762201001,
+          "description":"JULIO CESAR LUJAN JAQUEZ"
+       },
+       {
+          "id":201011762201003,
+          "description":"JOSE ALFREDO HERNANDEZ CHACON"
+       },
+       {
+          "id":201011772107001,
+          "description":"EJECT CAMINOREAL MTY(BANCGOBIERNO)"
+       },
+       {
+          "id":201021742101001,
+          "description":"RODOLFO GONZALEZ GONZALEZ"
+       },
+       {
+          "id":201021742103002,
+          "description":"OSCAR ALBERTO GONZALEZ CASTRO"
+       },
+       {
+          "id":201021742103003,
+          "description":"GERARDO JOSE PEREZ MEDINA"
+       },
+       {
+          "id":201021742103004,
+          "description":"ERIKA MARLENE ROBLES LOPEZ"
+       },
+       {
+          "id":201031742101001,
+          "description":"LUIS HORACIO BARAJAS ARRIAGA"
+       },
+       {
+          "id":201031742103001,
+          "description":"GEORGINA CAMPOS FALCON"
+       },
+       {
+          "id":201031742103002,
+          "description":"JOEL EDUARDO CANIZALES COVARRUBIAS"
+       },
+       {
+          "id":201041742101001,
+          "description":"JOSE ANGEL PLACERES GONZALEZ"
+       },
+       {
+          "id":201041742103003,
+          "description":"SANDRA SOLEDAD CISNEROS LEYVA"
+       },
+       {
+          "id":201041742103004,
+          "description":"MARCO ANTONIO SANCHEZ MARTINEZ"
+       },
+       {
+          "id":202011722106001,
+          "description":"BANCA EMPRESARIAL"
+       },
+       {
+          "id":202011742101001,
+          "description":"GABRIELA GUTIERREZ FRAYRE"
+       },
+       {
+          "id":202011742103001,
+          "description":"KARLA MANUELA ESQUIVEL ALANIS"
+       },
+       {
+          "id":301011722206001,
+          "description":"JOSE DANIEL RENDON LOPEZ"
+       },
+       {
+          "id":301011722206002,
+          "description":"ELIAS ABRAHAM HUERTA HERNANDEZ"
+       },
+       {
+          "id":301011722206003,
+          "description":"CARLOS ALBERTO ROBLES GIL EVEREST"
+       },
+       {
+          "id":301011722206004,
+          "description":"DAMARIZ ESTRADA VIDALIS"
+       },
+       {
+          "id":301011722206005,
+          "description":"BANCA EMPRESARIAL PUEBLA ANGELES"
+       },
+       {
+          "id":301011722206006,
+          "description":"BANCA EMPRESARIAL PUEBLA"
+       },
+       {
+          "id":301011742201001,
+          "description":"FRANCISCO FELIPE ROJAS VERTIZ BERMUDEZ"
+       },
+       {
+          "id":301011742203003,
+          "description":"JUAN CARLOS ESPINOZA DE LOS MONTEROS"
+       },
+       {
+          "id":301021742201001,
+          "description":"ROBERTO COLLANTES JUAREZ"
+       },
+       {
+          "id":301021742203001,
+          "description":"MARIA ISABEL SALGADO CASTAÑEDA"
+       },
+       {
+          "id":301021742203002,
+          "description":"ANA GILDA RUEDA JUAREZ"
+       },
+       {
+          "id":301021742203004,
+          "description":"MARTHA ELENA GUERRA MUÑOZ"
+       },
+       {
+          "id":301021752107201,
+          "description":"CINDY GISSEL BRECEDA NERI"
+       },
+       {
+          "id":301021752107202,
+          "description":"IDALIA ESPERANZA AMARO CERVANTES"
+       },
+       {
+          "id":301021752107203,
+          "description":"ISMAEL YASSER GALLARDO BARRERA"
+       },
+       {
+          "id":301031714105003,
+          "description":"SUBDIRECTOR BANCA PRIVADA PLAZA LAS ANIMAS"
+       },
+       {
+          "id":301031714105005,
+          "description":"DANIEL LINDEMANN STOEHR"
+       },
+       {
+          "id":301031742201001,
+          "description":"MARIA TERESA HERNANDEZ HERRERA"
+       },
+       {
+          "id":301031742201002,
+          "description":"ARTURO BAUTISTA PASTRANA"
+       },
+       {
+          "id":301031742203001,
+          "description":"NEDELKA NALLELI CASTELAN HERRERA"
+       },
+       {
+          "id":301031742203002,
+          "description":"CARLOS BONILLA ARROYO"
+       },
+       {
+          "id":301031742203003,
+          "description":"MANUEL HERRERA OCHOA"
+       },
+       {
+          "id":301031772107003,
+          "description":"ANDREA SANDOVAL CENTENO"
+       },
+       {
+          "id":301041742201001,
+          "description":"GUILLERMO VELASCO LIMA"
+       },
+       {
+          "id":301041742203001,
+          "description":"REBECA DOMINGUEZ RENDON"
+       },
+       {
+          "id":301041742203002,
+          "description":"RAUL HERNANDEZ RUIZ"
+       },
+       {
+          "id":301041742203003,
+          "description":"JOSE JULIO GASPAR DOMINGUEZ GUERRA"
+       },
+       {
+          "id":301041742203004,
+          "description":"RUBEN RAMIREZ TREJO"
+       },
+       {
+          "id":301041742209001,
+          "description":"MARCO ANTONIO ARROYO GARCIA"
+       },
+       {
+          "id":301041762201001,
+          "description":"TIRSO ALEJANDRO HUERTA AQUINO"
+       },
+       {
+          "id":301041762201002,
+          "description":"YANNET OLMOS RAMIREZ"
+       },
+       {
+          "id":302011722206001,
+          "description":"JUAN MANUEL ALVIZO RENTERIA"
+       },
+       {
+          "id":302011742201001,
+          "description":"MIGUEL ELIAS RAMIREZ MEMERY"
+       },
+       {
+          "id":302011742203002,
+          "description":"JUAN CARLOS CORBAL MARTINEZ"
+       },
+       {
+          "id":302011742203003,
+          "description":"OSCAR ROBERTO HERNANDEZ CANCHE"
+       },
+       {
+          "id":302011742203004,
+          "description":"JANETH DEL ROCIO LAGUNA PEREZ"
+       },
+       {
+          "id":302011742203006,
+          "description":"TANIA MORALES CERVANTES"
+       },
+       {
+          "id":302011752107101,
+          "description":"MONICA DE LA SERNA CRUZ"
+       },
+       {
+          "id":302011752107301,
+          "description":"LEIDY ARACELLY EK AVILA"
+       },
+       {
+          "id":302011762102001,
+          "description":"ERNESTO GERARDO LUNA PADRON"
+       },
+       {
+          "id":302011762102003,
+          "description":"ENA LUISA HERNANDEZ ORTIZ"
+       },
+       {
+          "id":302011762202002,
+          "description":"CAROLINA GARCÍA PÉREZ"
+       },
+       {
+          "id":302011762302001,
+          "description":"HUMBERTO AGUILAR SANTIS"
+       },
+       {
+          "id":302021714105002,
+          "description":"BARBARA ANDRADE VARGAS HERNANDEZ"
+       },
+       {
+          "id":302021714105003,
+          "description":"MARTIN HERMILO YEPEZ PEÑA"
+       },
+       {
+          "id":302021722106001,
+          "description":"MARTHA PAOLA BARSSE GONZALEZ"
+       },
+       {
+          "id":302021722106002,
+          "description":"JAIME HUMBERTO BARRERA LIZAMA"
+       },
+       {
+          "id":302021722106003,
+          "description":"ALBA ELVIRA CASTILLO TZAB"
+       },
+       {
+          "id":302021722106004,
+          "description":"OSWALDO GUZMAN GONZALEZ"
+       },
+       {
+          "id":302021722106005,
+          "description":"GABRIELA ALFONSO UC MADERA"
+       },
+       {
+          "id":302021742201001,
+          "description":"ROSA OLINDA CASTILLO"
+       },
+       {
+          "id":302021742203001,
+          "description":"YOANA DEL MAR VALENCIA NICOLI"
+       },
+       {
+          "id":901121712101004,
+          "description":"MARIANA BAUTISTA CASTAÑEDA"
+       },
+       {
+          "id":302021742203002,
+          "description":"MANUEL FACUNDO MARIN BARRERA"
+       },
+       {
+          "id":302021742203005,
+          "description":"MAYRA TALINA DE GANTE NARVAEZ"
+       },
+       {
+          "id":302021742203006,
+          "description":"PATRICIA GLICERY LOPEZ TURRIZA"
+       },
+       {
+          "id":401011744101001,
+          "description":"JOSEFINA GUILLEN DIAZ"
+       },
+       {
+          "id":401011744103001,
+          "description":"GABRIELA PICASSO CONTRERAS"
+       },
+       {
+          "id":401011744103002,
+          "description":"ROSA EVELIA AVELAR SERNA"
+       },
+       {
+          "id":401011744103004,
+          "description":"CESAR ELISEO BERBER GOMEZ"
+       },
+       {
+          "id":401021714105003,
+          "description":"ERIKA TORRES INFANZON"
+       },
+       {
+          "id":401021714105004,
+          "description":"RICARDO RAZO NAVARRO"
+       },
+       {
+          "id":401021744101001,
+          "description":"CLARA ELENA DEL REFUGIO NAVA PEREZ"
+       },
+       {
+          "id":401021744101002,
+          "description":"ANTONIO JESUS MEDINA ENCISO"
+       },
+       {
+          "id":401021744103001,
+          "description":"KARINA ALCANTAR GARCIA"
+       },
+       {
+          "id":401021744103002,
+          "description":"MONICA CHAVEZ SHELLY"
+       },
+       {
+          "id":401031714000001,
+          "description":"ALEJANDRO ORTIZ MALCHER"
+       },
+       {
+          "id":401031714105001,
+          "description":"LUCIA SANDOVAL JIMENEZ"
+       },
+       {
+          "id":401031714105002,
+          "description":"OSCAR ARMANDO LARIOS HERNANDEZ"
+       },
+       {
+          "id":401031714105003,
+          "description":"JORGE ALBERTO DE JESUS CEBALLOS GALLEGOS"
+       },
+       {
+          "id":401031714105004,
+          "description":"OSCAR ALEJANDRO VELASCO RODRIGUEZ"
+       },
+       {
+          "id":401031724106001,
+          "description":"EDUARDO PEREZ VELASCO VITAL"
+       },
+       {
+          "id":401031724106002,
+          "description":"FABIÁN VILLALVAZO FUENTES"
+       },
+       {
+          "id":401031724106003,
+          "description":"ANA LAURA RAMIREZ ESTRADA"
+       },
+       {
+          "id":401031724106004,
+          "description":"GUSTAVO ANAYA RODRIGUEZ"
+       },
+       {
+          "id":401031744101001,
+          "description":"ISRAEL GUTIÉRREZ GARCÍA"
+       },
+       {
+          "id":401031744103002,
+          "description":"EJECUTIVOS SUC AMERICAS 40103"
+       },
+       {
+          "id":401031744103004,
+          "description":"HUGO CASTAÑEDA PANTOJA"
+       },
+       {
+          "id":401031744103006,
+          "description":"MARTHA SUSANA VACA LOPEZ"
+       },
+       {
+          "id":401031752107201,
+          "description":"JOSE ALEJANDRO BARRIOS ORDOÑEZ"
+       },
+       {
+          "id":401031762100001,
+          "description":"JORGE MIGUEL ORDAZ"
+       },
+       {
+          "id":401031762101001,
+          "description":"DAVID LEONEL TORRES UREÑA"
+       },
+       {
+          "id":401031762101002,
+          "description":"MIGUEL ANGEL MARISCAL NAVARRO"
+       },
+       {
+          "id":401031762101003,
+          "description":"HOMAR GALVEZ MARTINEZ"
+       },
+       {
+          "id":401031762102001,
+          "description":"JOSE TOMAS OROZCO"
+       },
+       {
+          "id":401031762201003,
+          "description":"MARIA DEL MAR MARIN CID"
+       },
+       {
+          "id":401031762300001,
+          "description":"VICTOR MANUEL BARRAGAN QUINTERO"
+       },
+       {
+          "id":401031762301001,
+          "description":"JOSE MARTINEZ CUBILLO"
+       },
+       {
+          "id":401041714105002,
+          "description":"OSBALDO CARMONA CASTAÑEDA"
+       },
+       {
+          "id":401041714105004,
+          "description":"OSCAR HERNANDEZ ISLAS"
+       },
+       {
+          "id":401041714105007,
+          "description":"JUAN RAMON DE ANDA GUTIERREZ"
+       },
+       {
+          "id":401041724106001,
+          "description":"JEARIME SALCEDO MEDINA"
+       },
+       {
+          "id":401041744101001,
+          "description":"ALEJANDRO ESQUIVEL RIOS"
+       },
+       {
+          "id":401041744103001,
+          "description":"LUIS RODOLFO GASCA MARMOLEJO"
+       },
+       {
+          "id":401041744103002,
+          "description":"DELIA ELENA FUENTES REYES"
+       },
+       {
+          "id":401041744103005,
+          "description":"OMAR VERA SANCHEZ"
+       },
+       {
+          "id":401041752107201,
+          "description":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":401041762101001,
+          "description":"MARTIN GUTIERREZ CAMPOS"
+       },
+       {
+          "id":401051714105001,
+          "description":"JOSE LUIS REVILLA OLAVARRIETA"
+       },
+       {
+          "id":401051714105003,
+          "description":"RUBEN JIMENEZ VELAZQUEZ"
+       },
+       {
+          "id":401051744101001,
+          "description":"JOSE MANUEL SALAZAR VAZQUEZ"
+       },
+       {
+          "id":401051744103001,
+          "description":"LUIS GERARDO RIOS LOPEZ"
+       },
+       {
+          "id":401051744103002,
+          "description":"LETICIA MUNGUIA SIERRA"
+       },
+       {
+          "id":401051752107302,
+          "description":"MARGARITA SANCHEZ SORIA"
+       },
+       {
+          "id":401061744101001,
+          "description":"ROGELIO PEREZ RAMOS"
+       },
+       {
+          "id":401061744103001,
+          "description":"DAVID ALEJANDRO MARTINEZ TORRES"
+       },
+       {
+          "id":401061744103002,
+          "description":"ALEJANDRO MONTALVO PEREZ"
+       },
+       {
+          "id":401071744101001,
+          "description":"MARCELA VILLANUEVA ZAPIEN"
+       },
+       {
+          "id":401071744103001,
+          "description":"FRANCISCO JOSE PAEZ GALINDEZ"
+       },
+       {
+          "id":401071744103002,
+          "description":"SAULO RICARDO PEREZ ROCHA"
+       },
+       {
+          "id":401081714101001,
+          "description":"SUSANA CORREA MARQUINA"
+       },
+       {
+          "id":401081724101001,
+          "description":"SERGIO SOSA CORTEZ"
+       },
+       {
+          "id":401081744101001,
+          "description":"MARIO GARCIA ALMANZA"
+       },
+       {
+          "id":401081744101002,
+          "description":"MARIBEL HERRERA VIGUERAS"
+       },
+       {
+          "id":401081744103001,
+          "description":"JOSE AVELINO MORENO ARAMBULA"
+       },
+       {
+          "id":401081744103002,
+          "description":"DIANA ODETTE SANCEN MARTINEZ"
+       },
+       {
+          "id":401081744103003,
+          "description":"MARIA GUADALUPE NEGRETE GALLARDO"
+       },
+       {
+          "id":901041100000001,
+          "description":"ADMINISTRACIÓN Y FINANZAS"
+       },
+       {
+          "id":901041762000001,
+          "description":"ANALISTA BANCA AGROPECUARIA"
+       },
+       {
+          "id":901041962000001,
+          "description":"ADMINISTRATIVO RECURSOS HUMANOS"
+       },
+       {
+          "id":901051031000001,
+          "description":"ADMINISTRATIVO ADMON. DE RIESGOS"
+       },
+       {
+          "id":901071300000001,
+          "description":"SISTEMAS"
+       },
+       {
+          "id":901071310000001,
+          "description":"SISTEMAS"
+       },
+       {
+          "id":901081040310001,
+          "description":"ADMINISTRATIVO OPERACIÓN DE SUCURSA"
+       },
+       {
+          "id":901121710000001,
+          "description":"DIRECCIÓN P. FISICAS BANCA PRIVAD"
+       },
+       {
+          "id":901121711000001,
+          "description":"DIRECCIÓN BANCA"
+       },
+       {
+          "id":901121712000001,
+          "description":"BERNARDO VALADEZ BENITEZ"
+       },
+       {
+          "id":901121712101002,
+          "description":"CARLOS ANDRES TARIN HERNANDEZ"
+       },
+       {
+          "id":901121712101005,
+          "description":"PROMOTOR BANCA 4"
+       },
+       {
+          "id":901121721110008,
+          "description":"MODULO ESPECIAL CONTRATOS CASA DE BOLSA LUMINA"
+       },
+       {
+          "id":901121722100001,
+          "description":"SUB DIRECCIÓN BANCA EMPRESARIAL"
+       },
+       {
+          "id":901121722110005,
+          "description":"RAFAEL HERLINDO PEREZ VITE"
+       },
+       {
+          "id":901121723100001,
+          "description":"SUB DIRECCION BANCA EMPRESARIAL"
+       },
+       {
+          "id":901121724111003,
+          "description":"BANCA EMPRESARIAL AMÉRICAS"
+       },
+       {
+          "id":901121725112001,
+          "description":"BANCA EMPRESARIAL INVERSIONES"
+       },
+       {
+          "id":901121725112004,
+          "description":"BANCA DE INVERSIONES"
+       },
+       {
+          "id":901121731000001,
+          "description":"DIR. PROYECTOS"
+       },
+       {
+          "id":901121740000002,
+          "description":"KARLA ESTEFANI GARCIA DUEÑAS"
+       },
+       {
+          "id":901121740000009,
+          "description":"SUSANA YAÑEZ REGALADO"
+       },
+       {
+          "id":901121740000010,
+          "description":"ASTRID NAVIL AGUILAR CABALLERO"
+       },
+       {
+          "id":901121740012002,
+          "description":"EJECUTIVO COMERCIAL CAMBIOS"
+       },
+       {
+          "id":901121742100001,
+          "description":"SUBDIRECCIÓN DE SUCURSALES ZONA NORESTE"
+       },
+       {
+          "id":901121742200001,
+          "description":"ILLIANA NOYOLA GOMEZ"
+       },
+       {
+          "id":901121742300001,
+          "description":"SUBDIRECCION ZONA CENTRO NORTE 0001"
+       },
+       {
+          "id":901121742400001,
+          "description":"MARIA MAGDALENA MARIN LEAL"
+       },
+       {
+          "id":901121742400002,
+          "description":"SUBDIRECCIÓN REGIONAL"
+       },
+       {
+          "id":901121742600001,
+          "description":"SUBDIRECCIÓN BANCA SEGUROS 0001"
+       }
+    ]
+ }

@@ -1,0 +1,17 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": 1,
+            "description": "SUCURSAL 1"
+        },
+        {
+            "id": 2,
+            "description": "SUCURSAL 2"
+        },
+        {
+            "id": 4,
+            "description": "SUCURSAL 3"
+        }
+    ]
+}

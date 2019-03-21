@@ -1,0 +1,84 @@
+@font-face {
+    font-family: Funkies;
+    src: url(Funkies.ttf);
+}
+
+body, html {
+    background-color: #455A64;
+    color: #eceff1;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Funkies;
+    font-size: 53pt;
+    color: #00bcd4;
+    font-weight: 300;
+}
+
+.response-opt {
+    /* border: 1px solid black; */
+    display: inline-block;
+    padding: 0 13px;
+}
+
+.response-title{
+    font-weight: bold;
+}
+
+.serv-table {
+    /* background: #eceff1; */
+    width: 100%;
+}
+
+.serv-table td, .serv-table th {
+    padding: 5px;
+    border-bottom: 1px solid #607d8b99;
+}
+
+.serv-table td:nth-child(1) {
+    border-right: 1px solid #607d8b99;
+    padding: 5px 15px;
+}
+.serv-table td:nth-child(2) {
+    border-right: 1px solid #607d8b99;
+    padding: 5px 15px;
+}
+
+.peticion-post {
+    display: block;
+    position: absolute;
+    color: #4DB6AC;
+    font-weight: bolder;
+}
+
+.peticion-get {
+    display: block;
+    position: absolute;
+    color: #00bcd4;
+    font-weight: bolder;
+}
+
+.api-title {
+    display: block;
+    opacity: 0.5;
+}
+
+md-input-container label {
+    color: #cfd8dc;
+}
+  
+  /* When the input is focused */
+md-input-container.md-input-focused label {
+    color: #cfd8dc;
+}
+
+md-input-container input {
+    color: rgb(105,240,174) !important;
+}
+
+tr:hover {
+    background: #2196f340
+}
+  

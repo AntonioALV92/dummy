@@ -1,0 +1,25 @@
+## Logout  [/session/logout]
+
+### logout [POST]
+Logout de la aplicación
+
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+    {
+        
+    }
+
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "code": 500,
+                "message": "Internal Server Error"
+            },
+            "result": null
+        }

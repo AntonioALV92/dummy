@@ -1,0 +1,57 @@
+{
+  "title": "Login",
+  "endpoint": "/session/login",
+  "method": "POST",
+  "responses": [
+    {
+      "status": "200",
+      "label": "200: Ok",
+      "headers": {
+        "Content-Type": "application/json",
+        "Accept-Charset": "utf-8",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2IiwiaWF0IjoxNTM5OTAzMDY4LCJleHAiOjE1Mzk5MDM2Njg1LCJuYW1lIjoiTHVpcyBHb256YWxleiBTdHJhdFBsdXMiLCJ1c2VybmFtZSI6Imxnb256YWxleiJ9.89D8duaBMvsg5X6e8YsyPrz_N-C9bDhT0vKxGGG0uKOyexGPAqh0QlKJ7YyIefVVeUfcTpqgNX3gAh4IPX207g"
+      },
+      "bodyFile": "response.json"
+    },
+    {
+      "status": "400",
+      "label": "400: Sesión activa",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "body": {
+        "execution": false,
+        "codeStatus": 300,
+        "error": "Active Session",
+        "message": "Ya tienes una sesion activa, cierra sesión o intenta más tarde"
+      }
+    },
+    {
+      "status": "401",
+      "label": "401: Bad credentials",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "body": {
+        "execution": false,
+        "codeStatus": 401,
+        "error": "Bad credentials",
+        "message": "username y/o contraseña incorrectos"
+      }
+    },
+    {
+      "status": "500",
+      "label": "500: Error",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "body": {
+        "error": {
+          "code": 500,
+          "message": "Internal Server Error"
+        },
+        "result": null
+      }
+    }
+  ]
+}

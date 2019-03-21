@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en"
+    ng-app="dummyServices">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible"
+        content="ie=edge">
+    <title>GIB Dummy Services</title>
+    <link rel="stylesheet"
+        href="css/angular-material.min.css">
+    <link rel="stylesheet" href="css/monokai-sublime.css">
+    <script src="js/highlight.pack.js"></script>
+    
+    <script src="js/socket.io.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/angular-animate.min.js"></script>
+    <script src="js/angular-aria.min.js"></script>
+    <script src="js/angular-messages.min.js"></script>
+    <script src="js/angular-material.min.js"></script>
+    <script src="js/angular-highlight.js"></script>
+
+    <script src="js/script.js"></script>
+    <link rel="stylesheet"
+        href="css/style.css">
+</head>
+
+<body ng-controller="mainCtrl">
+
+    <h1 style="text-align:center">Gib Dummy Services</h1>
+
+    <div layout="row" layout-align="center center">
+        <div flex="50">
+          <md-input-container class="md-block md-accent" >
+            <label>Buscar...</label>
+            <input ng-model="filterString">
+          </md-input-container>
+        </div>
+    </div>
+
+
+    <table class="serv-table">
+        <thead>
+            <tr>
+                <th style="max-width: 30%">API</th>
+                <th colspan="2">Response</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="p in apis | filter:filterString">
+                <td style="width:33.3333%; max-width: 33.33333%;text-align: right">
+                    <span class="peticion-post"
+                        ng-if="p.method=='POST'">POST</span>
+                    <span class="peticion-get"
+                        ng-if="p.method=='GET'">GET</span>
+                    <span class="api-title">{{p.title}}</span>
+                    {{p.endpoint}}
+                </td>
+                <td style="width:33.3333%; max-width: 33.33333%;text-align: left">
+                    <div class="response-opt"
+                        ng-repeat="t in p.responses">
+                        <md-switch ng-model="t.enabled"
+                            ng-class="{'md-primary': (t.status != 200 && t.status != 500), 'md-warn': (t.status == 500)}"
+                            aria-label="Switch 1"
+                            ng-change="changeTransition(p, t)">
+                            <span class="response-title">
+                                {{t.label}}
+                                <!-- {{t.response.status}} -->
+                            </span>
+                        </md-switch>
+
+                    </div>
+                </td>
+                <td>
+                    <md-button class="md-accent"
+                        ng-click="getResponse(p)"
+                        ng-if="!isShownR[p.endpoint]">View response</md-button>
+                    <md-button class="md-primary"
+                        ng-click="isShownR[p.endpoint] = false"
+                        ng-if="isShownR[p.endpoint]">Hide response</md-button>
+                        <div hljs hljs-source="responses[p.endpoint]"
+                        ng-show="isShownR[p.endpoint]"
+                        style="max-height: 500px; overflow:auto; font-weight: bold">
+                        </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

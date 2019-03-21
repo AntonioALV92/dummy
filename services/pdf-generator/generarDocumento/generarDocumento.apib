@@ -1,0 +1,56 @@
+## Generar documento [/generarDocumento]
+
+### generarDocumento [POST]
++ Request Request
+
+    + Body
+    {
+        type: 'verificacion',
+        data: {
+          'fechaAplicacion': '1993-03-04',
+          'sucursal': 'TECA',
+          'folioGib': '11239231223',
+          'tipoTramite': 'NUEVO',
+          'clasificacion': 'CLIENTE',
+          'noCliente': '11122021',
+          'idPersona': '1232',
+          'nombreCompleto': 'Pepe el Pollo Asado',
+          'electorKey': 'GE21233D3',
+          'rfc': 'OIRD930622510',
+          'curp': 'OIRD930622MMCRDN09',
+          'similitud': '99',
+          'curpCoincide': 'SI',
+          'executiveName': 'Pedro el pinguino del glaciar',
+          'cecoban': true,
+          'pendiente': 'si',
+          'resultRFC': 'pendiente',
+          'validationStatus': 'true',
+          'es_usuario': false,
+          'numero_cliente': true,
+          'numero_persona': false,
+          'na_status': false,
+          'na_rfc': 'NA',
+        }
+
+    }
+           
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+         "Archivo pdf.."
+    
+
++ Response 500 (application/json)
+    + Relation: 500: Internal Server Error
+    
+    + Body
+     {
+        "error": {
+            "code": 0,
+            "message": "string"
+        },
+        "result": {
+            "id": "string"
+        }
+    }

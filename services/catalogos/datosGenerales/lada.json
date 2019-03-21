@@ -1,0 +1,17 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": "0101",
+            "ciudad": "AGUASCALIENTES",
+            "lada": 449,
+            "extranjera": false
+        },
+        {
+            "id": "4091",
+            "ciudad": "TRENTON",
+            "lada": 609,
+            "extranjera": true
+        }
+    ]
+}

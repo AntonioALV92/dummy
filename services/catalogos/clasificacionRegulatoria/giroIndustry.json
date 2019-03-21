@@ -1,0 +1,57 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": 110,
+            "description": "CULTIVO DE CEREALES Y LEGUMBRES"
+        },
+        {
+            "id": 120,
+            "description": "CULTIVO DE SEMILLAS CAÑA DE AZUCAR"
+        },
+        {
+            "id": 130,
+            "description": "CULT.DE FLORES Y PLANTAS DE ORNATO"
+        },
+        {
+            "id": 140,
+            "description": "CULTIVO DE FRUTAS Y FIBRAS"
+        },
+        {
+            "id": 190,
+            "description": "IRRIGACION DE TIERRAS"
+        },
+        {
+            "id": 210,
+            "description": "GANADO VACUNO Y CABALLAR"
+        },
+        {
+            "id": 220,
+            "description": "GANADO OVINO, PORCINO Y CAPRINO"
+        },
+        {
+            "id": 230,
+            "description": "AVICULTURA"
+        },
+        {
+            "id": 240,
+            "description": "APICULTURA"
+        },
+        {
+            "id": 250,
+            "description": "CRIA DE ANIMALES DOMESTICOS Y OTROS"
+        },
+        {
+            "id": 290,
+            "description": "SERV. DE GANADERIA Y PREP. POTREROS"
+        },
+        {
+            "id": 310,
+            "description": "EXTRACCION DE MADERA Y CARBON VEG"
+        },
+        {
+            "id": 320,
+            "description": "EXTRACCION DE RESINAS Y OTROS DERIV"
+        }
+    ]
+}

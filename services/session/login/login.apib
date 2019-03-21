@@ -1,0 +1,61 @@
+## Login  [/session/login]
+
+### login [POST]
+Login principal de la aplicación
+
++ Request Ejemplo
+
+    + Headers
+
+        Accept-Charset: utf-8
+        Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
+
+    + Body
+<!-- include(request.json) -->
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Headers
+
+        Accept-Charset: utf-8
+        Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2IiwiaWF0IjoxNTM5OTAzMDY4LCJleHAiOjE1Mzk5MDM2Njg1LCJuYW1lIjoiTHVpcyBHb256YWxleiBTdHJhdFBsdXMiLCJ1c2VybmFtZSI6Imxnb256YWxleiJ9.89D8duaBMvsg5X6e8YsyPrz_N-C9bDhT0vKxGGG0uKOyexGPAqh0QlKJ7YyIefVVeUfcTpqgNX3gAh4IPX207g
+        
+    + Body
+<!-- include(response.json) -->
+
++ Response 400 (application/json)
+    + Relation: 400: Sesión activa
+
+    + Body
+        {
+            "execution": false,
+            "codeStatus": 300,
+            "error": "Active Session",
+            "message": "Ya tienes una sesion activa, cierra sesión o intenta más tarde"
+        }
+
+
++ Response 401 (application/json)
+    + Relation: 401: Bad credentials
+
+    + Body
+        {
+            "execution": false,
+            "codeStatus": 401,
+            "error": "Bad credentials",
+            "message": "username y/o contraseña incorrectos"
+        }    
+
+
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "code": 500,
+                "message": "Internal Server Error"
+            },
+            "result": null
+        }

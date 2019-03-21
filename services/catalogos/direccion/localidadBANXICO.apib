@@ -1,0 +1,20 @@
+## localidadBANXICO [/cat/localidadBANXICO]
+Solo deberá mostrar las localidades de acuerdo al país de domicilio
+capturado, es decir, en la tabla VPM.LOCALIDAD  el campo COD.PAIS 
+debe de ser igual al país de domicilio registrado.
+
+### localidadBANXICO [POST]
+    Obtiene el listado de localidadBANXICOs con el país.
+
++ Request Ejemplo
+    + Attributes 
+        + pais(string) - País a consultar
+
++ Response 200 (application/json)
+<!-- include(localidadBANXICO.json) -->
+
++ Response 200 (application/json)
+<!-- include(../errors/nodata.json) -->
+
++ Response 500 (application/json)
+<!-- include(../errors/500.json) -->

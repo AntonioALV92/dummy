@@ -1,0 +1,835 @@
+{
+    "error":null,
+    "result":[
+       {
+          "id":901121740000010,
+          "description":"ASTRID NAVIL AGUILAR CABALLERO",
+          "area":"ESPECIALISTA PYME SURESTE"
+       },
+       {
+          "id":102011722106012,
+          "description":"ARTURO TOMAS CASTILLO MORALES",
+          "area":"BANCA EMPRESARIAL (MUNDO E)"
+       },
+       {
+          "id":201011722106004,
+          "description":"ALFREDO DE GABRIEL RODRIGUEZ",
+          "area":"EJECCAMINOREAL MTY(BANCEMPRESARIAL)"
+       },
+       {
+          "id":901121740000004,
+          "description":"ARMANDO DE JESUS GARCIA PACHECO",
+          "area":"RED DE SUCURSALES"
+       },
+       {
+          "id":101051722106024,
+          "description":"ACBOR GONZALEZ BARRIOS",
+          "area":"GERENTE B. EMPRESARIAL TECAMACHALCO"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":101051722106016,
+          "description":"ADRIANA MARTINEZ BERMUDEZ",
+          "area":"EJECUTIVO SUC. CORP. TECAMACHALCO"
+       },
+       {
+          "id":901121723111001,
+          "description":"EJECUTIVO DE PROMOCIÓN",
+          "area":"EJECUTIVO DE PROMOCIÓN"
+       },
+       {
+          "id":401031714000001,
+          "description":"ALEJANDRO ORTIZ MALCHER",
+          "area":"DIRECTOR SUC AMERICAS (BANCA PRIVADA)"
+       },
+       {
+          "id":201011752107101,
+          "description":"ANA DOLORES REYES TIBURCIO",
+          "area":"GERENTE CENTRAL CAMBIOS"
+       },
+       {
+          "id":101141712105003,
+          "description":"ANGELICA ROBLES GONZALEZ",
+          "area":"BANCA PRIVADA MASARYK (III)"
+       },
+       {
+          "id":101071722106005,
+          "description":"ALBERTO RODRIGUEZ HUACUZ",
+          "area":"GERENTE BANCA EMPRESARIAL SAN JERONIMO"
+       },
+       {
+          "id":901121740000004,
+          "description":"ARMANDO DE JESUS GARCIA PACHECO",
+          "area":"RED DE SUCURSALES"
+       },
+       {
+          "id":101051762101003,
+          "description":"ABEL RODRIGUEZ VALLES",
+          "area":"EJECUTIVO AGROPECUARIA TECAMACHALCO"
+       },
+       {
+          "id":102041712105004,
+          "description":"ALEJANDRO RUBIO VARGAS",
+          "area":"EJECUTIVO BANCA PRIVADA SATELITE"
+       },
+       {
+          "id":901121723100001,
+          "description":"SUB DIRECCION BANCA EMPRESARIAL",
+          "area":"SUB DIRECCION BANCA EMPRESARIAL"
+       },
+       {
+          "id":901121740000005,
+          "description":"ADRIANA SANCHEZ SANCHEZ",
+          "area":"RED DE SUCURSALES"
+       },
+       {
+          "id":102041712105003,
+          "description":"ALEJANDRO VALENCIA AVILA",
+          "area":"EJECUTIVO BANCA PRIVADA SATELITE"
+       },
+       {
+          "id":102041712105002,
+          "description":"SARA ADRIANA VALERDI SANCHEZ",
+          "area":"EJECUTIVO BANCA PRIVADA SATELITE"
+       },
+       {
+          "id":101051722106019,
+          "description":"AIDA CLAUDIA VARELA MENDOZA",
+          "area":"BANCA EMPRESARIAL (TECAMACHALCO)"
+       },
+       {
+          "id":302021722106003,
+          "description":"ALBA ELVIRA CASTILLO TZAB",
+          "area":"EJECUTIVO SR BANCA EMPRESARIAL"
+       },
+       {
+          "id":102011722106016,
+          "description":"BIANCA ESTELA GONZALEZ SOTO",
+          "area":"BANCA EMPRESARIAL"
+       },
+       {
+          "id":901041762000001,
+          "description":"ANALISTA BANCA AGROPECUARIA",
+          "area":"ANALISTA BANCA AGROPECUARIA"
+       },
+       {
+          "id":901121712000001,
+          "description":"BERNARDO VALADEZ BENITEZ",
+          "area":"DIRECCIÓN BANCA"
+       },
+       {
+          "id":101071722106006,
+          "description":"BEATRIZ ELENA VILLARRUEL GUZMAN",
+          "area":"GERENTE DE PROMOCION SAN JERONIMO"
+       },
+       {
+          "id":301021752107201,
+          "description":"CINDY GISSEL BRECEDA NERI",
+          "area":"EJECUTIVOSR SUC P. JUAREZ (CAMBIOS)"
+       },
+       {
+          "id":101071722106009,
+          "description":"CLAUDIA KAREN CERVANTES TEJEIDA",
+          "area":"EJECUTIVOS SAN JERÓNIMO (BANCA EMPRESARIAL)"
+       },
+       {
+          "id":302011762202002,
+          "description":"CAROLINA GARCÍA PÉREZ",
+          "area":"EJECUTIVO BANCA AGROPECUARIA"
+       },
+       {
+          "id":101051712105002,
+          "description":"CONCEPCION GUERRERO",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":901121720000001,
+          "description":"DIRECCIÓN EMPRESAS 0001",
+          "area":"DIRECCIÓN EMPRESAS"
+       },
+       {
+          "id":101051722106021,
+          "description":"CESIAH HATZIRI MARTINEZ HERNANDEZ",
+          "area":"BANCA EMPRESARIAL (TECAMACHALCO)"
+       },
+       {
+          "id":101031712105009,
+          "description":"CINTLI PEREZ",
+          "area":"EJECUTIVOS CAMINO REAL POLANCO"
+       },
+       {
+          "id":301011722206003,
+          "description":"CARLOS ALBERTO ROBLES GIL EVEREST",
+          "area":"EJECSUCANGPUEBLA(BANCEMPRESARIAL)"
+       },
+       {
+          "id":101051722106029,
+          "description":"CRISTINA RODRIGUEZ MANDUJANO",
+          "area":"EJECUTIVO BANCA EMPRESARIAL"
+       },
+       {
+          "id":201011712105003,
+          "description":"COLBERT SALINAS QUIROGA",
+          "area":"EJECSUCCAMINOREALMTY(BANCAPRIVADA)"
+       },
+       {
+          "id":901121722200001,
+          "description":"BANCA EMPRESARIAL",
+          "area":"BANCA EMPRESARIAL"
+       },
+       {
+          "id":101051722106003,
+          "description":"EJECUTIVOS SUC CORP TECAMACHALCO",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":901121712101002,
+          "description":"CARLOS ANDRES TARIN HERNANDEZ",
+          "area":"EJEC SUC MASARYK (BANCA PRIVADA)"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":101051722106027,
+          "description":"CLAUDIA ADELAIDA AGUILAR SEGOVIA",
+          "area":"BANCA EMPRESARIAL"
+       },
+       {
+          "id":101051722106025,
+          "description":"DENISSE DANAE DÍAZ GUERRERO",
+          "area":"GTE BANCA EMPRE (TECAMACHALCO)"
+       },
+       {
+          "id":301011722206004,
+          "description":"DAMARIZ ESTRADA VIDALIS",
+          "area":"EJECSUCANGPUEBLA(BANCEMPRESARIAL)"
+       },
+       {
+          "id":301031714105005,
+          "description":"DANIEL LINDEMANN STOEHR",
+          "area":"EJECUTIVO BANCA PRIVADA PLAZA LAS ANIMAS"
+       },
+       {
+          "id":101051712105003,
+          "description":"DORIS MAGAÑA",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":101051752107302,
+          "description":"DIANA CECILIA MENDOZA GUEVARA",
+          "area":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":901121721100001,
+          "description":"SUB DIRECCIÓN BANCA EMPRESARIAL",
+          "area":"SUB DIRECCIÓN BANCA EMPRESARIAL"
+       },
+       {
+          "id":401031762101001,
+          "description":"DAVID LEONEL TORRES UREÑA",
+          "area":"GERENTE AMERICAS BCA AGROPECUARIA"
+       },
+       {
+          "id":103031712105002,
+          "description":"DANIEL ANTONIO OLIVER MENDOZA",
+          "area":"EJECUTIVO BANCA PRIVADA Y PATRIMONIAL"
+       },
+       {
+          "id":901121742400002,
+          "description":"SUBDIRECCIÓN REGIONAL",
+          "area":"SUBDIRECCIÓN REGIONAL"
+       },
+       {
+          "id":101051722106004,
+          "description":"EMILIO CUEVAS",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":301011722206002,
+          "description":"ELIAS ABRAHAM HUERTA HERNANDEZ",
+          "area":"EJECSUCANGPUEBLA(BANCEMPRESARIAL)"
+       },
+       {
+          "id":901121711000001,
+          "description":"DIRECCIÓN BANCA",
+          "area":"DIRECCIÓN BANCA"
+       },
+       {
+          "id":302011762102001,
+          "description":"ERNESTO GERARDO LUNA PADRON",
+          "area":"EJECUTIVO MERIDA BCA AGROPECUARIA"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":101051712105006,
+          "description":"ELIAS ANTONIO PADILLA PASAGALI",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":102011722106006,
+          "description":"ELIZABETH PEREDO ROSAS",
+          "area":"EJECUTIVOS MUNDO E (BANCA EMPRESARI"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":201011722106005,
+          "description":"EVA CECILIA SANTOS AVILA",
+          "area":"EJESUCCAMINOREALMTY(BANEMPRESARIAL)"
+       },
+       {
+          "id":401021714105003,
+          "description":"ERIKA TORRES INFANZON",
+          "area":"DIRECTORSUCAJIJIC(BANCAPRIVADA)"
+       },
+       {
+          "id":401031724106001,
+          "description":"EDUARDO PEREZ VELASCO VITAL",
+          "area":"EJECUTIVO AMERICAS BANCA EMPRESARIAL"
+       },
+       {
+          "id":302011762102003,
+          "description":"ENA LUISA HERNANDEZ ORTIZ",
+          "area":"EJECUTIVO MERIDA BCA AGROPECUARIA"
+       },
+       {
+          "id":901041762000001,
+          "description":"ANALISTA BANCA AGROPECUARIA",
+          "area":"ANALISTA BANCA AGROPECUARIA"
+       },
+       {
+          "id":101071722106003,
+          "description":"ARNULFO FERNANDO ARELLANO MIERESS",
+          "area":"SUB DIRECCION BANCA EMPRESARIAL SAN JERONIMO"
+       },
+       {
+          "id":101231712105001,
+          "description":"FIDEL ALEJANDRO GUERRERO PINEDO",
+          "area":"BANCA PRIVADA JARDINES DEL PEDREGAL"
+       },
+       {
+          "id":901121722100001,
+          "description":"SUB DIRECCIÓN BANCA EMPRESARIAL",
+          "area":"SUB DIRECCIÓN BANCA EMPRESARIAL"
+       },
+       {
+          "id":101051712105010,
+          "description":"FLAVIO JOSE MORAN CAMARGO",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":901121711000001,
+          "description":"DIRECCIÓN BANCA",
+          "area":"DIRECCIÓN BANCA"
+       },
+       {
+          "id":401031724106002,
+          "description":"FABIÁN VILLALVAZO FUENTES",
+          "area":"GERENTESUCAMERICAS(BANCA EMPRESARIAL)"
+       },
+       {
+          "id":302021722106005,
+          "description":"GABRIELA ALFONSO UC MADERA",
+          "area":"EJECUTIVO JR BANCA EMPRESARIAL"
+       },
+       {
+          "id":401031724106004,
+          "description":"GUSTAVO ANAYA RODRIGUEZ",
+          "area":"EJECUTSRAMERICAS(BANCA EMPRESARIAL)"
+       },
+       {
+          "id":101071722106002,
+          "description":"GAMALIEL ROSARIO LUNA LOPEZ",
+          "area":"GERENTE BANCA EMPRESARIAL SAN JERONIMO"
+       },
+       {
+          "id":101051752107307,
+          "description":"GIOVANNA ALEJANDRA MONTAÑO ROSAS",
+          "area":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":101051722106013,
+          "description":"GABRIELA MORALES PEREZ",
+          "area":"EJEC. PYME SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":901121740000006,
+          "description":"ESPECIALISTA PYME",
+          "area":"ESPECIALISTA PYME"
+       },
+       {
+          "id":201011722106002,
+          "description":"GABRIEL ALEJANDRO SEPULVEDA DUQUE",
+          "area":"GERENTE CAMINOREAL MTY(BANCEMPRESAR"
+       },
+       {
+          "id":101051722106014,
+          "description":"GISELLE SILES CEDILLO",
+          "area":"BANCA EMPRESAL CORP TECAMACHALCO"
+       },
+       {
+          "id":102011722106008,
+          "description":"GABRIELA RODRIGUEZ CESEÑAS",
+          "area":"BANCA EMPRESARIAL (MUNDO E)"
+       },
+       {
+          "id":302011762302001,
+          "description":"HUMBERTO AGUILAR SANTIS",
+          "area":"GERENTE AGROPECUARIO"
+       },
+       {
+          "id":901121740012002,
+          "description":"EJECUTIVO COMERCIAL CAMBIOS",
+          "area":"EJECUTIVO COMERCIAL CAMBIOS"
+       },
+       {
+          "id":401031762101003,
+          "description":"HOMAR GALVEZ MARTINEZ",
+          "area":"GERENTE BANCA AGROPECUARIA"
+       },
+       {
+          "id":103031724106004,
+          "description":"HECTOR ALFREDO OVIEDO OSORIO",
+          "area":"GERENTE BANCA EMPRESARIAL SUC ANTEA"
+       },
+       {
+          "id":301021752107202,
+          "description":"IDALIA ESPERANZA AMARO CERVANTES",
+          "area":"EJECUTIVOSR SUC P. JUAREZ (CAMBIOS)"
+       },
+       {
+          "id":301021752107203,
+          "description":"ISMAEL YASSER GALLARDO BARRERA",
+          "area":"EJECUTIVO SR PUEBLA JUAREZ(CAMBIOS)"
+       },
+       {
+          "id":302021722106002,
+          "description":"JAIME HUMBERTO BARRERA LIZAMA",
+          "area":"EJECUTIVO SR BANCA EMPRESARIAL"
+       },
+       {
+          "id":401031752107201,
+          "description":"JOSE ALEJANDRO BARRIOS ORDOÑEZ",
+          "area":"EJECUTIVO SUC AMERICAS BANCACAMBIOS"
+       },
+       {
+          "id":401041714105007,
+          "description":"JUAN RAMON DE ANDA GUTIERREZ",
+          "area":"SUBDIRECTOR BANCA PRIVADA"
+       },
+       {
+          "id":401021714105001,
+          "description":"JUAN RAFAEL DURAN PANTOJA",
+          "area":"EJECUTIVOS SUC AJIJIC (BANCA PRIVADA)"
+       },
+       {
+          "id":103031762101001,
+          "description":"JOSE ELIAS ESTRADA LOPEZ",
+          "area":"GERENTE BANCA AGROPECUARIA"
+       },
+       {
+          "id":101051762101001,
+          "description":"JOSE GUADALUPE GALLO PADILLA",
+          "area":"GERENTE BCA AGROPECUARIA TECAMACHAL"
+       },
+       {
+          "id":101051712105012,
+          "description":"JOAQUIN GARCIA MARGAIN",
+          "area":"EJECUTIVOSSUCCORPTECA(BCAPRIVADA)"
+       },
+       {
+          "id":201011762201003,
+          "description":"JOSE ALFREDO HERNANDEZ CHACON",
+          "area":"GERENTE BCA AGROPECUARIA CHIHUAHUA"
+       },
+       {
+          "id":101051722106009,
+          "description":"JORGE FRANCISCO IBARRA GONZALEZ",
+          "area":"EJECUTSUCCORPTECA(BANCAEMPRESARIAL)"
+       },
+       {
+          "id":401031714105003,
+          "description":"JORGE ALBERTO DE JESUS CEBALLOS GALLEGOS",
+          "area":"EJECUTIVO PROMOCION BANCA PRIV"
+       },
+       {
+          "id":201011762201001,
+          "description":"JULIO CESAR LUJAN JAQUEZ",
+          "area":"GERENTE BCA AGROPECUARIA CHIHUAHUA"
+       },
+       {
+          "id":101071722106008,
+          "description":"JUAN CARLOS MACARY NAVARRETE",
+          "area":"GERENTE BANCA EMPRESARIAL SAN JERONIMO"
+       },
+       {
+          "id":101231712105004,
+          "description":"JAVIER MENDEZ MARIMON",
+          "area":"EJECUTIVO SR. BPP JARDINES DEL PEDREGAL"
+       },
+       {
+          "id":401031762100001,
+          "description":"JORGE MIGUEL ORDAZ",
+          "area":"SUB DIRECTOR AMERICAS BCA AGROPECUA"
+       },
+       {
+          "id":401031762102001,
+          "description":"JOSE TOMAS OROZCO",
+          "area":"ESP REDESCUENTOS AME BCA AGRO"
+       },
+       {
+          "id":301011722206001,
+          "description":"JOSE DANIEL RENDON LOPEZ",
+          "area":"EJECSUCANGPUEBLA(BANCEMPRESARIAL)"
+       },
+       {
+          "id":401051714105001,
+          "description":"JOSE LUIS REVILLA OLAVARRIETA",
+          "area":"DIRECTOR BANCA PRIVADA AGUASCALIEN"
+       },
+       {
+          "id":201011762101001,
+          "description":"JUAN FRANCISCO RUIZ ALVAREZ",
+          "area":"GERENTE BANCA AGROPECUARIA"
+       },
+       {
+          "id":101051752107301,
+          "description":"LOURDES LILIAN ALVARADO ARRIAGA",
+          "area":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":302011752107301,
+          "description":"LEIDY ARACELLY EK AVILA",
+          "area":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":102011722106017,
+          "description":"LUIS MANUEL GONZALEZ TORRES",
+          "area":"GERENTE DE BANCA EMPRESARIAL"
+       },
+       {
+          "id":101051712105001,
+          "description":"LORENZO OSORIO GOMEZ",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":401031714105001,
+          "description":"LUCIA SANDOVAL JIMENEZ",
+          "area":"EJECUTIVO PROMOCION BANCA PRIV"
+       },
+       {
+          "id":302011752107401,
+          "description":"LILIA MARIA XOOL CHACON",
+          "area":"ADMINISTRATIVO SUC MERIDA MONTEJO (BANCACAMBIOS)"
+       },
+       {
+          "id":301041742209001,
+          "description":"MARCO ANTONIO ARROYO GARCIA",
+          "area":"EJEC SR SUC CHOLULA"
+       },
+       {
+          "id":302021722106001,
+          "description":"MARTHA PAOLA BARSSE GONZALEZ",
+          "area":"SUB DIRECTOR BANCA EMPRESARIAL"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":101051762100001,
+          "description":"MOISES DE JESUS BUENDIA SUAREZ",
+          "area":"SUBDIRECTOR BCA AGROPECUARIA CENTRO"
+       },
+       {
+          "id":901041762000002,
+          "description":"ANALISTA BANCA AGROPECUARIA MONTERREY",
+          "area":"ANALISTA BANCA AGROPECUARIA MONTERREY"
+       },
+       {
+          "id":901041762000001,
+          "description":"ANALISTA BANCA AGROPECUARIA",
+          "area":"ANALISTA BANCA AGROPECUARIA"
+       },
+       {
+          "id":101141712105006,
+          "description":"MIGUEL FARID DERGAL ABRAHAM",
+          "area":"BANCA PRIVADA MASARYK"
+       },
+       {
+          "id":101141712105005,
+          "description":"MARCELA FARIAS PEDRAZA",
+          "area":"BANCA PRIVADA MASARYK"
+       },
+       {
+          "id":101051722106031,
+          "description":"MARCELO GARCIA RENDON",
+          "area":"EJECUTIVO CORP TECAMACHALCO"
+       },
+       {
+          "id":401041762101001,
+          "description":"MARTIN GUTIERREZ CAMPOS",
+          "area":"GERENCIA DE AGROPECUARIO"
+       },
+       {
+          "id":103031712105001,
+          "description":"MARIO GERARDO HERNANDEZ PEREZ",
+          "area":"SUBDIRECTOR DE BANCA PRIVADA Y PATRIMONIAL"
+       },
+       {
+          "id":401031762201003,
+          "description":"MARIA DEL MAR MARIN CID",
+          "area":"EJECUTIVO SR CULIACAN SINALOA BCA AGROPECUARIA"
+       },
+       {
+          "id":401031762101002,
+          "description":"MIGUEL ANGEL MARISCAL NAVARRO",
+          "area":"GERENTE BANCA AGROPECUARIA"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":901121740000006,
+          "description":"ESPECIALISTA PYME",
+          "area":"ESPECIALISTA PYME"
+       },
+       {
+          "id":401051752107302,
+          "description":"MARGARITA SANCHEZ SORIA",
+          "area":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":302011752107101,
+          "description":"MONICA DE LA SERNA CRUZ",
+          "area":"GERENTE CENTRAL CAMBIOS"
+       },
+       {
+          "id":302021714105003,
+          "description":"MARTIN HERMILO YEPEZ PEÑA",
+          "area":"EJECUTIVOJR SUC CITY CENTER MERIDA (BANCAPRIVADA)"
+       },
+       {
+          "id":901121711000001,
+          "description":"DIRECCIÓN BANCA",
+          "area":"DIRECCIÓN BANCA"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":101051772108006,
+          "description":"NOEMI SOFIA ITZEL AMADOR MENESES",
+          "area":"GERENTE ADMINISTRATIVO DE BANCA DE GOB"
+       },
+       {
+          "id":102041712105001,
+          "description":"MARIA NOHEMI SANCHEZ OLGUIN",
+          "area":"EJECUTIVO BANCA PRIVADA SATELITE"
+       },
+       {
+          "id":401041714105002,
+          "description":"OSBALDO CARMONA CASTAÑEDA",
+          "area":"EJECUTIVO PROMOCION BANCA PRIV"
+       },
+       {
+          "id":302021722106004,
+          "description":"OSWALDO GUZMAN GONZALEZ",
+          "area":"EJECUTIVO SR BANCA EMPRESARIAL"
+       },
+       {
+          "id":401041714105004,
+          "description":"OSCAR HERNANDEZ ISLAS",
+          "area":"GERENTE SUC LEON (BANCA PRIVADA)"
+       },
+       {
+          "id":401031714105002,
+          "description":"OSCAR ARMANDO LARIOS HERNANDEZ",
+          "area":"EJECUTIVO PROMOCION BANCA PRIV"
+       },
+       {
+          "id":103031724106002,
+          "description":"OMAR ALEJANDRO RUIZ AVILA",
+          "area":"EJECUTIVO SR BANCA EMPRESARIAL ANTEA QRO"
+       },
+       {
+          "id":101051762101002,
+          "description":"OSEIR JAVIER SOTO CID",
+          "area":"EJECUTIVO AGROPECUARIA TECAMACHALCO"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":401031714105004,
+          "description":"OSCAR ALEJANDRO VELASCO RODRIGUEZ",
+          "area":"EJECUTIVO SR BCA PRIVADA"
+       },
+       {
+          "id":101051772108002,
+          "description":"PABLO ANTONIO AMAYA GALLARDO",
+          "area":"DIRECTOR BANCA DE GOBIERNO"
+       },
+       {
+          "id":101231712100001,
+          "description":"ROBERTO ARTURO ARGUELLES CARDENAS",
+          "area":"DIRECTOR ANGELES PEDREGAL (BANCA PRIVADA)"
+       },
+       {
+          "id":901121723111001,
+          "description":"EJECUTIVO DE PROMOCIÓN",
+          "area":"EJECUTIVO DE PROMOCIÓN"
+       },
+       {
+          "id":101051722106014,
+          "description":"GISELLE SILES CEDILLO",
+          "area":"BANCA EMPRESAL CORP TECAMACHALCO"
+       },
+       {
+          "id":101051712105004,
+          "description":"RODRIGO DIAZ MIER",
+          "area":"EJECUTIVOS SUC CORP TECAMACHALCO"
+       },
+       {
+          "id":102011722106010,
+          "description":"ROBERTO DUCOING LOPEZ",
+          "area":"BANCA EMPRESARIAL (MUNDO E)"
+       },
+       {
+          "id":901121762101001,
+          "description":"EJECUTIVO SR DE BANCA AGROPECUARIA",
+          "area":"EJECUTIVO SR DE BANCA AGROPECUARIA"
+       },
+       {
+          "id":101051722106020,
+          "description":"REBECA JAYME TORRES",
+          "area":"BANCA EMPRESARIAL (TECAMACHALCO)"
+       },
+       {
+          "id":401051714105003,
+          "description":"RUBEN JIMENEZ VELAZQUEZ",
+          "area":"BANCA PRIVADA AGUASCALIENTES"
+       },
+       {
+          "id":201011752107301,
+          "description":"ROSELENA LOZANO LEDEZMA",
+          "area":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":101141712105002,
+          "description":"RAUL NIETO ZETTER",
+          "area":"BANCA PRIVADA MASARYK (III)"
+       },
+       {
+          "id":901121722110005,
+          "description":"RAFAEL HERLINDO PEREZ VITE",
+          "area":"SUB DIRECCION BANCA EMPRESARIAL"
+       },
+       {
+          "id":401021714105004,
+          "description":"RICARDO RAZO NAVARRO",
+          "area":"EJECUTIVOSSUCAJIJICBANCAPRIVADA)"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":901121722100001,
+          "description":"SUB DIRECCIÓN BANCA EMPRESARIAL",
+          "area":"SUB DIRECCIÓN BANCA EMPRESARIAL"
+       },
+       {
+          "id":201011752107304,
+          "description":"SERGIO ARZOLA DEL TORO",
+          "area":"CENTRAL CAMBIOS"
+       },
+       {
+          "id":401081714101001,
+          "description":"SUSANA CORREA MARQUINA",
+          "area":"GERENTE BANCA PATRIMONIAL Y PRIVADA"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":101051722106022,
+          "description":"SANDRA FERNANDEZ ARANZA",
+          "area":"BANCA EMPRESARIAL (TECAMACHALCO)"
+       },
+       {
+          "id":901041762000001,
+          "description":"ANALISTA BANCA AGROPECUARIA",
+          "area":"ANALISTA BANCA AGROPECUARIA"
+       },
+       {
+          "id":901121720000001,
+          "description":"DIRECCIÓN EMPRESAS 0001",
+          "area":"DIRECCIÓN EMPRESAS"
+       },
+       {
+          "id":401031762300001,
+          "description":"VICTOR MANUEL BARRAGAN QUINTERO",
+          "area":"SUBDIRECTOR AGRO MORELIA"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":201011722106003,
+          "description":"YAMILLETH DEL CARMEN CALDERA USCANGA",
+          "area":"EJECCAMINOREAL MTY(BANCEMPRESARIAL) 6003"
+       },
+       {
+          "id":901121700000001,
+          "description":"DIRECCIÓN GENERAL ADJUNTA",
+          "area":"DIRECCIÓN GENERAL ADJUNTA"
+       },
+       {
+          "id":301041762201002,
+          "description":"YANNET OLMOS RAMIREZ",
+          "area":"EJECUTIVO SR BANCA AGROPECUARIA CHOLULA"
+       },
+       {
+          "id":201011752107302,
+          "description":"YESSICA ALEJANDRA POLINA SALAS",
+          "area":"CENTRAL CAMBIOS"
+       }
+    ]
+ }

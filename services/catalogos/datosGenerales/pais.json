@@ -1,0 +1,70 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": "AD",
+            "description": "Andorra",
+            "phoneCode": 376
+        },
+        {
+            "id": "AE",
+            "description": "United Arab Emirates",
+            "phoneCode": 971
+        },
+        {
+            "id": "AF",
+            "description": "Afghanistan",
+            "phoneCode": 93
+        },
+        {
+            "id": "AG",
+            "description": "Antigua And Barbuda",
+            "phoneCode": 1
+        },
+        {
+            "id": "MT",
+            "description": "Malta",
+            "phoneCode": 256
+        },
+        {
+            "id": "MU",
+            "description": "Mauritius",
+            "phoneCode": 212
+        },
+        {
+            "id": "MV",
+            "description": "Maldives",
+            "phoneCode": 260
+        },
+        {
+            "id": "MW",
+            "description": "Malawi",
+            "phoneCode": 265
+        },
+        {
+            "id": "MX",
+            "description": "Mexico",
+            "phoneCode": 52
+        },
+        {
+            "id": "MY",
+            "description": "Malaysia",
+            "phoneCode": 60
+        },
+        {
+            "id": "MZ",
+            "description": "Mozambique",
+            "phoneCode": 258
+        },
+        {
+            "id": "NA",
+            "description": "Namibia",
+            "phoneCode": 264
+        },
+        {
+            "id": "NE",
+            "description": "Niger",
+            "phoneCode": 227
+        }
+    ]
+}

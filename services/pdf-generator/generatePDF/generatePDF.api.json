@@ -1,0 +1,27 @@
+{
+    "title": "Generar Pdf",
+    "endpoint": "/generatePDF",
+    "method": "POST",
+    "responses": [
+        {
+            "status": "200",
+            "label": "200",
+            "bodyFileAttached": "file.pdf"
+        },
+        {
+            "status": "500",
+            "label": "500: Internal Server Error",
+            "headers": {
+              "Content-Type": "application/json"
+            },
+            "body": {
+              "error": {
+                "code": 500,
+                "message": "Error fatal"
+              },
+              "result": null
+            }
+          }
+          
+    ]
+}

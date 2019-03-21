@@ -1,0 +1,31 @@
+{
+    "title": "Catálogo de sucursales",
+    "endpoint": "/cat/sucursal",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "sucursal.json"
+      },
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "../errors/nodata.json"
+      },
+      {
+        "status": "500",
+        "label": "500",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "../errors/500.json"
+      }
+    ]
+  }

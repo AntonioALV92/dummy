@@ -1,0 +1,18 @@
+## Actividad Económica Banxico [/cat/actividadBanxico]
+
+### actividadBanxico [POST]
+    Obtiene el listado de actividades económicas Banxico
+
++ Request Ejemplo
+    + Attributes 
+        + idSector(number) - Id del sector, obtenido de /cat/giroSector
+        + idIndustry(number) - Id de la industria, obtenido de /cat/giroIndustry
+
++ Response 200 (application/json)
+<!-- include(actividadBanxico.json) -->
+
++ Response 200 (application/json)
+<!-- include(../errors/nodata.json) -->
+
++ Response 500 (application/json)
+<!-- include(../errors/500.json) -->

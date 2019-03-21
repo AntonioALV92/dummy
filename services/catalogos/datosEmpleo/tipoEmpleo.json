@@ -1,0 +1,61 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": 1,
+            "description": "Comerciante Formal"
+        },
+        {
+            "id": 2,
+            "description": "Comisionista"
+        },
+        {
+            "id": 3,
+            "description": "Desempleado"
+        },
+        {
+            "id": 4,
+            "description": "Empleado Privado"
+        },
+        {
+            "id": 5,
+            "description": "Empleado Público"
+        },
+        {
+            "id": 6,
+            "description": "Independiente"
+        },
+        {
+            "id": 7,
+            "description": "Jubilado/Pensionado"
+        },
+        {
+            "id": 8,
+            "description": "OTROS"
+        },
+        {
+            "id": 9,
+            "description": "Propietario de Negocio"
+        },
+        {
+            "id": 10,
+            "description": "Comercio Informal"
+        },
+        {
+            "id": 11,
+            "description": "Persona Física No Lucrativa (Ama de Casa, Estudiante, Religiosa, etc.)"
+        },
+        {
+            "id": 12,
+            "description": "Profesionista Independiente"
+        },
+        {
+            "id": 13,
+            "description": "Persona Moral sin Fines de Lucro (Asociaciones Civiles, Religiosa, Beneficencia)"
+        },
+        {
+            "id": 14,
+            "description": "Persona Moral con Fines de Lucro"
+        }
+    ]
+}

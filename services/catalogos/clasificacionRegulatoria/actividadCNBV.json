@@ -1,0 +1,2533 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": 32616,
+            "description": "Fabricación de botellas de plástico"
+        },
+        {
+            "id": 31182,
+            "description": "Elaboración de galletas y pastas para sopa"
+        },
+        {
+            "id": 48799,
+            "description": "Otro transporte turístico"
+        },
+        {
+            "id": 52251,
+            "description": "Servicios relacionados con la intermediación crediticia"
+        },
+        {
+            "id": 52411,
+            "description": "Compañías especializadas en seguros de vida"
+        },
+        {
+            "id": 54192,
+            "description": "Servicios de fotografía"
+        },
+        {
+            "id": 51741,
+            "description": "Servicios de satélites"
+        },
+        {
+            "id": 54185,
+            "description": "Agencias de anuncios publicitarios"
+        },
+        {
+            "id": 31324,
+            "description": "Fabricación de telas de punto"
+        },
+        {
+            "id": 32411,
+            "description": "Refinación de petróleo"
+        },
+        {
+            "id": 48532,
+            "description": "Servicio de limusinas"
+        },
+        {
+            "id": 31191,
+            "description": "Elaboración de botanas"
+        },
+        {
+            "id": 53212,
+            "description": "Alquiler de camiones de carga, autobuses y remolques sin chofer"
+        },
+        {
+            "id": 62121,
+            "description": "Consultorios dentales"
+        },
+        {
+            "id": 31161,
+            "description": "Matanza, empacado y procesamiento de carne de ganado y aves"
+        },
+        {
+            "id": 48531,
+            "description": "Servicio de taxis"
+        },
+        {
+            "id": 43511,
+            "description": "Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca"
+        },
+        {
+            "id": 46521,
+            "description": "Comercio al por menor de artículos para el esparcimiento"
+        },
+        {
+            "id": 33632,
+            "description": "Fabricación de equipo eléctrico y electrónico para vehículos automotores"
+        },
+        {
+            "id": 49319,
+            "description": "Otros servicios de almacenamiento con instalaciones especializadas"
+        },
+        {
+            "id": 48111,
+            "description": "Transporte aéreo regular"
+        },
+        {
+            "id": 56149,
+            "description": "Otros servicios de apoyo secretarial y similares"
+        },
+        {
+            "id": 11292,
+            "description": "Explotación de équidos"
+        },
+        {
+            "id": 33639,
+            "description": "Fabricación de otras partes para vehículos automotrices"
+        },
+        {
+            "id": 31142,
+            "description": "Conservación de frutas, verduras y guisos por procesos distintos a la congelación"
+        },
+        {
+            "id": 43112,
+            "description": "Comercio al por mayor de carnes"
+        },
+        {
+            "id": 51911,
+            "description": "Agencias noticiosas"
+        },
+        {
+            "id": 71394,
+            "description": "Clubes deportivos, balnearios y centros de acondicionamiento físico"
+        },
+        {
+            "id": 43611,
+            "description": "Comercio al por mayor de camiones"
+        },
+        {
+            "id": 61171,
+            "description": "Servicios de apoyo a la educación"
+        },
+        {
+            "id": 33211,
+            "description": "Fabricación de productos metálicos forjados y troquelados"
+        },
+        {
+            "id": 81131,
+            "description": "Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios"
+        },
+        {
+            "id": 52239,
+            "description": "Otras instituciones de ahorro y préstamo"
+        },
+        {
+            "id": 81321,
+            "description": "Asociaciones y organizaciones religiosas"
+        },
+        {
+            "id": 49312,
+            "description": "Almacenamiento con refrigeración"
+        },
+        {
+            "id": 51111,
+            "description": "Edición de periódicos, excepto a través de Internet"
+        },
+        {
+            "id": 32731,
+            "description": "Fabricación de cemento para la construcción"
+        },
+        {
+            "id": 33431,
+            "description": "Fabricación de equipo de audio y de video"
+        },
+        {
+            "id": 56141,
+            "description": "Servicios de preparación de documentos"
+        },
+        {
+            "id": 54149,
+            "description": "Diseño de modas y otros diseños especializados"
+        },
+        {
+            "id": 71399,
+            "description": "Otros servicios recreativos"
+        },
+        {
+            "id": 11115,
+            "description": "Cultivo de maíz"
+        },
+        {
+            "id": 43115,
+            "description": "Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos"
+        },
+        {
+            "id": 23622,
+            "description": "Edificación de inmuebles comerciales, institucionales y de servicios"
+        },
+        {
+            "id": 32191,
+            "description": "Fabricación de productos de madera para la construcción"
+        },
+        {
+            "id": 32419,
+            "description": "Fabricación de otros productos derivados del petróleo y del carbón"
+        },
+        {
+            "id": 54193,
+            "description": "Servicios de traducción e interpretación"
+        },
+        {
+            "id": 81112,
+            "description": "Hojalatería, tapicería y otras reparaciones a la carrocería de automóviles y camiones"
+        },
+        {
+            "id": 52422,
+            "description": "Administración de cajas de pensión y de seguros independientes"
+        },
+        {
+            "id": 11113,
+            "description": "Cultivo de legumbres"
+        },
+        {
+            "id": 48699,
+            "description": "Transporte por ductos de otros productos, excepto de productos refinados del petróleo"
+        },
+        {
+            "id": 21232,
+            "description": "Minería de arena, grava, arcilla y otros minerales refractarios"
+        },
+        {
+            "id": 32615,
+            "description": "Fabricación de espumas y productos de uretano"
+        },
+        {
+            "id": 56159,
+            "description": "Otros servicios de reservaciones"
+        },
+        {
+            "id": 56179,
+            "description": "Otros servicios de limpieza"
+        },
+        {
+            "id": 33994,
+            "description": "Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficina"
+        },
+        {
+            "id": 48421,
+            "description": "Servicio de mudanzas"
+        },
+        {
+            "id": 48833,
+            "description": "Servicios para la navegación por agua"
+        },
+        {
+            "id": 32629,
+            "description": "Fabricación de otros productos de hule"
+        },
+        {
+            "id": 81299,
+            "description": "Otros servicios personales"
+        },
+        {
+            "id": 11213,
+            "description": "Explotación de bovinos sin especialización"
+        },
+        {
+            "id": 52241,
+            "description": "Arrendadoras financieras"
+        },
+        {
+            "id": 51121,
+            "description": "Edición de software, excepto a través de Internet"
+        },
+        {
+            "id": 62111,
+            "description": "Consultorios médicos"
+        },
+        {
+            "id": 46531,
+            "description": "Comercio al por menor de artículos de papelería, libros y periódicos"
+        },
+        {
+            "id": 32739,
+            "description": "Fabricación de otros productos de cemento y concreto"
+        },
+        {
+            "id": 31522,
+            "description": "Confección de ropa de materiales textiles"
+        },
+        {
+            "id": 54182,
+            "description": "Agencias de relaciones públicas"
+        },
+        {
+            "id": 54119,
+            "description": "Servicios de apoyo para efectuar trámites legales"
+        },
+        {
+            "id": 22211,
+            "description": "Captación, tratamiento y suministro de agua"
+        },
+        {
+            "id": 52242,
+            "description": "Compañías de factoraje financiero"
+        },
+        {
+            "id": 33651,
+            "description": "Fabricación de equipo ferroviario"
+        },
+        {
+            "id": 43116,
+            "description": "Comercio al por mayor de leche y otros productos lácteos"
+        },
+        {
+            "id": 61162,
+            "description": "Escuelas de deporte"
+        },
+        {
+            "id": 54172,
+            "description": "Servicios de investigación y desarrollo en ciencias sociales y humanidades"
+        },
+        {
+            "id": 46842,
+            "description": "Comercio al por menor de aceites y grasas lubricantes, aditivos y similares"
+        },
+        {
+            "id": 53242,
+            "description": "Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficina"
+        },
+        {
+            "id": 56133,
+            "description": "Suministro de personal permanente"
+        },
+        {
+            "id": 31213,
+            "description": "Elaboración de bebidas alcohólicas a base de uva y bebidas fermentadas, excepto cerveza"
+        },
+        {
+            "id": 48721,
+            "description": "Transporte turístico por agua"
+        },
+        {
+            "id": 71112,
+            "description": "Compañías de danza"
+        },
+        {
+            "id": 55111,
+            "description": "Dirección de corporativos y empresas"
+        },
+        {
+            "id": 48211,
+            "description": "Transporte por ferrocarril"
+        },
+        {
+            "id": 46331,
+            "description": "Comercio al por menor de calzado"
+        },
+        {
+            "id": 11531,
+            "description": "Servicios relacionados con el aprovechamiento forestal"
+        },
+        {
+            "id": 81291,
+            "description": "Servicios de revelado de fotografías"
+        },
+        {
+            "id": 33631,
+            "description": "Fabricación de motores de gasolina y sus partes para vehículos automotrices"
+        },
+        {
+            "id": 21231,
+            "description": "Minería de piedra caliza, mármol y otras piedras dimensionadas"
+        },
+        {
+            "id": 48711,
+            "description": "Transporte turístico por tierra"
+        },
+        {
+            "id": 71131,
+            "description": "Promotores con instalaciones para la presentación de espectáculos artísticos, deportivos y similares"
+        },
+        {
+            "id": 48411,
+            "description": "Autotransporte local de carga general"
+        },
+        {
+            "id": 48621,
+            "description": "Transporte de gas natural por ductos"
+        },
+        {
+            "id": 54133,
+            "description": "Servicios de ingeniería"
+        },
+        {
+            "id": 11211,
+            "description": "Explotación de bovinos para carne"
+        },
+        {
+            "id": 33231,
+            "description": "Fabricación de estructuras metálicas"
+        },
+        {
+            "id": 51119,
+            "description": "Edición de otros materiales, excepto a través de Internet"
+        },
+        {
+            "id": 51711,
+            "description": "Telefonía tradicional, telegrafía y otras telecomunicaciones alámbricas"
+        },
+        {
+            "id": 51811,
+            "description": "Proveedores de acceso a Internet y servicios de búsqueda en la red"
+        },
+        {
+            "id": 46211,
+            "description": "Comercio al por menor en tiendas de autoservicio"
+        },
+        {
+            "id": 48841,
+            "description": "Remolque de vehículos de motor"
+        },
+        {
+            "id": 11232,
+            "description": "Explotación de pollos para carne"
+        },
+        {
+            "id": 33991,
+            "description": "Metalistería y joyería"
+        },
+        {
+            "id": 52413,
+            "description": "Fondos de aseguramiento campesino"
+        },
+        {
+            "id": 31511,
+            "description": "Tejido de calcetines y medias"
+        },
+        {
+            "id": 33152,
+            "description": "Moldeo por fundición de piezas metálicas no ferrosas"
+        },
+        {
+            "id": 33141,
+            "description": "Refinación de cobre y de otros metales no ferrosos"
+        },
+        {
+            "id": 52221,
+            "description": "Banca de desarrollo"
+        },
+        {
+            "id": 33636,
+            "description": "Fabricación de asientos para vehículos automotores"
+        },
+        {
+            "id": 54184,
+            "description": "Agencias de representación de medios"
+        },
+        {
+            "id": 11234,
+            "description": "Producción de aves de corral en incubadora"
+        },
+        {
+            "id": 11141,
+            "description": "Cultivo de productos alimenticios en invernaderos"
+        },
+        {
+            "id": 33351,
+            "description": "Fabricación de maquinaria y equipo para la industria metalmecánica"
+        },
+        {
+            "id": 51721,
+            "description": "Telefonía celular y otras telecomunicaciones inalámbricas, excepto los servicios de satélites"
+        },
+        {
+            "id": 54186,
+            "description": "Agencias de publicidad que operan por correo directo"
+        },
+        {
+            "id": 23811,
+            "description": "Trabajos de cimentaciones"
+        },
+        {
+            "id": 43331,
+            "description": "Comercio al por mayor de discos, juguetes y artículos deportivos"
+        },
+        {
+            "id": 48422,
+            "description": "Autotransporte local de carga especializado, excepto mudanzas"
+        },
+        {
+            "id": 32599,
+            "description": "Fabricación de otros productos químicos"
+        },
+        {
+            "id": 53241,
+            "description": "Alquiler de maquinaria y equipo para construcción, minería, actividades forestales y transporte, excepto terrestre"
+        },
+        {
+            "id": 32192,
+            "description": "Fabricación de productos para embalaje y envases de madera"
+        },
+        {
+            "id": 11293,
+            "description": "Cunicultura y explotación de animales de piel con pelaje fino"
+        },
+        {
+            "id": 23721,
+            "description": "División de terrenos y construcción de obras de urbanización"
+        },
+        {
+            "id": 33392,
+            "description": "Fabricación de maquinaria y equipo para levantar y trasladar"
+        },
+        {
+            "id": 62221,
+            "description": "Hospitales psiquiátricos y para el tratamiento por abuso de substancias"
+        },
+        {
+            "id": 93163,
+            "description": "Actividades administrativas municipales de instituciones de bienestar social"
+        },
+        {
+            "id": 52245,
+            "description": "Montepíos"
+        },
+        {
+            "id": 62399,
+            "description": "Orfanatos y otras residencias de asistencia social"
+        },
+        {
+            "id": 81241,
+            "description": "Estacionamientos y pensiones para automóviles"
+        },
+        {
+            "id": 33621,
+            "description": "Fabricación de carrocerías y remolques"
+        },
+        {
+            "id": 46221,
+            "description": "Comercio al por menor en tiendas departamentales"
+        },
+        {
+            "id": 61113,
+            "description": "Escuelas de educación secundaria general"
+        },
+        {
+            "id": 11251,
+            "description": "Acuicultura animal"
+        },
+        {
+            "id": 56131,
+            "description": "Agencias de colocación"
+        },
+        {
+            "id": 23829,
+            "description": "Otras instalaciones y equipamiento en construcciones"
+        },
+        {
+            "id": 33251,
+            "description": "Fabricación de herrajes y cerraduras"
+        },
+        {
+            "id": 11194,
+            "description": "Cultivo de alfalfa y pastos"
+        },
+        {
+            "id": 56192,
+            "description": "Organizadores de convenciones y ferias comerciales e industriales"
+        },
+        {
+            "id": 31194,
+            "description": "Elaboración de condimentos y aderezos"
+        },
+        {
+            "id": 72121,
+            "description": "Campamentos y albergues recreativos"
+        },
+        {
+            "id": 43411,
+            "description": "Comercio al por mayor de materias primas agropecuaria"
+        },
+        {
+            "id": 31411,
+            "description": "Tejido y confección de alfombras y tapetes"
+        },
+        {
+            "id": 62131,
+            "description": "Consultorios de quiropráctica"
+        },
+        {
+            "id": 33995,
+            "description": "Fabricación de anuncios"
+        },
+        {
+            "id": 31183,
+            "description": "Elaboración de tortillas de maíz y molienda de nixtamal"
+        },
+        {
+            "id": 81312,
+            "description": "Asociaciones y organizaciones laborales y sindicales"
+        },
+        {
+            "id": 11114,
+            "description": "Cultivo de trigo"
+        },
+        {
+            "id": 33592,
+            "description": "Fabricación de cables de conducción eléctrica"
+        },
+        {
+            "id": 61163,
+            "description": "Escuelas de idiomas"
+        },
+        {
+            "id": 62411,
+            "description": "Servicios de orientación y trabajo social para la niñez y la juventud"
+        },
+        {
+            "id": 52312,
+            "description": "Casas de cambio y centros cambiarios"
+        },
+        {
+            "id": 43431,
+            "description": "Comercio al por mayor de materiales de desecho"
+        },
+        {
+            "id": 33999,
+            "description": "Otras industrias manufactureras"
+        },
+        {
+            "id": 93111,
+            "description": "Órganos legislativos"
+        },
+        {
+            "id": 33142,
+            "description": "Laminación secundaria de cobre"
+        },
+        {
+            "id": 81111,
+            "description": "Reparación mecánica y eléctrica de automóviles y camiones"
+        },
+        {
+            "id": 31212,
+            "description": "Elaboración de cerveza"
+        },
+        {
+            "id": 56121,
+            "description": "Servicios combinados de apoyo en instalaciones"
+        },
+        {
+            "id": 81121,
+            "description": "Reparación y mantenimiento de equipo electrónico y de equipo de precisión"
+        },
+        {
+            "id": 48611,
+            "description": "Transporte de petróleo crudo por ductos"
+        },
+        {
+            "id": 46321,
+            "description": "Comercio al por menor de ropa y accesorios de vestir"
+        },
+        {
+            "id": 71312,
+            "description": "Casas de juegos electrónicos"
+        },
+        {
+            "id": 52412,
+            "description": "Compañías de seguros no especializadas en seguros de vida"
+        },
+        {
+            "id": 46511,
+            "description": "Comercio al por menor de artículos de perfumería y joyería"
+        },
+        {
+            "id": 43351,
+            "description": "Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca"
+        },
+        {
+            "id": 54187,
+            "description": "Distribución de material publicitario"
+        },
+        {
+            "id": 61169,
+            "description": "Otros servicios educativos"
+        },
+        {
+            "id": 71219,
+            "description": "Grutas, parques naturales y otros sitios del patrimonio nacional"
+        },
+        {
+            "id": 31141,
+            "description": "Congelación de frutas, verduras y guisos"
+        },
+        {
+            "id": 33111,
+            "description": "Industria básica del hierro y del acero"
+        },
+        {
+            "id": 61131,
+            "description": "Escuelas de educación superior"
+        },
+        {
+            "id": 11192,
+            "description": "Cultivo de algodón"
+        },
+        {
+            "id": 33261,
+            "description": "Fabricación de alambre, productos de alambre y resortes"
+        },
+        {
+            "id": 53222,
+            "description": "Alquiler de ropa"
+        },
+        {
+            "id": 23711,
+            "description": "Construcción de obras para el tratamiento, distribución y suministro de agua, drenaje y riego"
+        },
+        {
+            "id": 11321,
+            "description": "Viveros forestales y recolección de productos forestales"
+        },
+        {
+            "id": 31133,
+            "description": "Elaboración de productos de chocolate a partir de chocolate"
+        },
+        {
+            "id": 62191,
+            "description": "Servicios de ambulancias"
+        },
+        {
+            "id": 32522,
+            "description": "Fabricación de fibras químicas"
+        },
+        {
+            "id": 32591,
+            "description": "Fabricación de tintas para impresión"
+        },
+        {
+            "id": 33911,
+            "description": "Fabricación de equipo y material para uso médico, dental y para laboratorio"
+        },
+        {
+            "id": 48839,
+            "description": "Otros servicios relacionados con el transporte por agua"
+        },
+        {
+            "id": 53221,
+            "description": "Alquiler de aparatos eléctricos y electrónicos para el hogar"
+        },
+        {
+            "id": 62331,
+            "description": "Asilos y otras residencias para el cuidado de ancianos y discapacitados"
+        },
+        {
+            "id": 81232,
+            "description": "Administración de cementerios"
+        },
+        {
+            "id": 31699,
+            "description": "Fabricación de otros productos de cuero, piel y materiales sucedáneos"
+        },
+        {
+            "id": 33461,
+            "description": "Fabricación y reproducción de medios magnéticos y ópticos"
+        },
+        {
+            "id": 62211,
+            "description": "Hospitales generales"
+        },
+        {
+            "id": 46831,
+            "description": "Comercio al por menor de motocicletas y otros vehículos de motor"
+        },
+        {
+            "id": 81212,
+            "description": "Baños públicos"
+        },
+        {
+            "id": 48423,
+            "description": "Autotransporte foráneo de carga especializado, excepto mudanzas"
+        },
+        {
+            "id": 43211,
+            "description": "Comercio al por mayor de productos textiles, excepto ropa"
+        },
+        {
+            "id": 52414,
+            "description": "Compañías afianzadoras"
+        },
+        {
+            "id": 11111,
+            "description": "Cultivo de soya"
+        },
+        {
+            "id": 54171,
+            "description": "Servicios de investigación y desarrollo en ciencias físicas, de la vida e ingeniería"
+        },
+        {
+            "id": 48121,
+            "description": "Transporte aéreo no regular"
+        },
+        {
+            "id": 62311,
+            "description": "Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales"
+        },
+        {
+            "id": 51219,
+            "description": "Servicios de postproducción y otros servicios para la industria fílmica y del video"
+        },
+        {
+            "id": 31123,
+            "description": "Elaboración de cereales para el desayuno"
+        },
+        {
+            "id": 61115,
+            "description": "Escuelas de educación media técnica terminal"
+        },
+        {
+            "id": 51112,
+            "description": "Edición de revistas y otras publicaciones periódicas, excepto a través de Internet"
+        },
+        {
+            "id": 33711,
+            "description": "Fabricación de cocinas"
+        },
+        {
+            "id": 23833,
+            "description": "Colocación de pisos flexibles y de madera"
+        },
+        {
+            "id": 46621,
+            "description": "Comercio al por menor de computadoras, teléfonos y otros aparatos de comunicación"
+        },
+        {
+            "id": 51211,
+            "description": "Producción de películas cinematográficas, videos, programas para la televisión y otros materiales audiovisuales"
+        },
+        {
+            "id": 51113,
+            "description": "Edición de libros, excepto a través de Internet"
+        },
+        {
+            "id": 33329,
+            "description": "Fabricación de maquinaria y equipo para otras industrias manufactureras"
+        },
+        {
+            "id": 46641,
+            "description": "Comercio al por menor de artículos usados"
+        },
+        {
+            "id": 54112,
+            "description": "Notarías públicas"
+        },
+        {
+            "id": 32532,
+            "description": "Fabricación de pesticidas y agroquímicos, excepto fertilizantes"
+        },
+        {
+            "id": 46411,
+            "description": "Comercio al por menor de productos farmacéuticos y naturistas"
+        },
+        {
+            "id": 71111,
+            "description": "Compañías de teatro"
+        },
+        {
+            "id": 11411,
+            "description": "Pesca"
+        },
+        {
+            "id": 32518,
+            "description": "Fabricación de otros productos químicos básicos inorgánicos"
+        },
+        {
+            "id": 52392,
+            "description": "Asesoría en inversiones"
+        },
+        {
+            "id": 31214,
+            "description": "Elaboración de bebidas destiladas, excepto de uva"
+        },
+        {
+            "id": 52111,
+            "description": "Banca central"
+        },
+        {
+            "id": 32223,
+            "description": "Fabricación de productos de papelería"
+        },
+        {
+            "id": 43113,
+            "description": "Comercio al por mayor de frutas y verduras frescas"
+        },
+        {
+            "id": 33992,
+            "description": "Fabricación de artículos deportivos"
+        },
+        {
+            "id": 11311,
+            "description": "Silvicultura"
+        },
+        {
+            "id": 46115,
+            "description": "Comercio al por menor de semillas y granos alimenticios, especias y chiles secos"
+        },
+        {
+            "id": 54142,
+            "description": "Diseño industrial"
+        },
+        {
+            "id": 23621,
+            "description": "Edificación de naves y plantas industriales"
+        },
+        {
+            "id": 33791,
+            "description": "Fabricación de colchones"
+        },
+        {
+            "id": 71393,
+            "description": "Marinas turísticas"
+        },
+        {
+            "id": 21211,
+            "description": "Minería de carbón mineral"
+        },
+        {
+            "id": 31332,
+            "description": "Recubrimiento de telas"
+        },
+        {
+            "id": 33311,
+            "description": "Fabricación de maquinaria y equipo agropecuario"
+        },
+        {
+            "id": 43122,
+            "description": "Comercio al por mayor de cigarros, puros y tabaco"
+        },
+        {
+            "id": 48821,
+            "description": "Servicios relacionados con el transporte por ferrocarril"
+        },
+        {
+            "id": 54199,
+            "description": "Otros servicios profesionales, científicos y técnicos"
+        },
+        {
+            "id": 11142,
+            "description": "Cultivo en viveros, cultivos no alimenticios en invernaderos y floricultura"
+        },
+        {
+            "id": 62422,
+            "description": "Refugios temporales comunitarios"
+        },
+        {
+            "id": 11112,
+            "description": "Cultivo de semillas oleaginosas, excepto soya"
+        },
+        {
+            "id": 62421,
+            "description": "Servicios de alimentación comunitarios"
+        },
+        {
+            "id": 43343,
+            "description": "Comercio al por mayor de revistas y periódicos"
+        },
+        {
+            "id": 51912,
+            "description": "Bibliotecas y archivos"
+        },
+        {
+            "id": 61141,
+            "description": "Escuelas comerciales y secretariales"
+        },
+        {
+            "id": 11421,
+            "description": "Caza y captura"
+        },
+        {
+            "id": 21239,
+            "description": "Minería de otros minerales no metálicos"
+        },
+        {
+            "id": 32121,
+            "description": "Fabricación de laminados y aglutinados de madera"
+        },
+        {
+            "id": 81143,
+            "description": "Reparación de calzado y otros artículos de piel y cuero"
+        },
+        {
+            "id": 46821,
+            "description": "Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones"
+        },
+        {
+            "id": 33391,
+            "description": "Fabricación de bombas y sistemas de bombeo"
+        },
+        {
+            "id": 81142,
+            "description": "Reparación de tapicería de muebles para el hogar"
+        },
+        {
+            "id": 33321,
+            "description": "Fabricación de maquinaria y equipo para la industria de la madera"
+        },
+        {
+            "id": 56161,
+            "description": "Servicios de investigación y de protección y custodia, excepto mediante monitoreo"
+        },
+        {
+            "id": 51751,
+            "description": "Distribución por suscripción de programas de televisión, excepto a través de Internet"
+        },
+        {
+            "id": 54151,
+            "description": "Servicios de consultoría en computación"
+        },
+        {
+            "id": 81231,
+            "description": "Servicios funerarios"
+        },
+        {
+            "id": 32552,
+            "description": "Fabricación de adhesivos y selladores"
+        },
+        {
+            "id": 62134,
+            "description": "Consultorios de audiología y de terapia ocupacional, física y del lenguaje"
+        },
+        {
+            "id": 81221,
+            "description": "Lavanderías y tintorerías"
+        },
+        {
+            "id": 32511,
+            "description": "Fabricación de productos petroquímicos"
+        },
+        {
+            "id": 54141,
+            "description": "Diseño y decoración de interiores"
+        },
+        {
+            "id": 62199,
+            "description": "Servicios de bancos de órganos, de bancos de sangre y otros servicios auxiliares al tratamiento médico"
+        },
+        {
+            "id": 11241,
+            "description": "Explotación de ovinos y explotación conjunta de ovinos con caprinos"
+        },
+        {
+            "id": 54191,
+            "description": "Servicios de investigación de mercados y encuestas de opinión pública"
+        },
+        {
+            "id": 93133,
+            "description": "Regulación y fomento municipal del desarrollo económico"
+        },
+        {
+            "id": 31134,
+            "description": "Elaboración de dulces, chicles y productos de confitería que no sean de chocolate"
+        },
+        {
+            "id": 11233,
+            "description": "Explotación de guajolotes o pavos"
+        },
+        {
+            "id": 32221,
+            "description": "Fabricación de envases de cartón"
+        },
+        {
+            "id": 51731,
+            "description": "Reventa de servicios de telecomunicaciones"
+        },
+        {
+            "id": 48511,
+            "description": "Transporte colectivo de pasajeros urbano y suburbano"
+        },
+        {
+            "id": 32611,
+            "description": "Fabricación de bolsas y películas de plástico flexible sin soporte"
+        },
+        {
+            "id": 46114,
+            "description": "Comercio al por menor de huevo"
+        },
+        {
+            "id": 72119,
+            "description": "Cabañas, villas y similares"
+        },
+        {
+            "id": 54169,
+            "description": "Otros servicios de consultoría científica y técnica"
+        },
+        {
+            "id": 43119,
+            "description": "Comercio al por mayor de otros alimentos"
+        },
+        {
+            "id": 71211,
+            "description": "Museos"
+        },
+        {
+            "id": 53229,
+            "description": "Alquiler de otros artículos para el hogar"
+        },
+        {
+            "id": 11132,
+            "description": "Cultivo de otros cítricos"
+        },
+        {
+            "id": 48321,
+            "description": "Transporte por aguas interiores"
+        },
+        {
+            "id": 51222,
+            "description": "Producción y distribución de discos y cintas magnetofónicas"
+        },
+        {
+            "id": 43114,
+            "description": "Comercio al por mayor de huevo"
+        },
+        {
+            "id": 71392,
+            "description": "Pistas para esquiar"
+        },
+        {
+            "id": 61143,
+            "description": "Escuelas para la capacitación de ejecutivos"
+        },
+        {
+            "id": 56172,
+            "description": "Servicios de limpieza de inmuebles"
+        },
+        {
+            "id": 54121,
+            "description": "Servicios de contabilidad, auditoría y servicios relacionados"
+        },
+        {
+            "id": 22112,
+            "description": "Suministro de energía eléctrica"
+        },
+        {
+            "id": 32213,
+            "description": "Fabricación de cartón"
+        },
+        {
+            "id": 32621,
+            "description": "Fabricación y revitalización de llantas"
+        },
+        {
+            "id": 33599,
+            "description": "Fabricación de otros productos eléctricos"
+        },
+        {
+            "id": 23799,
+            "description": "Otras construcciones de ingeniería civil u obra pesada"
+        },
+        {
+            "id": 33792,
+            "description": "Fabricación de persianas y cortineros"
+        },
+        {
+            "id": 32733,
+            "description": "Fabricación de tubos y bloques de cemento y concreto"
+        },
+        {
+            "id": 46841,
+            "description": "Comercio al por menor de combustibles"
+        },
+        {
+            "id": 72231,
+            "description": "Servicios de comedor para empresas e instituciones"
+        },
+        {
+            "id": 62412,
+            "description": "Centros de atención y cuidado diurno de ancianos y discapacitados"
+        },
+        {
+            "id": 56162,
+            "description": "Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad"
+        },
+        {
+            "id": 52243,
+            "description": "Sociedades financieras de objeto limitado"
+        },
+        {
+            "id": 53223,
+            "description": "Alquiler de videocasetes y discos"
+        },
+        {
+            "id": 33322,
+            "description": "Fabricación de maquinaria y equipo para la industria del hule y del plástico"
+        },
+        {
+            "id": 43541,
+            "description": "Comercio al por mayor de maquinaria, mobiliario y equipo de uso general"
+        },
+        {
+            "id": 32212,
+            "description": "Fabricación de papel"
+        },
+        {
+            "id": 32521,
+            "description": "Fabricación de hules y resinas sintéticos"
+        },
+        {
+            "id": 54135,
+            "description": "Servicios de inspección de edificios"
+        },
+        {
+            "id": 56173,
+            "description": "Servicios de instalación y mantenimiento de áreas verdes"
+        },
+        {
+            "id": 71213,
+            "description": "Jardines botánicos y zoológicos"
+        },
+        {
+            "id": 32561,
+            "description": "Fabricación de jabones, limpiadores y dentífricos"
+        },
+        {
+            "id": 33637,
+            "description": "Fabricación de piezas metálicas troqueladas para vehículos automotrices"
+        },
+        {
+            "id": 31111,
+            "description": "Elaboración de alimentos para animales"
+        },
+        {
+            "id": 32742,
+            "description": "Fabricación de yeso y productos de yeso"
+        },
+        {
+            "id": 61117,
+            "description": "Escuelas que combinan diversos niveles de educación"
+        },
+        {
+            "id": 31122,
+            "description": "Elaboración de almidones, aceites y grasas vegetales comestibles"
+        },
+        {
+            "id": 31611,
+            "description": "Curtido y acabado de cuero y piel"
+        },
+        {
+            "id": 54136,
+            "description": "Servicios de levantamiento geofísico"
+        },
+        {
+            "id": 31491,
+            "description": "Confección de costales y productos de textiles recubiertos y de materiales sucedáneos"
+        },
+        {
+            "id": 32741,
+            "description": "Fabricación de cal"
+        },
+        {
+            "id": 56211,
+            "description": "Manejo de desechos y servicios de remediación"
+        },
+        {
+            "id": 33341,
+            "description": "Fabricación de sistemas de aire acondicionado, calefacción y de refrigeración industrial y comercial"
+        },
+        {
+            "id": 56142,
+            "description": "Servicios de casetas telefónicas, recepción de llamadas y promoción por teléfono"
+        },
+        {
+            "id": 33511,
+            "description": "Fabricación de focos"
+        },
+        {
+            "id": 33331,
+            "description": "Fabricación de maquinaria y equipo para el comercio y los servicios"
+        },
+        {
+            "id": 33635,
+            "description": "Fabricación de partes de sistemas de transmisión"
+        },
+        {
+            "id": 43711,
+            "description": "Intermediación al por mayor"
+        },
+        {
+            "id": 33121,
+            "description": "Fabricación de tubos y postes de hierro y acero de material comprado"
+        },
+        {
+            "id": 32712,
+            "description": "Fabricación de productos a base de arcilla para la construcción"
+        },
+        {
+            "id": 49313,
+            "description": "Almacenamiento de productos agropecuarios que no requieren refrigeración"
+        },
+        {
+            "id": 11521,
+            "description": "Servicios relacionados con la ganadería"
+        },
+        {
+            "id": 31599,
+            "description": "Confección de accesorios de vestir"
+        },
+        {
+            "id": 46311,
+            "description": "Comercio al por menor de productos textiles, excepto ropa"
+        },
+        {
+            "id": 93162,
+            "description": "Actividades administrativas estatales de instituciones de bienestar social"
+        },
+        {
+            "id": 31192,
+            "description": "Industrias del café y del té"
+        },
+        {
+            "id": 72112,
+            "description": "Hoteles con casino"
+        },
+        {
+            "id": 81141,
+            "description": "Reparación y mantenimiento de aparatos eléctricos para el hogar y personales"
+        },
+        {
+            "id": 62161,
+            "description": "Servicios de enfermería a domicilio"
+        },
+        {
+            "id": 61112,
+            "description": "Escuelas de educación primaria"
+        },
+        {
+            "id": 31151,
+            "description": "Elaboración de leche y derivados lácteos"
+        },
+        {
+            "id": 33593,
+            "description": "Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas"
+        },
+        {
+            "id": 33712,
+            "description": "Fabricación de muebles, excepto cocinas y muebles de oficina y estantería"
+        },
+        {
+            "id": 61116,
+            "description": "Escuelas de educación media superior"
+        },
+        {
+            "id": 23835,
+            "description": "Instalación de productos de carpintería"
+        },
+        {
+            "id": 43421,
+            "description": "Comercio al por mayor de materiales para la construcción, excepto de madera"
+        },
+        {
+            "id": 31171,
+            "description": "Preparación y envasado de pescados y mariscos"
+        },
+        {
+            "id": 33699,
+            "description": "Fabricación de otro equipo de transporte"
+        },
+        {
+            "id": 23822,
+            "description": "Instalaciones hidrosanitarias, de gas, aire acondicionado y calefacción"
+        },
+        {
+            "id": 53211,
+            "description": "Alquiler de automóviles sin chofer"
+        },
+        {
+            "id": 48311,
+            "description": "Transporte marítimo"
+        },
+        {
+            "id": 11331,
+            "description": "Tala de árboles"
+        },
+        {
+            "id": 33591,
+            "description": "Fabricación de acumuladores y pilas"
+        },
+        {
+            "id": 51213,
+            "description": "Exhibición de películas cinematográficas, videos y otros materiales audiovisuales"
+        },
+        {
+            "id": 11121,
+            "description": "Cultivo de hortalizas"
+        },
+        {
+            "id": 23712,
+            "description": "Construcción de obras para petróleo y gas"
+        },
+        {
+            "id": 33429,
+            "description": "Fabricación de otros equipos de comunicación"
+        },
+        {
+            "id": 46111,
+            "description": "Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas"
+        },
+        {
+            "id": 49211,
+            "description": "Servicios de mensajería y paquetería foránea"
+        },
+        {
+            "id": 46119,
+            "description": "Comercio al por menor de otros alimentos"
+        },
+        {
+            "id": 33242,
+            "description": "Fabricación de tanques metálicos de calibre grueso"
+        },
+        {
+            "id": 31322,
+            "description": "Fabricación de telas angostas de trama y pasamanería"
+        },
+        {
+            "id": 32111,
+            "description": "Aserrado y conservación de la madera"
+        },
+        {
+            "id": 32199,
+            "description": "Fabricación de otros productos de madera"
+        },
+        {
+            "id": 48851,
+            "description": "Servicios de intermediación para el transporte de carga"
+        },
+        {
+            "id": 93211,
+            "description": "Organismos internacionales"
+        },
+        {
+            "id": 23731,
+            "description": "Construcción de vías de comunicación"
+        },
+        {
+            "id": 93121,
+            "description": "Administración pública federal en general"
+        },
+        {
+            "id": 32791,
+            "description": "Fabricación de productos abrasivos"
+        },
+        {
+            "id": 53111,
+            "description": "Alquiler sin intermediación de viviendas y otros inmuebles"
+        },
+        {
+            "id": 54134,
+            "description": "Servicios de dibujo"
+        },
+        {
+            "id": 31152,
+            "description": "Elaboración de helados y paletas"
+        },
+        {
+            "id": 32312,
+            "description": "Industrias conexas a la impresión"
+        },
+        {
+            "id": 62322,
+            "description": "Residencias para el cuidado de personas con problemas de salud mental y abuso de substancias"
+        },
+        {
+            "id": 93181,
+            "description": "Actividades de seguridad nacional"
+        },
+        {
+            "id": 32222,
+            "description": "Fabricación de bolsas de papel y productos celulósicos recubiertos y tratados"
+        },
+        {
+            "id": 62431,
+            "description": "Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o discapacitadas"
+        },
+        {
+            "id": 51919,
+            "description": "Otros servicios de suministro de información"
+        },
+        {
+            "id": 93152,
+            "description": "Regulación y fomento estatal de actividades para mejorar y preservar el medio ambiente"
+        },
+        {
+            "id": 71141,
+            "description": "Agentes y representantes de artistas, deportistas y similares"
+        },
+        {
+            "id": 31193,
+            "description": "Elaboración de concentrados, polvos, jarabes y esencias de sabor para refrescos"
+        },
+        {
+            "id": 71121,
+            "description": "Deportistas y equipos deportivos profesionales y semiprofesionales"
+        },
+        {
+            "id": 23819,
+            "description": "Otros trabajos en exteriores"
+        },
+        {
+            "id": 11199,
+            "description": "Otros cultivos"
+        },
+        {
+            "id": 31131,
+            "description": "Elaboración de azúcar"
+        },
+        {
+            "id": 61161,
+            "description": "Escuelas de arte"
+        },
+        {
+            "id": 46112,
+            "description": "Comercio al por menor de carnes"
+        },
+        {
+            "id": 11221,
+            "description": "Explotación de porcinos"
+        },
+        {
+            "id": 23813,
+            "description": "Trabajos de albañilería"
+        },
+        {
+            "id": 33993,
+            "description": "Fabricación de juguetes"
+        },
+        {
+            "id": 23812,
+            "description": "Montaje de estructuras prefabricadas"
+        },
+        {
+            "id": 54137,
+            "description": "Servicios de elaboración de mapas"
+        },
+        {
+            "id": 43212,
+            "description": "Comercio al por mayor de ropa"
+        },
+        {
+            "id": 72111,
+            "description": "Hoteles y moteles, excepto hoteles con casino"
+        },
+        {
+            "id": 31521,
+            "description": "Confección de ropa de cuero, piel y materiales sucedáneos"
+        },
+        {
+            "id": 32721,
+            "description": "Fabricación de vidrio y productos de vidrio"
+        },
+        {
+            "id": 11131,
+            "description": "Cultivo de naranja"
+        },
+        {
+            "id": 56111,
+            "description": "Servicios de administración de negocios"
+        },
+        {
+            "id": 51611,
+            "description": "Creación y difusión de contenido exclusivamente a través de Internet"
+        },
+        {
+            "id": 11212,
+            "description": "Explotación de bovinos para leche"
+        },
+        {
+            "id": 52421,
+            "description": "Agentes, ajustadores y gestores de seguros y fianzas"
+        },
+        {
+            "id": 71113,
+            "description": "Cantantes y grupos musicales"
+        },
+        {
+            "id": 21311,
+            "description": "Servicios relacionados con la minería"
+        },
+        {
+            "id": 48412,
+            "description": "Autotransporte foráneo de carga general"
+        },
+        {
+            "id": 54111,
+            "description": "Bufetes jurídicos"
+        },
+        {
+            "id": 11231,
+            "description": "Explotación de gallinas ponedoras"
+        },
+        {
+            "id": 56191,
+            "description": "Servicios de empacado y etiquetado"
+        },
+        {
+            "id": 81211,
+            "description": "Salones y clínicas de belleza y peluquerías"
+        },
+        {
+            "id": 23891,
+            "description": "Preparación de terrenos para la construcción"
+        },
+        {
+            "id": 48849,
+            "description": "Otros servicios relacionados con el transporte por carretera"
+        },
+        {
+            "id": 53131,
+            "description": "Servicios relacionados con los servicios inmobiliarios"
+        },
+        {
+            "id": 46122,
+            "description": "Comercio al por menor de cigarros, puros y tabaco"
+        },
+        {
+            "id": 62142,
+            "description": "Centros de atención médica externa para enfermos mentales y adictos"
+        },
+        {
+            "id": 61114,
+            "description": "Escuelas de educación secundaria técnica"
+        },
+        {
+            "id": 71311,
+            "description": "Parques con instalaciones recreativas"
+        },
+        {
+            "id": 33299,
+            "description": "Fabricación de otros productos metálicos"
+        },
+        {
+            "id": 32551,
+            "description": "Fabricación de pinturas y recubrimientos"
+        },
+        {
+            "id": 48819,
+            "description": "Otros servicios relacionados con el transporte aéreo"
+        },
+        {
+            "id": 51212,
+            "description": "Distribución de películas cinematográficas, videos y otros materiales audiovisuales"
+        },
+        {
+            "id": 52231,
+            "description": "Uniones de crédito"
+        },
+        {
+            "id": 93151,
+            "description": "Regulación y fomento federal de actividades para mejorar y preservar el medio ambiente"
+        },
+        {
+            "id": 62149,
+            "description": "Otros centros para la atención de pacientes que no requieren hospitalización"
+        },
+        {
+            "id": 61151,
+            "description": "Escuelas de oficios"
+        },
+        {
+            "id": 46117,
+            "description": "Comercio al por menor de dulces y materias primas para repostería"
+        },
+        {
+            "id": 22221,
+            "description": "Suministro de gas por ductos al consumidor final"
+        },
+        {
+            "id": 93123,
+            "description": "Administración pública municipal en general"
+        },
+        {
+            "id": 33641,
+            "description": "Fabricación de equipo aeroespacial"
+        },
+        {
+            "id": 43522,
+            "description": "Comercio al por mayor de maquinaria y equipo para la industria manufacturera"
+        },
+        {
+            "id": 56151,
+            "description": "Agencias de viajes"
+        },
+        {
+            "id": 33232,
+            "description": "Fabricación de productos de herrería"
+        },
+        {
+            "id": 71395,
+            "description": "Boliches"
+        },
+        {
+            "id": 31412,
+            "description": "Confección de cortinas, blancos y similares"
+        },
+        {
+            "id": 54138,
+            "description": "Laboratorios de pruebas"
+        },
+        {
+            "id": 33531,
+            "description": "Fabricación de equipo de generación y distribución de energía eléctrica"
+        },
+        {
+            "id": 46611,
+            "description": "Comercio al por menor de muebles para el hogar y otros enseres domésticos"
+        },
+        {
+            "id": 33291,
+            "description": "Fabricación de válvulas metálicas"
+        },
+        {
+            "id": 32562,
+            "description": "Fabricación de cosméticos, perfumes y otras preparaciones de tocador"
+        },
+        {
+            "id": 71119,
+            "description": "Otras compañías y grupos de espectáculos artísticos"
+        },
+        {
+            "id": 72221,
+            "description": "Restaurantes de autoservicio y de comida para llevar"
+        },
+        {
+            "id": 43521,
+            "description": "Comercio al por mayor de maquinaria y equipo para la construcción y la minería"
+        },
+        {
+            "id": 52232,
+            "description": "Cajas de ahorro popular"
+        },
+        {
+            "id": 33421,
+            "description": "Fabricación de aparatos telefónicos"
+        },
+        {
+            "id": 11291,
+            "description": "Apicultura"
+        },
+        {
+            "id": 48899,
+            "description": "Otros servicios relacionados con el transporte"
+        },
+        {
+            "id": 43213,
+            "description": "Comercio al por mayor de calzado"
+        },
+        {
+            "id": 21229,
+            "description": "Minería de otros minerales metálicos"
+        },
+        {
+            "id": 32711,
+            "description": "Fabricación de artículos de alfarería, porcelana, loza y muebles de baño"
+        },
+        {
+            "id": 54132,
+            "description": "Servicios de arquitectura de paisaje y urbanismo"
+        },
+        {
+            "id": 54189,
+            "description": "Otros servicios de publicidad"
+        },
+        {
+            "id": 51512,
+            "description": "Transmisión de programas de televisión, excepto a través de Internet"
+        },
+        {
+            "id": 48832,
+            "description": "Servicios de carga y descarga para el transporte por agua"
+        },
+        {
+            "id": 46711,
+            "description": "Comercio al por menor de artículos de ferretería, tlapalería y vidrios"
+        },
+        {
+            "id": 33422,
+            "description": "Fabricación de equipo de transmisión y recepción de señales de radio, televisión y cable"
+        },
+        {
+            "id": 48811,
+            "description": "Operaciones aeroportuarias"
+        },
+        {
+            "id": 23611,
+            "description": "Edificación residencial"
+        },
+        {
+            "id": 33611,
+            "description": "Fabricación de automóviles y camionetas"
+        },
+        {
+            "id": 31321,
+            "description": "Fabricación de telas anchas de trama"
+        },
+        {
+            "id": 93171,
+            "description": "Relaciones exteriores"
+        },
+        {
+            "id": 46113,
+            "description": "Comercio al por menor de frutas y verduras frescas"
+        },
+        {
+            "id": 81323,
+            "description": "Asociaciones y organizaciones civiles"
+        },
+        {
+            "id": 23832,
+            "description": "Trabajos de pintura y otros cubrimientos de paredes"
+        },
+        {
+            "id": 32211,
+            "description": "Fabricación de celulosa"
+        },
+        {
+            "id": 56199,
+            "description": "Otros servicios de apoyo a los negocios"
+        },
+        {
+            "id": 23821,
+            "description": "Instalaciones eléctricas en construcciones"
+        },
+        {
+            "id": 71391,
+            "description": "Campos de golf"
+        },
+        {
+            "id": 11191,
+            "description": "Cultivo de tabaco"
+        },
+        {
+            "id": 31199,
+            "description": "Elaboración de otros alimentos"
+        },
+        {
+            "id": 32531,
+            "description": "Fabricación de fertilizantes"
+        },
+        {
+            "id": 48541,
+            "description": "Transporte escolar y de personal"
+        },
+        {
+            "id": 93143,
+            "description": "Impartición de justicia y mantenimiento de la seguridad y el orden público en el nivel municipal"
+        },
+        {
+            "id": 61121,
+            "description": "Escuelas de educación postbachillerato no universitaria"
+        },
+        {
+            "id": 33451,
+            "description": "Fabricación de instrumentos de navegación, medición, médicos y de control"
+        },
+        {
+            "id": 56144,
+            "description": "Agencias de cobranza"
+        },
+        {
+            "id": 23713,
+            "description": "Construcción de obras de generación y conducción de energía eléctrica y telecomunicaciones"
+        },
+        {
+            "id": 33272,
+            "description": "Fabricación de tornillos, tuercas, remaches y similares"
+        },
+        {
+            "id": 31221,
+            "description": "Beneficio del tabaco"
+        },
+        {
+            "id": 33521,
+            "description": "Fabricación de enseres electrodomésticos menores"
+        },
+        {
+            "id": 56171,
+            "description": "Servicios de control y exterminación de plagas"
+        },
+        {
+            "id": 93141,
+            "description": "Impartición de justicia y mantenimiento de la seguridad y el orden público en el nivel federal"
+        },
+        {
+            "id": 46116,
+            "description": "Comercio al por menor de leche procesada, otros productos lácteos y embutidos"
+        },
+        {
+            "id": 46591,
+            "description": "Comercio al por menor de mascotas, regalos, artículos religiosos, artesanías, artículos en tiendas importadoras y otros artículos de uso personal"
+        },
+        {
+            "id": 51521,
+            "description": "Producción de programación de canales para sistemas de televisión por cable o satelitales, excepto a través de Internet"
+        },
+        {
+            "id": 51511,
+            "description": "Transmisión de programas de radio, excepto a través de Internet"
+        },
+        {
+            "id": 33441,
+            "description": "Fabricación de componentes electrónicos"
+        },
+        {
+            "id": 43117,
+            "description": "Comercio al por mayor de embutidos"
+        },
+        {
+            "id": 11116,
+            "description": "Cultivo de arroz"
+        },
+        {
+            "id": 31132,
+            "description": "Elaboración de chocolate y productos de chocolate a partir de cacao"
+        },
+        {
+            "id": 62132,
+            "description": "Consultorios de optometría"
+        },
+        {
+            "id": 52311,
+            "description": "Casas de bolsa"
+        },
+        {
+            "id": 46631,
+            "description": "Comercio al por menor de artículos para la decoración de interiores"
+        },
+        {
+            "id": 43111,
+            "description": "Comercio al por mayor de abarrotes"
+        },
+        {
+            "id": 52399,
+            "description": "Otros servicios relacionados con la intermediación bursátil"
+        },
+        {
+            "id": 33281,
+            "description": "Recubrimientos y terminados metálicos"
+        },
+        {
+            "id": 72233,
+            "description": "Servicios de preparación de alimentos en unidades móviles"
+        },
+        {
+            "id": 31331,
+            "description": "Acabado de fibras, hilados, hilos y telas"
+        },
+        {
+            "id": 32612,
+            "description": "Fabricación de perfiles, tubería y conexiones de plástico rígido sin soporte"
+        },
+        {
+            "id": 56174,
+            "description": "Servicios de limpieza de tapicería, alfombras y muebles"
+        },
+        {
+            "id": 17286,
+            "description": "GRUPO TEXTIL INDIGO"
+        },
+        {
+            "id": 72241,
+            "description": "Centros nocturnos, bares, cantinas y similares"
+        },
+        {
+            "id": 81314,
+            "description": "Federaciones y otras asociaciones regulatorias de actividades recreativas"
+        },
+        {
+            "id": 33241,
+            "description": "Fabricación de calderas industriales"
+        },
+        {
+            "id": 93142,
+            "description": "Impartición de justicia y mantenimiento de la seguridad y el orden público en el nivel estatal"
+        },
+        {
+            "id": 32512,
+            "description": "Fabricación de gases industriales"
+        },
+        {
+            "id": 32541,
+            "description": "Fabricación de productos farmacéuticos"
+        },
+        {
+            "id": 51223,
+            "description": "Editoras de música"
+        },
+        {
+            "id": 46911,
+            "description": "Intermediación al por menor"
+        },
+        {
+            "id": 62141,
+            "description": "Centros de planificación familiar"
+        },
+        {
+            "id": 33661,
+            "description": "Fabricación de embarcaciones"
+        },
+        {
+            "id": 62231,
+            "description": "Hospitales de otras especialidades médicas"
+        },
+        {
+            "id": 43121,
+            "description": "Comercio al por mayor de bebidas"
+        },
+        {
+            "id": 62139,
+            "description": "Otros consultorios para el cuidado de la salud"
+        },
+        {
+            "id": 71132,
+            "description": "Promotores de espectáculos artísticos, deportivos y similares que no cuentan con instalaciones para presentarlos"
+        },
+        {
+            "id": 33271,
+            "description": "Maquinado de piezas metálicas para maquinaria y equipo en general"
+        },
+        {
+            "id": 31499,
+            "description": "Confección de otros productos textiles, excepto prendas de vestir"
+        },
+        {
+            "id": 52222,
+            "description": "Fondos y fideicomisos financieros para el desarrollo"
+        },
+        {
+            "id": 23839,
+            "description": "Otros trabajos de acabados en edificaciones"
+        },
+        {
+            "id": 54194,
+            "description": "Servicios veterinarios"
+        },
+        {
+            "id": 52211,
+            "description": "Banca múltiple"
+        },
+        {
+            "id": 31311,
+            "description": "Preparación e hilado de fibras textiles y fabricación de hilos"
+        },
+        {
+            "id": 61118,
+            "description": "Escuelas de educación especial"
+        },
+        {
+            "id": 72232,
+            "description": "Servicios de preparación de alimentos para ocasiones especiales"
+        },
+        {
+            "id": 56152,
+            "description": "Organización de excursiones y paquetes turísticos para agencias de viajes"
+        },
+        {
+            "id": 33243,
+            "description": "Fabricación de envases metálicos de calibre ligero"
+        },
+        {
+            "id": 32519,
+            "description": "Fabricación de otros productos químicos básicos orgánicos"
+        },
+        {
+            "id": 43322,
+            "description": "Comercio al por mayor de artículos de joyería y otros accesorios de vestir"
+        },
+        {
+            "id": 56132,
+            "description": "Agencias de empleo temporal"
+        },
+        {
+            "id": 71321,
+            "description": "Casinos"
+        },
+        {
+            "id": 53311,
+            "description": "Servicios de alquiler de marcas registradas, patentes y franquicias"
+        },
+        {
+            "id": 81313,
+            "description": "Asociaciones y organizaciones de profesionistas"
+        },
+        {
+            "id": 81119,
+            "description": "Otros servicios de reparación y mantenimiento de automóviles y camiones"
+        },
+        {
+            "id": 62423,
+            "description": "Servicios de emergencia comunitarios"
+        },
+        {
+            "id": 71212,
+            "description": "Sitios históricos"
+        },
+        {
+            "id": 93132,
+            "description": "Regulación y fomento estatal del desarrollo económico"
+        },
+        {
+            "id": 32311,
+            "description": "Impresión"
+        },
+        {
+            "id": 53121,
+            "description": "Inmobiliarias y corredores de bienes raíces"
+        },
+        {
+            "id": 93161,
+            "description": "Actividades administrativas federales de instituciones de bienestar social"
+        },
+        {
+            "id": 43311,
+            "description": "Comercio al por mayor de productos farmacéuticos"
+        },
+        {
+            "id": 93122,
+            "description": "Administración pública estatal en general"
+        },
+        {
+            "id": 93212,
+            "description": "Sedes diplomáticas y otras unidades extraterritoriales"
+        },
+        {
+            "id": 49111,
+            "description": "Servicios postales"
+        },
+        {
+            "id": 62441,
+            "description": "Guarderías"
+        },
+        {
+            "id": 23834,
+            "description": "Colocación de pisos cerámicos y azulejos"
+        },
+        {
+            "id": 46412,
+            "description": "Comercio al por menor de lentes y aparatos ortopédicos"
+        },
+        {
+            "id": 48599,
+            "description": "Otro transporte terrestre de pasajeros"
+        },
+        {
+            "id": 43531,
+            "description": "Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales"
+        },
+        {
+            "id": 51224,
+            "description": "Grabación de discos y cintas magnetofónicas"
+        },
+        {
+            "id": 43422,
+            "description": "Comercio al por mayor de materias primas para otras industrias"
+        },
+        {
+            "id": 21223,
+            "description": "Minería de cobre, níquel, plomo y zinc"
+        },
+        {
+            "id": 33151,
+            "description": "Moldeo por fundición de piezas de hierro y acero"
+        },
+        {
+            "id": 81411,
+            "description": "Hogares con empleados domésticos"
+        },
+        {
+            "id": 11133,
+            "description": "Cultivo de frutales no cítricos y nueces"
+        },
+        {
+            "id": 33122,
+            "description": "Fabricación de otros productos de hierro y acero de material comprado"
+        },
+        {
+            "id": 33522,
+            "description": "Fabricación de aparatos de línea blanca"
+        },
+        {
+            "id": 48831,
+            "description": "Administración de puertos y muelles"
+        },
+        {
+            "id": 11239,
+            "description": "Explotación de otras aves productoras de carne y huevo"
+        },
+        {
+            "id": 33399,
+            "description": "Fabricación de otra maquinaria y equipo para la industria en general"
+        },
+        {
+            "id": 61142,
+            "description": "Escuelas de computación"
+        },
+        {
+            "id": 11511,
+            "description": "Servicios relacionados con la agricultura"
+        },
+        {
+            "id": 54143,
+            "description": "Diseño gráfico"
+        },
+        {
+            "id": 32229,
+            "description": "Fabricación de otros productos de papel y cartón"
+        },
+        {
+            "id": 32799,
+            "description": "Fabricación de otros productos a base de minerales no metálicos"
+        },
+        {
+            "id": 49221,
+            "description": "Servicios de mensajería y paquetería local"
+        },
+        {
+            "id": 48691,
+            "description": "Transporte por ductos de productos refinados del petróleo"
+        },
+        {
+            "id": 22111,
+            "description": "Generación y transmisión de energía eléctrica"
+        },
+        {
+            "id": 43342,
+            "description": "Comercio al por mayor de libros"
+        },
+        {
+            "id": 54131,
+            "description": "Servicios de arquitectura"
+        },
+        {
+            "id": 54162,
+            "description": "Servicios de consultoría en medio ambiente"
+        },
+        {
+            "id": 32619,
+            "description": "Fabricación de otros productos de plástico"
+        },
+        {
+            "id": 62321,
+            "description": "Residencias para el cuidado de personas con problemas de retardo mental"
+        },
+        {
+            "id": 31519,
+            "description": "Tejido de otras prendas de vestir de punto"
+        },
+        {
+            "id": 31121,
+            "description": "Elaboración de productos de molinería y manufactura de malta"
+        },
+        {
+            "id": 33312,
+            "description": "Fabricación de maquinaria y equipo para la construcción"
+        },
+        {
+            "id": 52244,
+            "description": "Compañías de autofinanciamiento"
+        },
+        {
+            "id": 61111,
+            "description": "Escuelas de educación preescolar"
+        },
+        {
+            "id": 31211,
+            "description": "Elaboración de refrescos y hielo, y purificación de agua"
+        },
+        {
+            "id": 33634,
+            "description": "Fabricación de partes de sistemas de frenos para vehículos automotrices"
+        },
+        {
+            "id": 31323,
+            "description": "Fabricación de telas no tejidas"
+        },
+        {
+            "id": 51114,
+            "description": "Edición de directorios y de listas de correo, excepto a través de Internet"
+        },
+        {
+            "id": 71329,
+            "description": "Loterías y otros juegos de azar"
+        },
+        {
+            "id": 48521,
+            "description": "Transporte de pasajeros interurbano y rural"
+        },
+        {
+            "id": 33612,
+            "description": "Fabricación de camiones y tractocamiones"
+        },
+        {
+            "id": 11299,
+            "description": "Explotación de otros animales"
+        },
+        {
+            "id": 54161,
+            "description": "Servicios de consultoría en administración"
+        },
+        {
+            "id": 46811,
+            "description": "Comercio al por menor de automóviles y camionetas"
+        },
+        {
+            "id": 54183,
+            "description": "Agencias de compra de medios a petición del cliente"
+        },
+        {
+            "id": 31621,
+            "description": "Fabricación de calzado"
+        },
+        {
+            "id": 32592,
+            "description": "Fabricación de explosivos"
+        },
+        {
+            "id": 33149,
+            "description": "Laminación secundaria de otros metales no ferrosos"
+        },
+        {
+            "id": 52249,
+            "description": "Otras instituciones de intermediación crediticia y financiera no bursátil"
+        },
+        {
+            "id": 32412,
+            "description": "Fabricación de productos de asfalto"
+        },
+        {
+            "id": 43341,
+            "description": "Comercio al por mayor de artículos de papelería"
+        },
+        {
+            "id": 52391,
+            "description": "Sociedades de inversión"
+        },
+        {
+            "id": 72211,
+            "description": "Restaurantes con servicio de meseros"
+        },
+        {
+            "id": 23831,
+            "description": "Colocación de muros falsos, aislamiento y enyesado"
+        },
+        {
+            "id": 71151,
+            "description": "Artistas y técnicos independientes"
+        },
+        {
+            "id": 81149,
+            "description": "Reparación y mantenimiento de otros artículos para el hogar y personales"
+        },
+        {
+            "id": 62151,
+            "description": "Laboratorios médicos y de diagnóstico"
+        },
+        {
+            "id": 46921,
+            "description": "Comercio al por menor por medios masivos de comunicación y otros medios"
+        },
+        {
+            "id": 62133,
+            "description": "Consultorios de psicología"
+        },
+        {
+            "id": 56143,
+            "description": "Servicios de fotocopiado, fax y afines"
+        },
+        {
+            "id": 81311,
+            "description": "Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios"
+        },
+        {
+            "id": 46121,
+            "description": "Comercio al por menor de bebidas"
+        },
+        {
+            "id": 53231,
+            "description": "Centros generales de alquiler"
+        },
+        {
+            "id": 11242,
+            "description": "Explotación de caprinos"
+        },
+        {
+            "id": 33512,
+            "description": "Fabricación de lámparas ornamentales"
+        },
+        {
+            "id": 31181,
+            "description": "Elaboración de pan y otros productos de panadería"
+        },
+        {
+            "id": 33131,
+            "description": "Industria del aluminio"
+        },
+        {
+            "id": 56145,
+            "description": "Despachos de investigación de solvencia financiera"
+        },
+        {
+            "id": 21221,
+            "description": "Minería de hierro"
+        },
+        {
+            "id": 43321,
+            "description": "Comercio al por mayor de artículos de perfumería"
+        },
+        {
+            "id": 72131,
+            "description": "Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hotelería"
+        },
+        {
+            "id": 62419,
+            "description": "Otros servicios de orientación y trabajo social"
+        },
+        {
+            "id": 32732,
+            "description": "Fabricación de concreto"
+        },
+        {
+            "id": 33633,
+            "description": "Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices"
+        },
+        {
+            "id": 51791,
+            "description": "Otros servicios de telecomunicaciones"
+        },
+        {
+            "id": 11193,
+            "description": "Cultivo de caña de azúcar"
+        },
+        {
+            "id": 51821,
+            "description": "Procesamiento electrónico de información, hospedaje de páginas web y otros servicios relacionados"
+        },
+        {
+            "id": 21222,
+            "description": "Minería de oro y plata"
+        },
+        {
+            "id": 32613,
+            "description": "Fabricación de laminados rígidos de plástico sin soporte"
+        },
+        {
+            "id": 51229,
+            "description": "Otros servicios de grabación del sonido"
+        },
+        {
+            "id": 31222,
+            "description": "Elaboración de productos de tabaco"
+        },
+        {
+            "id": 54181,
+            "description": "Agencias de publicidad"
+        },
+        {
+            "id": 11119,
+            "description": "Cultivo de otros granos"
+        },
+        {
+            "id": 53249,
+            "description": "Alquiler de otra maquinaria y equipo industrial, comercial y de servicios"
+        },
+        {
+            "id": 21111,
+            "description": "Extracción de petróleo y gas"
+        },
+        {
+            "id": 23899,
+            "description": "Otros trabajos especializados para la construcción"
+        },
+        {
+            "id": 33221,
+            "description": "Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos"
+        },
+        {
+            "id": 93153,
+            "description": "Regulación y fomento municipal de actividades para mejorar y preservar el medio ambiente"
+        },
+        {
+            "id": 33721,
+            "description": "Fabricación de muebles de oficina y estantería"
+        },
+        {
+            "id": 48551,
+            "description": "Alquiler de autobuses con chofer"
+        },
+        {
+            "id": 43118,
+            "description": "Comercio al por mayor de dulces y materias primas para repostería"
+        },
+        {
+            "id": 32614,
+            "description": "Fabricación de espumas y productos de poliestireno"
+        },
+        {
+            "id": 81322,
+            "description": "Asociaciones y organizaciones políticas"
+        },
+        {
+            "id": 52321,
+            "description": "Bolsa de valores"
+        },
+        {
+            "id": 43721,
+            "description": "Comercio al por mayor por medios masivos de comunicación y otros medios"
+        },
+        {
+            "id": 33313,
+            "description": "Fabricación de maquinaria y equipo para la industria extractiva"
+        },
+        {
+            "id": 32622,
+            "description": "Fabricación de bandas y mangueras de hule y de plástico"
+        },
+        {
+            "id": 49311,
+            "description": "Almacenamiento general sin instalaciones especializadas"
+        },
+        {
+            "id": 33411,
+            "description": "Fabricación de computadoras y equipo periférico"
+        },
+        {
+            "id": 93131,
+            "description": "Regulación y fomento federal del desarrollo económico"
+        },
+        {
+            "id": 32513,
+            "description": "Fabricación de pigmentos y colorantes sintéticos"
+        },
+        {
+            "id": 51221,
+            "description": "Productoras discográficas"
+        },
+        {
+            "id": 33361,
+            "description": "Fabricación de motores de combustión interna, turbinas y transmisiones"
+        },
+        {
+            "id": 81213,
+            "description": "Sanitarios públicos y bolerías"
+        }
+    ]
+}

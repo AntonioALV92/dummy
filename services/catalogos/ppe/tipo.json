@@ -1,0 +1,53 @@
+{
+    "error": null,
+    "result": [
+        {
+            "id": "0010",
+            "description": "Presidente"
+        },
+        {
+            "id": "0020",
+            "description": "Senador"
+        },
+        {
+            "id": "0030",
+            "description": "Diputado"
+        },
+        {
+            "id": "0040",
+            "description": "Ministro de la Suprema Corte de Justicia"
+        },
+        {
+            "id": "0050",
+            "description": "Consejero de la Judicatura Federal"
+        },
+        {
+            "id": "0060",
+            "description": "Secretario de Despacho"
+        },
+        {
+            "id": "0070",
+            "description": "Jefe de Departamento Administrativo"
+        },
+        {
+            "id": "0080",
+            "description": "Diputado de la Asamblea del Distrito Federal"
+        },
+        {
+            "id": "0090",
+            "description": "Procurador General de la República"
+        },
+        {
+            "id": "0100",
+            "description": "Procurador General de Justicia del Distrito Federal"
+        },
+        {
+            "id": "0110",
+            "description": "Procurador General de Justicia de Entidad Federativa"
+        },
+        {
+            "id": "0120",
+            "description": "Magistrado de Circuito"
+        }
+    ]
+}

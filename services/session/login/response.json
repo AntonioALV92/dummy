@@ -1,0 +1,24 @@
+{
+    "id": 6,
+    "usuario": "lgonzalez",
+    "nombre": "Biométricos",
+    "correo": "capacitacion@gib.net",
+    "sucursal": "SUC TECA",
+    "movilAsignado": 0,
+    "status": 1,
+    "idDaon": 0,
+    "resetPassword": true,
+    "solicitud_reset_password": false,
+    "permisos": {
+        "key": 3,
+        "webValidacion": true,
+        "webVerificacion": true,
+        "movilVerificacion": true,
+        "movilConsultaOperaciones": true,
+        "altaOperadores": true,
+        "webAutenticacion": true,
+        "webRegistro": true,
+        "webReportes": true,
+        "movilAltaVer2AutoCentralVerificadores": true
+    }
+}
