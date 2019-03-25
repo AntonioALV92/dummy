@@ -1,0 +1,30 @@
+## Crear Propiedad  [/api/sr/propiedades  ]
+
+### propiedades [POST]
+Se encarga de crear la propiedad
+
++ Request Ejemplo
+
+     + Body
+<!-- include(request.json) -->
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+        {
+            "propiedad": {
+                "id": 1
+            }
+        }
+
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "code": 500,
+                "message": "String"
+            }
+        }

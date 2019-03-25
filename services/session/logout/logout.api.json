@@ -1,6 +1,6 @@
 {
   "title": "Logout",
-  "endpoint": "/session/logout",
+  "endpoint": "/users/logout",
   "method": "POST",
   "responses": [
     {

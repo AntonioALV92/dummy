@@ -1,6 +1,6 @@
 {
-    "title": "Reset de Contraseña",
-    "endpoint": "/account/resetPassword",
+    "title": "Me",
+    "endpoint": "/me",
     "method": "POST",
     "responses": [
       {
@@ -10,7 +10,7 @@
           "Content-Type": "application/json"
         },
         "body": {
-         
+          
         }
       },
       {

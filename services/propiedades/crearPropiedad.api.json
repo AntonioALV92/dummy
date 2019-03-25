@@ -1,0 +1,32 @@
+{
+    "title": "Crear propiedad",
+    "endpoint": "/api/sr/propiedades",
+    "method": "POST",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200: Ok",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "body": {
+          "propiedad": {
+            "id": 1
+          }
+        }
+      },
+      {
+        "status": "500",
+        "label": "500: Error",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "body": {
+          "error": {
+            "code": 500,
+            "message": "Internal server error"
+          }
+        }
+      }
+    ]
+  }
