@@ -1,0 +1,15 @@
+{
+    "title": "Bancos",
+    "endpoint": "/catalogos/bancos",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseBancos.json"
+      }
+    ]
+  }

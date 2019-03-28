@@ -1,3 +1,26 @@
 {
-   "token": "asdnejvdlaue72mdoskdaAJDAS"
+   "menssage": "OK",
+   "code": 200,
+   "result": {
+      "materno": "Bahena",
+      "paterno": "Blancas",
+      "persona": {
+         "tipousuarioDefault": "Broker",
+         "cuenta": {
+               "tipousuario": "Broker",
+               "estatus": "Activo"
+         },
+         "imagen": "https://pmcvariety.files.wordpress.com/2018/04/mq-tdh.jpg",
+         "banco": "BBVA Bancomer, S.A., Institucion de Banca Multiple, Grupo Financiero BBVA Bancomer",
+         "tipopersona": "Individual",
+         "clabe": "02394802948230948203498"
+      },
+      "caduca": "2020-03-27T17:21:47.730+0000",
+      "usuario": "admin",
+      "id": 100,
+      "nombre": "Luis Adrian",
+      "email": "luis.blancas@stratplus.net",
+      "rfc": "BABL791225",
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsInJvbGVzIjpbIlJPTEVfQURNSU4iXSwiaWF0IjoxNTg1MzI5NzA3LCJleHAiOjE1ODUzMjk3MDd9.GIZ4vGapjM7awv9wuZeB4zcRWTb9eHuMu8tbebiy-f8"
+   }
 }

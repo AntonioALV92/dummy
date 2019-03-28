@@ -1,7 +1,7 @@
 {
-  "title": "Logout",
-  "endpoint": "/sesion/logout",
-  "method": "POST",
+  "title": "Crear nuevo usuario",
+  "endpoint": "/usuario/crear",
+  "method": "PUT",
   "responses": [
     {
       "status": "200",
@@ -10,30 +10,19 @@
         "Content-Type": "application/json"
       },
       "body": {
-        "menssage": "OK",
-        "code": 200,
-        "result": {
-            "materno": "Bahena",
-            "paterno": "Blancas",
-            "code": 200,
-            "usuario": "admin",
-            "id": 100,
-            "message": "Session terminada",
-            "nombre": "Luis Adrian",
-            "email": "luis.blancas@stratplus.net"
-        }
+       
       }
     },
     {
       "status": "400",
-      "label": "400: Error",
+      "label": "400: Problemas al crear el usuario",
       "headers": {
         "Content-Type": "application/json"
       },
       "body": {
-        "menssage": "Problemas al salir de la session usuario:  [admin] Session invalida",
+        "menssage": "Problemas al crear el usuario [luis.blancas@stratplus.net]",
         "code": 400,
-        "result": "Session invalida: admin"
+        "result": "Problemas al crear usuario"
       }
     },
     {

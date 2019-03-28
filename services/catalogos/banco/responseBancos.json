@@ -1,0 +1,32 @@
+[
+    {
+        "id": 5,
+        "descripcion": "Nuevo banco de barcelona",
+        "clave": null,
+        "corta": "admin"
+    },
+    {
+        "id": 1,
+        "descripcion": "Banco Nacional de Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Banamex",
+        "clave": "001",
+        "corta": "BANAMEX "
+    },
+    {
+        "id": 3,
+        "descripcion": "Banco Santander (Mexico), S.A., Institucion de Banca Multiple, Grupo Financiero Santander",
+        "clave": "003",
+        "corta": "SANTANDER"
+    },
+    {
+        "id": 2,
+        "descripcion": "BBVA Bancomer, S.A., Institucion de Banca Multiple, Grupo Financiero BBVA Bancomer",
+        "clave": "002",
+        "corta": "BBVA BANCOMER"
+    },
+    {
+        "id": 4,
+        "descripcion": "HSBC Mexico, S.A., institucion De Banca Multiple, Grupo Financiero HSBC",
+        "clave": "004",
+        "corta": "HSBC"
+    }
+]

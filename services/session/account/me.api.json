@@ -1,6 +1,6 @@
 {
     "title": "Me",
-    "endpoint": "/me",
+    "endpoint": "/usuario/informacion",
     "method": "POST",
     "responses": [
       {

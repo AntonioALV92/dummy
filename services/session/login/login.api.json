@@ -1,6 +1,6 @@
 {
   "title": "Login",
-  "endpoint": "/auth/signin ",
+  "endpoint": "/sesion/login",
   "method": "POST",
   "responses": [
     {
