@@ -1,4 +1,4 @@
-## Login  [/auth/signin]
+## Login  [/sesion/login]
 
 ### login [POST]
 Login principal de la aplicación
@@ -22,6 +22,37 @@ Login principal de la aplicación
         Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2IiwiaWF0IjoxNTM5OTAzMDY4LCJleHAiOjE1Mzk5MDM2Njg1LCJuYW1lIjoiTHVpcyBHb256YWxleiBTdHJhdFBsdXMiLCJ1c2VybmFtZSI6Imxnb256YWxleiJ9.89D8duaBMvsg5X6e8YsyPrz_N-C9bDhT0vKxGGG0uKOyexGPAqh0QlKJ7YyIefVVeUfcTpqgNX3gAh4IPX207g
         
     + Body
+<!-- include(response.json) -->
+
++ Response 400 (application/json)
+    + Relation: 400: Error
+
+    + Body
+    {
+        "menssage": "Usuario con sesion activa",
+        "code": 400,
+        "result": "Problemas en logeo de usuario:admin"
+    }
+
++ Response 400 (application/json)
+    + Relation: 400: Error
+
+    + Body
+    {
+        "menssage": "Usuario invalido / o password incorrecto",
+        "code": 400,
+        "result": "Problemas en logeo de usuario:luisadr"
+    }
+
++ Response 400 (application/json)
+    + Relation: 400: Error
+
+    + Body
+    {
+        "menssage": "No esta asignado a una persona el usuario [luisadr]",
+        "code": 400,
+        "result": "Problemas en logeo de usuarioluisadr"
+    }
 
 + Response 500 (application/json)
     + Relation: 500: Error

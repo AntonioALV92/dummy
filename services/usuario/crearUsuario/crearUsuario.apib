@@ -1,0 +1,42 @@
+## Crear nuevo usuario [/usuario/crear]
+
+### crearUsuario [PUT]
+Se encarga de cambiar la constrasenia
+
++ Request Broker
+<!-- include(broker.json) -->
+
++ Request Inquilino
+<!-- include(inquilino.json) -->
+
++ Request propietario
+<!-- include(propietario.json) -->
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+        {
+           
+        }
+
++ Response 400 (application/json)
+ + Relation: 400: Error
+
+ + Body
+ {
+     "menssage": "Problemas al crear el usuario [luis.blancas@stratplus.net]",
+     "code": 400,
+     "result": "Problemas al crear usuario"
+ }
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "code": 500,
+                "message": "Internal Server Error"
+            },
+            "result": null
+        }

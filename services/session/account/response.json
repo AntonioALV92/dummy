@@ -1,0 +1,35 @@
+{
+    "menssage": "OK",
+    "code": 200,
+    "result": {
+        "code": 200,
+        "usuario": {
+            "id": 152,
+            "username": "luisadr",
+            "password": "{bcrypt}$2a$10$6ttG8Wekrfl.x402yhSHIeDRMwDZuZqm.CFczfGEWLTwqZlDA4JaC",
+            "activo": 1,
+            "nombres": "Luis A",
+            "paterno": "Blanc",
+            "materno": "Bahe",
+            "email": "luisab",
+            "intentos": 0,
+            "maximo_intentos": 5,
+            "sesionminutos": 90,
+            "fecha_creacion": "2019-03-26T11:50:57.487+0000",
+            "fecha_cambio_password": "2059-03-25T19:40:18.897+0000",
+            "roles": [
+                "ROLE_USER"
+            ],
+            "enabled": true,
+            "authorities": [
+                {
+                    "authority": "ROLE_USER"
+                }
+            ],
+            "accountNonExpired": true,
+            "accountNonLocked": true,
+            "credentialsNonExpired": true
+        },
+        "mensaje": "Usuario modificado con exito ::luisadr"
+    }
+}
