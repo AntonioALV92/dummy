@@ -1,6 +1,6 @@
 {
-    "title": "Tipo datos",
-    "endpoint": "/catalogos/tipoDatos",
+    "title": "Tipo relaciones",
+    "endpoint": "/catalogos/tipoRelaciones",
     "method": "GET",
     "responses": [
       {
@@ -9,7 +9,7 @@
         "headers": {
           "Content-Type": "application/json"
         },
-        "bodyFile": "responseTipoDatos.json"
+        "bodyFile": "responseTipoRelaciones.json"
       }
     ]
   }

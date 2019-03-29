@@ -1,6 +1,6 @@
 {
-    "title": "Tipo dato",
-    "endpoint": "/catalogos/tipoDato/{id}",
+    "title": "Tipo avales solidarios",
+    "endpoint": "/catalogos/tipoAvalesSolidarios",
     "method": "GET",
     "responses": [
       {
@@ -9,7 +9,7 @@
         "headers": {
           "Content-Type": "application/json"
         },
-        "bodyFile": "responseTipoDato.json"
+        "bodyFile": "responseTipoAvalesSolidarios.json"
       }
     ]
   }
