@@ -1,0 +1,15 @@
+{
+    "title": "Tipo aval",
+    "endpoint": "/catalogos/tipoAval/{id}",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoAval.json"
+      }
+    ]
+  }

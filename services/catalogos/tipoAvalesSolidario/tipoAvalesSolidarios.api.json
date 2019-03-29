@@ -1,0 +1,15 @@
+{
+    "title": "Tipo avales solidarios",
+    "endpoint": "/catalogos/tipoAvalesSolidarios",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoAvalesSolidarios.json"
+      }
+    ]
+  }

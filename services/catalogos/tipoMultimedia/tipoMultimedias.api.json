@@ -1,0 +1,15 @@
+{
+    "title": "Tipo multimedias",
+    "endpoint": "/catalogos/tipoMultimedias",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoMultimedias.json"
+      }
+    ]
+  }

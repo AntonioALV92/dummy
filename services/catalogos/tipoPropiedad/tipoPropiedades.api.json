@@ -1,0 +1,15 @@
+{
+    "title": "Tipo propiedades",
+    "endpoint": "/catalogos/tipoPropiedades",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoPropiedades.json"
+      }
+    ]
+  }
