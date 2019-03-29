@@ -1,0 +1,15 @@
+{
+    "title": "Tipo usuarios",
+    "endpoint": "/catalogos/tipoUsuario",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoUsuarios.json"
+      }
+    ]
+  }

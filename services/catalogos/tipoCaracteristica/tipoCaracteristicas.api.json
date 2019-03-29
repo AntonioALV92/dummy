@@ -1,0 +1,15 @@
+{
+    "title": "Tipo caracteristicas",
+    "endpoint": "/catalogos/tipoCaracteristicas",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoCaracteristicas.json"
+      }
+    ]
+  }

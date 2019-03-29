@@ -1,0 +1,15 @@
+{
+    "title": "Tipo arrendadores",
+    "endpoint": "/catalogos/tipoArrendadores",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoArrendadores.json"
+      }
+    ]
+  }

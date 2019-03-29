@@ -1,0 +1,15 @@
+{
+    "title": "Modulos",
+    "endpoint": "/catalogos/modulos",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseModulos.json"
+      }
+    ]
+  }

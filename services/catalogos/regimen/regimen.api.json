@@ -1,0 +1,15 @@
+{
+    "title": "Regimen",
+    "endpoint": "/catalogos/regimen/{id}",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseRegimen.json"
+      }
+    ]
+  }
