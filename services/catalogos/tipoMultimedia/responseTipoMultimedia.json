@@ -1,24 +1,4 @@
 {
-	"categorias": [
-	  {	
-		"id": 1,
-		"categoria": "String",
-		"items": {
-			"caracteristica1": [{
-				"id": 1,
-				"conicono": 0,
-				"icono": "Recámara",
-				"descripcion": "Recámara",
-				"tipo_dato": 1
-            }],
-            "caracteristica2": [{
-				"id": 2,
-				"conicono": 1,
-				"icono": "Baño",
-				"descripcion": "Baño",
-				"tipo_dato": 1
-			}]
-		}
-	  }
-	]
+  "id": 1,
+  "descripcion": "imagen"
 }

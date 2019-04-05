@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "descripcion": "arrendatario"
+    },
+    {
+      "id": 2,
+      "descripcion": "arrendador"
+    },
+    {
+      "id": 3,
+      "descripcion": "aval"
+    },
+    {
+      "id": 4,
+      "descripcion": "obligadosolidario"
+    },
+    {
+      "id": 5,
+      "descripcion": "dueño"
+    }
+  ]

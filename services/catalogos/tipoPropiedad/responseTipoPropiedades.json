@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "descripcion": "casa"
+    },
+    {
+      "id": 2,
+      "descripcion": "departamento"
+    },
+    {
+      "id": 3,
+      "descripcion": "terreno"
+    }
+  ]
