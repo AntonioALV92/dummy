@@ -1,31 +1,38 @@
 {
-  "title": "Login",
-  "endpoint": "/sesion/login",
-  "method": "POST",
-  "responses": [
-    {
-      "status": "200",
-      "label": "200: Ok",
-      "headers": {
-        "Content-Type": "application/json",
-        "Accept-Charset": "utf-8",
-        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2IiwiaWF0IjoxNTM5OTAzMDY4LCJleHAiOjE1Mzk5MDM2Njg1LCJuYW1lIjoiTHVpcyBHb256YWxleiBTdHJhdFBsdXMiLCJ1c2VybmFtZSI6Imxnb256YWxleiJ9.89D8duaBMvsg5X6e8YsyPrz_N-C9bDhT0vKxGGG0uKOyexGPAqh0QlKJ7YyIefVVeUfcTpqgNX3gAh4IPX207g"
-      },
-      "bodyFile": "response.json"
-    },
-    {
-      "status": "500",
-      "label": "500: Error",
-      "headers": {
-        "Content-Type": "application/json"
-      },
-      "body": {
-        "error": {
-          "code": 500,
-          "message": "Internal Server Error"
+    "title": "Login",
+    "endpoint": "/sesion/login",
+    "method": "POST",
+    "responses": [{
+            "status": "200",
+            "label": "200: Cliente",
+            "headers": {
+                "Content-Type": "application/json",
+                "Accept-Charset": "utf-8"
+            },
+            "bodyFile": "responseCliente.json"
         },
-        "result": null
-      }
-    }
-  ]
+        {
+            "status": "200",
+            "label": "200: Broker",
+            "headers": {
+                "Content-Type": "application/json",
+                "Accept-Charset": "utf-8"
+            },
+            "bodyFile": "responseBroker.json"
+        },
+        {
+            "status": "500",
+            "label": "500: Error",
+            "headers": {
+                "Content-Type": "application/json"
+            },
+            "body": {
+                "error": {
+                    "code": 500,
+                    "message": "Internal Server Error"
+                },
+                "result": null
+            }
+        }
+    ]
 }

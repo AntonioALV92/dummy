@@ -1,0 +1,26 @@
+{
+    "menssage": "OK",
+    "code": 200,
+    "result": {
+        "materno": "Jr",
+        "paterno": "Stark",
+        "persona": {
+            "tipousuarioDefault": "Client",
+            "cuenta": {
+                "tipousuario": "Client",
+                "estatus": "Activo"
+            },
+            "imagen": "https://pmcvariety.files.wordpress.com/2018/04/mq-tdh.jpg",
+            "banco": "BBVA Bancomer, S.A., Institucion de Banca Multiple, Grupo Financiero BBVA Bancomer",
+            "tipopersona": "Individual",
+            "clabe": "02394802948230948203498"
+        },
+        "caduca": "2020-03-27T17:21:47.730+0000",
+        "usuario": "client",
+        "id": 101,
+        "nombre": "Tony Edward",
+        "email": "UsuarioCliente@stratplus.net",
+        "rfc": "BABL791225",
+        "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsInJvbGVzIjpbIlJPTEVfQURNSU4iXSwiaWF0IjoxNTg1MzI5NzA3LCJleHAiOjE1ODUzMjk3MDd9.GIZ4vGapjM7awv9wuZeB4zcRWTb9eHuMu8tbebiy-f8"
+    }
+}
