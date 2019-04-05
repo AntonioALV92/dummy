@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Broker"
+  },
+  {
+    "id": 2,
+    "descripcion": "Propietario"
+  },
+  {
+    "id": 3,
+    "descripcion": "Inquilino"
+  },
+  {
+    "id": 4,
+    "descripcion": "Backoffice"
+  }
+]

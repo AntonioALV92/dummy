@@ -1,0 +1,15 @@
+{
+    "title": "Tipo imagen",
+    "endpoint": "/catalogos/tipoImagen/{id}",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoImagen.json"
+      }
+    ]
+  }

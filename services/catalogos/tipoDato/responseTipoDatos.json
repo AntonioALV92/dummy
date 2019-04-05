@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "descripcion": "boolean"
+    },
+    {
+        "id": 2,
+        "descripcion": "numerico"
+    }
+]

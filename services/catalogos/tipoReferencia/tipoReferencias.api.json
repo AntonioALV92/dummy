@@ -1,0 +1,15 @@
+{
+    "title": "Tipo referencias",
+    "endpoint": "/catalogos/tipoReferencias",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseTipoReferencias.json"
+      }
+    ]
+  }

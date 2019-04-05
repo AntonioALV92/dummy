@@ -1,0 +1,15 @@
+{
+    "title": "Sucursal",
+    "endpoint": "/catalogos/sucursal/{id}",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseSucursal.json"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "descripcion": "persona fisica"
+  },
+  {
+    "id": 2,
+    "descripcion": "persona moral"
+  },
+  {
+    "id": 3,
+    "descripcion": "persona fisica con actividad empresarial"
+  }
+]

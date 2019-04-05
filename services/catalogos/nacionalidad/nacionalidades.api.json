@@ -1,0 +1,15 @@
+{
+    "title": "Nacionalidades",
+    "endpoint": "/catalogos/nacionalidades",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "responseNacionalidades.json"
+      }
+    ]
+  }
