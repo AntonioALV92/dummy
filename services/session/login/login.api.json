@@ -4,12 +4,12 @@
     "method": "POST",
     "responses": [{
             "status": "200",
-            "label": "200: Cliente",
+            "label": "200: Inquilino",
             "headers": {
                 "Content-Type": "application/json",
                 "Accept-Charset": "utf-8"
             },
-            "bodyFile": "responseCliente.json"
+            "bodyFile": "responseInquilino.json"
         },
         {
             "status": "200",

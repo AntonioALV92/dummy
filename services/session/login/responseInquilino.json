@@ -2,7 +2,7 @@
     "menssage": "OK",
     "code": 200,
     "result": {
-        "tipousuarioDefault": 2,
+        "tipousuarioDefault": 1,
         "apellidoPaterno": "string",
         "apellidoMaterno": "string",
         "nombre": "string",
@@ -10,7 +10,7 @@
         "cuentas": [
             {
                 "id": 1,
-                "descripcion": "Broker"
+                "descripcion": "Inquilino"
             }
         ],
         "id": 100,
