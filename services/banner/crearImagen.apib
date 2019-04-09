@@ -1,0 +1,29 @@
+## Crear Imagen  [/banner/crearImagen]
+
+### crearImagen [POST]
+Se encarga de agregar mas imagenes al carrusel
+
++ Request Ejemplo
+
+     + Body
+<!-- include(requestImg.json) -->
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+        {
+            "url":"",
+            "nombreArchivo":"Id_nombrePropiedad_tipoPropiedad"
+	    }
+
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "code": 500,
+                "message": "String"
+            }
+        }
