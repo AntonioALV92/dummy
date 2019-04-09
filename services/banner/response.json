@@ -1,0 +1,21 @@
+{  
+    "id": 1,
+    "idcuenta": 10,
+    "tipocarrusel":{
+        "id": 1,
+        "descripcion": "string" 
+    },
+    "items": [
+        {
+            "id": 1,
+            "orden": 2,
+            "url": "./assets/img/img1.jpg"
+        },
+        {
+            "id": 2,
+            "orden": 1,
+            "url": "./assets/img/home_broker.png"
+        }
+       
+    ]
+}

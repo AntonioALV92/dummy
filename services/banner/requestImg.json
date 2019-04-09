@@ -1,0 +1,12 @@
+{
+	"idCuenta": 1,
+	"idTipoCarrusel": 1,
+	"items": [
+        {
+			"orden": 1,
+			"datoImagen": "string",
+			"nombre": "string",
+			"mime": "string"
+        }
+    ]
+}
