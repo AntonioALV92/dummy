@@ -1,6 +1,6 @@
 {
     "title": "Crear propiedad",
-    "endpoint": "/api/sr/propiedades",
+    "endpoint": "/api/sg/propiedades",
     "method": "POST",
     "responses": [
       {

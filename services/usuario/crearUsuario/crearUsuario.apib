@@ -1,7 +1,7 @@
 ## Crear nuevo usuario [/usuario/crear]
 
-### crearUsuario [PUT]
-Se encarga de cambiar la constrasenia
+### crearUsuario [POST]
+Se encarga de crear un nuevo registro
 
 + Request Broker
 <!-- include(broker.json) -->
@@ -17,7 +17,8 @@ Se encarga de cambiar la constrasenia
 
     + Body
         {
-           
+           "code": 200,
+           "message": "Usuario creado"
         }
 
 + Response 400 (application/json)
