@@ -1,0 +1,7 @@
+{
+    "imagenes": [{
+        "datoImagen": "base64",
+        "mime": "string"
+    }]
+
+}

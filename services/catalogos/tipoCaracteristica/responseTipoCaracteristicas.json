@@ -1,60 +1,44 @@
 {
-    "categorias": [
-      {
-        "id": 1,
-        "categoria": "Caracteristicas",
-        "items": {
-          "caracteristica": [
-            {
-              "idcaracteristica": 1,
-              "conicono": 1,
-              "icono": "url",
-              "descripcion": "uno",
-              "tipo_dato": 1,
-              "categoria": null
-            }
-          ]
-        }
-      },
-      {
-        "id": 2,
-        "categoria": "Amenidades",
-        "items": {
-          "caracteristica": [
-            {
-              "idcaracteristica": 3,
-              "conicono": 0,
-              "icono": "Nueva Opcion",
-              "descripcion": "Example ",
-              "tipo_dato": 2,
-              "categoria": null
-            }
-          ]
-        }
-      },
-      {
-        "id": 3,
-        "categoria": "Reglas",
-        "items": {
-          "caracteristica": [
-            {
-              "idcaracteristica": 2,
-              "conicono": 0,
-              "icono": "https",
-              "descripcion": "dos",
-              "tipo_dato": 2,
-              "categoria": null
-            },
-            {
-              "idcaracteristica": 4,
-              "conicono": 0,
-              "icono": "otra Opcion",
-              "descripcion": "Segunda ",
-              "tipo_dato": 2,
-              "categoria": null
-            }
-          ]
-        }
-      }
-    ]
-  }
+	"error": { 
+			"mensaje": "string"
+	},
+	"result": {
+			"categorias": [{
+							"id": 1,
+							"categoria": "Caracteristicas generales",
+							"items": [{
+									"id": 1,
+									"conicono": 0, 
+									"icono": "String",
+									"descripcion": "String",
+									"tipoDato": 1 
+							}]
+					},
+
+					{
+							"id": 2,
+							"categoria": "Comodidades",
+							"items": [{
+									"id": 1,
+									"conicono": 0,
+									"icono": "String",
+									"descripcion": "String",
+									"tipoDato": 1
+							}]
+					},
+
+					{
+							"id": 3,
+							"categoria": "Reglas",
+							"items": [{
+									"id": 1,
+									"conicono": 0,
+									"icono": "String",
+									"descripcion": "String",
+									"tipoDato": 1
+							}]
+					}
+
+			]
+	}
+}

@@ -23,8 +23,7 @@
         },
         "body": {
           "error": {
-            "code": 500,
-            "message": "Internal server error"
+            "mensaje": "Internal server error"
           }
         }
       }

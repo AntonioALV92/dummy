@@ -10,10 +10,15 @@
           "Content-Type": "application/json"
         },
         "body": {
-          "propiedad": {
-            "id": 1
-          }
-        }
+          "error": { 
+          "mensaje": "string"
+          },
+          "result": {
+              "idPropiedad": 1
+          } 
+      }
+          
+        
       },
       {
         "status": "500",
@@ -23,8 +28,9 @@
         },
         "body": {
           "error": {
-            "mensaje": "Internal server error"
-          }
+            "mensaje": "Internal Server Error"
+          },
+          "result": null
         }
       }
     ]
