@@ -28,9 +28,22 @@ Login principal de la aplicación
 
     + Body
     {
-        "menssage": "Usuario con sesion activa",
-        "code": 400,
-        "result": "Problemas en logeo de usuario:admin"
+        "error": {
+            "mensaje": "Usuario con sesion activa"
+        },
+        "result": null
+    }
+   
+
++ Response 400 (application/json)
+    + Relation: 400: Error
+
+    + Body
+    {
+        "error": {
+            "mensaje": "Usuario invalido / o password incorrecto"
+        },
+        "result": null
     }
 
 + Response 400 (application/json)
@@ -38,19 +51,10 @@ Login principal de la aplicación
 
     + Body
     {
-        "menssage": "Usuario invalido / o password incorrecto",
-        "code": 400,
-        "result": "Problemas en logeo de usuario:luisadr"
-    }
-
-+ Response 400 (application/json)
-    + Relation: 400: Error
-
-    + Body
-    {
-        "menssage": "No esta asignado a una persona el usuario [luisadr]",
-        "code": 400,
-        "result": "Problemas en logeo de usuarioluisadr"
+        "error": {
+            "mensaje": "No esta asignado a una persona el usuario [dani]"
+        },
+        "result": null
     }
 
 + Response 500 (application/json)
@@ -59,8 +63,7 @@ Login principal de la aplicación
     + Body
         {
             "error": {
-                "code": 500,
-                "message": "Internal Server Error"
+                "mensaje": "Internal Server Error"
             },
             "result": null
         }

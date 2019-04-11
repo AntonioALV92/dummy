@@ -1,0 +1,27 @@
+## Usuario info  [/usuario/info]
+
+### usuarioInfo[GET]
+
++ Request Ejemplo
+
+    + Body
+        {
+            
+        }
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+<!-- include(responseUsuarioInfo.json) -->
+       
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "mensaje": "Internal Server Error"
+            },
+            "result": null
+        }

@@ -1,0 +1,8 @@
+{
+    "error": { 
+    "mensaje": "string"
+    },
+    "result": {
+        "idPropiedad": 1
+    } 
+}

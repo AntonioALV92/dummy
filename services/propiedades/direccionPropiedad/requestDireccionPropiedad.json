@@ -1,0 +1,15 @@
+{
+    "alias": "string",
+    "calle": "string",
+    "numeroInterior": "string",
+    "numeroExterior": "string",
+    "codigoPostal": "string",
+    "colonia": "string",
+    "ciudad": "string",
+    "municipio": "string",
+    "estado": "string",
+    "pais": "string",
+    "latitud": 19.001231023012, 
+    "longitud": -19.001231023012,
+    "descripcion": "string"
+}
