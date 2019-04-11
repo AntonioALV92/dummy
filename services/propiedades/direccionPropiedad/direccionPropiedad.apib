@@ -1,0 +1,26 @@
+## Dirección Propiedad  [propiedad/direccionPropiedad]
+
+### direccionPropiedad [POST]
+Se encarga de crear la direccion de la propiedad
+
++ Request Ejemplo
+
+     + Body
+<!-- include(requestDireccionPropiedad.json) -->
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+<!-- include (responseDireccionPropiedad.json) -->
+
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+       {
+            "error": {
+                "mensaje": "Internal Server Error"
+            },
+            "result": null
+        }

@@ -1,0 +1,15 @@
+{
+    "title": "Caracteristicas de la propiedad",
+    "endpoint": "/propiedad/caracteristicas/{idPropiedad}",
+    "method": "PUT",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "response.json"
+      }
+    ]
+  }

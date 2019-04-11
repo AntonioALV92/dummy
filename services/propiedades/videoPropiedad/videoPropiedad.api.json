@@ -1,0 +1,15 @@
+{
+    "title": "Video propiedad",
+    "endpoint": "/videoPropiedad/{idPropiedad}",
+    "method": "PUT",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "response.json"
+      }
+    ]
+  }
