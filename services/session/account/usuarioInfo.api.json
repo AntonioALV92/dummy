@@ -1,7 +1,7 @@
 {
-    "title": "Me",
-    "endpoint": "/usuario/informacion",
-    "method": "POST",
+    "title": "Usuario Info",
+    "endpoint": "/usuario/info",
+    "method": "GET",
     "responses": [
       {
         "status": "200",
@@ -9,9 +9,7 @@
         "headers": {
           "Content-Type": "application/json"
         },
-        "body": {
-          
-        }
+        "bodyFile": "responseUsuarioInfo.json"
       },
       {
         "status": "500",
@@ -21,8 +19,7 @@
         },
         "body": {
           "error": {
-            "code": 500,
-            "message": "Internal Server Error"
+            "mensaje": "Internal Server Error"
           },
           "result": null
         }

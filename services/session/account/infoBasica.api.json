@@ -1,0 +1,28 @@
+{
+    "title": "Usuario Info basica",
+    "endpoint": "/usuario/infoBasica",
+    "method": "GET",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200: Ok",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "infoBasicaResponse.json"
+      },
+      {
+        "status": "500",
+        "label": "500: Error",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "body": {
+          "error": {
+            "mensaje": "Internal Server Error"
+          },
+          "result": null
+        }
+      }
+    ]
+  }
