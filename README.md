@@ -1,10 +1,9 @@
-# Gib Dummy Services V2
+# SG Dummy Services V1
 ## Descripción
 
-Aplicación que se encarga de levantar los servicios dummy para el GIB.
+Aplicación que se encarga de levantar los servicios dummy para SG.
 Esta aplicación tomá la descripción desde los archivos `.apib` para generar los servicios que en ellos se describen, montandolos en un servidor Express.
  La documentación de los servicios está visible en:   
-https://luisegr.gitlab.io/gib-dummy-services/docs/
 
 ---
 
@@ -13,7 +12,7 @@ https://luisegr.gitlab.io/gib-dummy-services/docs/
 
 Para instalar esta aplicación hay que ejecutar:
 ```bash
-git clone https://gitlab.com/LuisEGR/gib-dummy-services.git
+git clone https://gitlab.com/segurenta/sg-dummy-services.git
 cd gib-dummy-services
 npm install
 ```
@@ -25,8 +24,6 @@ Para ejecutar esta aplicación hay que ejecutar:
 npm start
 ```
 ---
-
-
 
 ## Creación de servicios nuevos
 
@@ -60,7 +57,6 @@ en el contenido tiene lo siguiente:
 ```
 
 Este se llama "My New Service" y se accede en la ruta `/ruta/to/myService`, solo tiene un método `GET` y tiene 2 respuestas posibles (200 y 500), la respuesta 200 se responde junto con el contenido del archivo `myService.json` y la respuesta 500 contiene el json de respuesta directo en ese archivo `myService.apib`
-
 
 
 Ahora vamos a crear el archivo `services/MyService/myService.json` que es el que se utilizará para la respuesta 200:
