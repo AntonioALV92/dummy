@@ -1,0 +1,26 @@
+## Busqueda de Propiedades  [/propiedad/busqueda]
+
+### busqueda [POST]
+
++ Request Ejemplo
+
+    + Headers
+        Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
+
+
+    + Body
+<!-- include(request.json) -->
+
++ Response 200 (application/json)
+<!-- include(response.json) -->
+       
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "mensaje": "Internal Server Error"
+            },
+            "result": null
+        }
