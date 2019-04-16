@@ -32,7 +32,6 @@ Se encarga de crear un nuevo registro
 
     + Body
         {
-           "code": 200,
            "message": "Usuario creado"
         }
 
@@ -41,8 +40,9 @@ Se encarga de crear un nuevo registro
 
  + Body
  {
-     "menssage": "Problemas al crear el usuario [luis.blancas@stratplus.net]",
-     "code": 400,
+    "error": {
+        "mensaje": "string"
+    }
      "result": "Problemas al crear usuario"
  }
 + Response 500 (application/json)
@@ -51,8 +51,7 @@ Se encarga de crear un nuevo registro
     + Body
         {
             "error": {
-                "code": 500,
-                "message": "Internal Server Error"
+                "mensaje": "string"
             },
             "result": null
         }

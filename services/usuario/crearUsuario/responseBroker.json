@@ -1,6 +1,5 @@
 {
-    "menssage": "OK",
-    "code": 200,
+    "error": null,
     "result": {
         "materno": "Bahena",
         "paterno": "Blancas",

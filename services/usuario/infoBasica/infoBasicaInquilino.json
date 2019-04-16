@@ -1,7 +1,5 @@
 {
-    "error": {
-        "mensaje": "string"
-    },
+    "error": null,
     "result": {
         "tipoUsuarioDefault": 1,
         "apellidoPaterno": "López",
