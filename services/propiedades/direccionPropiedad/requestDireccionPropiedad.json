@@ -6,7 +6,7 @@
     "codigoPostal": "string",
     "colonia": "string",
     "ciudad": "string",
-    "municipio": "string",
+    "delegacion": "string",
     "estado": "string",
     "pais": "string",
     "latitud": 19.001231023012, 

@@ -1,0 +1,15 @@
+{
+    "title": "Búsqueda de zonas",
+    "endpoint": "/zona",
+    "method": "POST",
+    "responses": [
+      {
+        "status": "200",
+        "label": "200",
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFile": "response.json"
+      }
+    ]
+  }
