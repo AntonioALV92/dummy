@@ -1695,31 +1695,28 @@
 <li>Relation: 200: Ok</li>
 </ul>
 </div><h5>Headers</h5><pre><code><span class="hljs-attribute">Content-Type</span>: <span class="hljs-string">application/json</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
-  "<span class="hljs-attribute">code</span>": <span class="hljs-value"><span class="hljs-number">200</span></span>,
   "<span class="hljs-attribute">message</span>": <span class="hljs-value"><span class="hljs-string">"Usuario creado"</span>
 </span>}</code></pre><div style="height: 1px;"></div></div></div><div class="title"><strong>Response&nbsp;&nbsp;<code>400</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><div class="description"><ul>
 <li>Relation: 400: Error</li>
 </ul>
 </div><h5>Headers</h5><pre><code><span class="hljs-attribute">Content-Type</span>: <span class="hljs-string">application/json</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
-  "<span class="hljs-attribute">menssage</span>": <span class="hljs-value"><span class="hljs-string">"Problemas al crear el usuario [luis.blancas@stratplus.net]"</span></span>,
-  "<span class="hljs-attribute">code</span>": <span class="hljs-value"><span class="hljs-number">400</span></span>,
-  "<span class="hljs-attribute">result</span>": <span class="hljs-value"><span class="hljs-string">"Problemas al crear usuario"</span>
+"<span class="hljs-attribute">error</span>": <span class="hljs-value">{
+"<span class="hljs-attribute">mensaje</span>": <span class="hljs-value"><span class="hljs-string">"string"</span>
+</span>}
+<span class="hljs-string">"result"</span>: <span class="hljs-string">"Problemas al crear usuario"</span>
 </span>}</code></pre><div style="height: 1px;"></div></div></div><div class="title"><strong>Response&nbsp;&nbsp;<code>500</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><div class="description"><ul>
 <li>Relation: 500: Error</li>
 </ul>
 </div><h5>Headers</h5><pre><code><span class="hljs-attribute">Content-Type</span>: <span class="hljs-string">application/json</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
   "<span class="hljs-attribute">error</span>": <span class="hljs-value">{
-    "<span class="hljs-attribute">code</span>": <span class="hljs-value"><span class="hljs-number">500</span></span>,
-    "<span class="hljs-attribute">message</span>": <span class="hljs-value"><span class="hljs-string">"Internal Server Error"</span>
+    "<span class="hljs-attribute">mensaje</span>": <span class="hljs-value"><span class="hljs-string">"string"</span>
   </span>}</span>,
   "<span class="hljs-attribute">result</span>": <span class="hljs-value"><span class="hljs-literal">null</span>
 </span>}</code></pre><div style="height: 1px;"></div></div></div></div></div><div id="usuarios-info-basica" class="resource"><h3 class="resource-heading">Info basica <a href="#usuarios-info-basica" class="permalink">&nbsp;&para;</a></h3><div id="usuarios-info-basica-get" class="action get"><h4 class="action-heading"><div class="name">usuarioInfoBasica</div><a href="#usuarios-info-basica-get" class="method get">GET</a><code class="uri">/usuario/infoBasica</code></h4><h4>Example URI</h4><div class="definition"><span class="method get">GET</span>&nbsp;<span class="uri"><span class="hostname">http://localhost:3050</span>/usuario/infoBasica</span></div><div class="title"><strong>Request&nbsp;&nbsp;<code>Ejemplo</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><h5>Headers</h5><pre><code><span class="hljs-attribute">Authorization</span>: <span class="hljs-string">YWxhZGRpbjpvcGVuc2VzYW1l</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{}</code></pre><div style="height: 1px;"></div></div></div><div class="title"><strong>Response&nbsp;&nbsp;<code>200</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><div class="description"><ul>
 <li>Relation: 200: Broker</li>
 </ul>
 </div><h5>Headers</h5><pre><code><span class="hljs-attribute">Content-Type</span>: <span class="hljs-string">application/json</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
-  "<span class="hljs-attribute">error</span>": <span class="hljs-value">{
-    "<span class="hljs-attribute">mensaje</span>": <span class="hljs-value"><span class="hljs-string">"string"</span>
-  </span>}</span>,
+  "<span class="hljs-attribute">error</span>": <span class="hljs-value"><span class="hljs-literal">null</span></span>,
   "<span class="hljs-attribute">result</span>": <span class="hljs-value">{
     "<span class="hljs-attribute">tipoUsuarioDefault</span>": <span class="hljs-value"><span class="hljs-number">2</span></span>,
     "<span class="hljs-attribute">apellidoPaterno</span>": <span class="hljs-value"><span class="hljs-string">"López"</span></span>,
@@ -1743,9 +1740,7 @@
 <li>Relation: 200: Inquilino</li>
 </ul>
 </div><h5>Headers</h5><pre><code><span class="hljs-attribute">Content-Type</span>: <span class="hljs-string">application/json</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
-  "<span class="hljs-attribute">error</span>": <span class="hljs-value">{
-    "<span class="hljs-attribute">mensaje</span>": <span class="hljs-value"><span class="hljs-string">"string"</span>
-  </span>}</span>,
+  "<span class="hljs-attribute">error</span>": <span class="hljs-value"><span class="hljs-literal">null</span></span>,
   "<span class="hljs-attribute">result</span>": <span class="hljs-value">{
     "<span class="hljs-attribute">tipoUsuarioDefault</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
     "<span class="hljs-attribute">apellidoPaterno</span>": <span class="hljs-value"><span class="hljs-string">"López"</span></span>,
