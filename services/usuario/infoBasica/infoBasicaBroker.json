@@ -1,0 +1,23 @@
+{
+    "error": {
+        "mensaje": "string"
+    },
+    "result": {
+        "tipoUsuarioDefault": 2,
+        "apellidoPaterno": "López",
+        "apellidoMaterno": "Vásquez",
+        "nombre": "Antonio",
+        "urlImagen": "https://pmcvariety.files.wordpress.com/2018/04/mq-tdh.jpg",
+        "perfiles": [{
+                "idPerfil": 1,
+                "descripcion": "Inquilino",
+                "estatus": "Activo"
+            },
+            {
+                "idPerfil": 2,
+                "descripcion": "Broker",
+                "estatus": "Activo"
+            }
+        ]
+    }
+}
