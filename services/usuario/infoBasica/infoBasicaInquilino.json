@@ -1,8 +1,8 @@
 {
-    "error": { 
+    "error": {
         "mensaje": "string"
     },
-    "result": { 
+    "result": {
         "tipoUsuarioDefault": 1,
         "apellidoPaterno": "López",
         "apellidoMaterno": "Vásquez",
