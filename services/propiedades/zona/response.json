@@ -1,0 +1,45 @@
+{
+  "error": null,
+  "result": [
+    {
+      "id": 1,
+      "imagen": "img",
+      "descripcion": "String"
+    },
+    {
+      "id": 2,
+      "imagen": "img",
+      "descripcion": "String"
+    },
+    {
+      "id": 3,
+      "imagen": "img",
+      "descripcion": "String"
+    },
+    {
+      "id": 4,
+      "imagen": "img",
+      "descripcion": "String"
+    },
+    {
+      "id": 5,
+      "imagen": "img",
+      "descripcion": "String"
+    },
+    {
+      "id": 6,
+      "imagen": "img",
+      "descripcion": "String"
+    },
+    {
+      "id": 7,
+      "imagen": "img",
+      "descripcion": "String"
+    },
+    {
+      "id": 8,
+      "imagen": "img",
+      "descripcion": "String"
+    }
+  ]
+}
