@@ -11,4 +11,16 @@
       "id": 3,
       "descripcion": "terreno"
     }
+    ,{
+      "id": 4,
+      "descripcion": "local comercial"
+    },
+    {
+      "id": 5,
+      "descripcion": "rancho"
+    },
+    {
+      "id": 6,
+      "descripcion": "bodega"
+    }
   ]

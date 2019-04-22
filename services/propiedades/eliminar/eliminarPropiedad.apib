@@ -1,21 +1,21 @@
-## Dirección Propiedad  [/propiedad/direccionPropiedad]
+## Eliminar Propiedad  [/propiedad/eliminarPropiedad/{idPropiedad}]
 
-### direccionPropiedad [POST]
-Se encarga de crear la direccion de la propiedad
+### eliminarPropiedad [DELETE]
+Se encarga de eliminar la propiedad
+
++ Parameters
+    + idPropiedad (number, required) - Id de la propiedad
 
 + Request Ejemplo
     
     + Headers
         Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
-
-     + Body
-<!-- include(requestDireccionPropiedad.json) -->
-
+ 
 + Response 200 (application/json)
     + Relation: 200: Ok
 
     + Body
-<!-- include(responseDireccionPropiedad.json) -->
+<!-- include(response.json) -->
 
 + Response 500 (application/json)
     + Relation: 500: Error

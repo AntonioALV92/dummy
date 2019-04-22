@@ -1,6 +1,12 @@
 {
-    "características": [{
-        "idCaracterística": 1,
-        "valor": "string"
-    }]
+    "características": [
+        {
+            "idCaracterística": 1,
+            "valor": "string"
+        },
+        {
+            "idCaracterística": 2,
+            "valor": "string"
+        }
+  ]
 }

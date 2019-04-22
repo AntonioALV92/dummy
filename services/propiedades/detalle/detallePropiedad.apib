@@ -1,21 +1,21 @@
-## Dirección Propiedad  [/propiedad/direccionPropiedad]
+## Detalle Propiedad  [/propiedad/detallePropiedad/{idPropiedad}]
 
-### direccionPropiedad [POST]
-Se encarga de crear la direccion de la propiedad
+### detallePropiedad [GET]
+Se encarga de devolver el detalle de la propiedad
+
++ Parameters
+    + idPropiedad (number, required) - Id de la propiedad
 
 + Request Ejemplo
     
     + Headers
         Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
 
-     + Body
-<!-- include(requestDireccionPropiedad.json) -->
-
 + Response 200 (application/json)
     + Relation: 200: Ok
 
     + Body
-<!-- include(responseDireccionPropiedad.json) -->
+<!-- include(responseDetallePropiedad.json) -->
 
 + Response 500 (application/json)
     + Relation: 500: Error
