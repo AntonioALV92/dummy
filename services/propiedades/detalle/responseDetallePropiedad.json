@@ -1,0 +1,72 @@
+{
+    "error": null,
+    "result": {
+        "propiedad": {
+            "mensualidad": 10000,
+            "mantenimiento": 11111,
+            "descripcion": "string",
+            "estatus": "string",
+            "latitud": 10.2112,
+            "longitud": 10.2921,
+            "calle": "string",
+            "numero": 1,
+            "cp": 54043,
+            "colonia": "string",
+            "municipio": "string",
+            "estado": "string",
+            "categorias": [
+                {
+                    "id": 1,
+                    "categoria": "Caracteristicas generales",
+                    "items": [
+                        {
+                            "id": 1,
+                            "conicono": 0,
+                            "icono": "String",
+                            "descripcion": "String",
+                            "valor": 1,
+                            "tipoDato": "string",
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "categoria": "Comodidades",
+                    "items": [
+                        {
+                            "id": 1,
+                            "conicono": 0,
+                            "icono": "String",
+                            "descripcion": "String",
+                            "valor": 3,
+                            "tipoDato": "string",
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "categoria": "Reglas",
+                    "items": [
+                        {
+                            "id": 1,
+                            "conicono": 0,
+                            "icono": "String",
+                            "descripcion": "String",
+                            "valor": 1,
+                            "tipoDato": "string",
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "broker": {
+        "num_broker": 1,
+        "telefono": 123124322,
+        "nombre_completo": "string",
+        "email": "string",
+        "propiedades_broker": 13,
+        "avatar": "url"
+    }
+
+}
