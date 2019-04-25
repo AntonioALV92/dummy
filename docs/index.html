@@ -1618,7 +1618,21 @@
   </span>}</span>,
   "<span class="hljs-attribute">result</span>": <span class="hljs-value"><span class="hljs-literal">null</span>
 </span>}</code></pre><div style="height: 1px;"></div></div></div></div></div><div id="propiedades-dirección-propiedad" class="resource"><h3 class="resource-heading">Dirección Propiedad <a href="#propiedades-dirección-propiedad" class="permalink">&nbsp;&para;</a></h3><div id="propiedades-dirección-propiedad-post" class="action post"><h4 class="action-heading"><div class="name">direccionPropiedad</div><a href="#propiedades-dirección-propiedad-post" class="method post">POST</a><code class="uri">/propiedad/direccionPropiedad</code></h4><p>Se encarga de crear la direccion de la propiedad</p>
-<h4>Example URI</h4><div class="definition"><span class="method post">POST</span>&nbsp;<span class="uri"><span class="hostname">http://localhost:3050</span>/propiedad/direccionPropiedad</span></div><div class="title"><strong>Request&nbsp;&nbsp;<code>Ejemplo</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><h5>Headers</h5><pre><code><span class="hljs-attribute">Authorization</span>: <span class="hljs-string">YWxhZGRpbjpvcGVuc2VzYW1l</span></code></pre><div style="height: 1px;"></div></div></div><div class="title"><strong>Response&nbsp;&nbsp;<code>200</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><div class="description"><ul>
+<h4>Example URI</h4><div class="definition"><span class="method post">POST</span>&nbsp;<span class="uri"><span class="hostname">http://localhost:3050</span>/propiedad/direccionPropiedad</span></div><div class="title"><strong>Request&nbsp;&nbsp;<code>Ejemplo</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><h5>Headers</h5><pre><code><span class="hljs-attribute">Authorization</span>: <span class="hljs-string">YWxhZGRpbjpvcGVuc2VzYW1l</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
+  "<span class="hljs-attribute">alias</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">numeroInterior</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">numeroExterior</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">codigoPostal</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">ciudad</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">delegacion</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">pais</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
+  "<span class="hljs-attribute">latitud</span>": <span class="hljs-value"><span class="hljs-number">19.001231023012</span></span>,
+  "<span class="hljs-attribute">longitud</span>": <span class="hljs-value">-<span class="hljs-number">19.001231023012</span></span>,
+  "<span class="hljs-attribute">descripcion</span>": <span class="hljs-value"><span class="hljs-string">"string"</span>
+</span>}</code></pre><div style="height: 1px;"></div></div></div><div class="title"><strong>Response&nbsp;&nbsp;<code>200</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><div class="description"><ul>
 <li>Relation: 200: Ok</li>
 </ul>
 </div><h5>Headers</h5><pre><code><span class="hljs-attribute">Content-Type</span>: <span class="hljs-string">application/json</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
