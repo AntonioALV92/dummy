@@ -61,6 +61,20 @@
 						"icono": "Estudio",
 						"descripcion": "Estudio",
 						"tipo_dato": 2
+					},
+					{
+						"id": 3,
+						"conicono": 1,
+						"icono": "Cocineta",
+						"descripcion": "Cocineta",
+						"tipo_dato": 2
+					},
+					{
+						"id": 4,
+						"conicono": 1,
+						"icono": "Terraza",
+						"descripcion": "Terraza",
+						"tipo_dato": 2
 					}
 				]
 			},
