@@ -1,0 +1,27 @@
+
+## Disponibilidad Broker  [/disponibilidad/broker]
+
+### disponibilidadBroker [POST]
+
++ Request Ejemplo
+
+    + Headers
+        Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
+
+
+    + Body
+<!-- include(requestDisponibilidad.json) -->
+
++ Response 200 (application/json)
+<!-- include(responseDisponibilidad.json) -->
+       
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "mensaje": "Internal Server Error"
+            },
+            "result": null
+        }
