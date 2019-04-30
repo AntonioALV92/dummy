@@ -1,4 +1,9 @@
-[
+{
+  "error": {
+    "mensaje": "string"
+  },
+  "result":
+  [
     {
       "id": 1,
       "descripcion": "casa"
@@ -24,3 +29,5 @@
       "descripcion": "bodega"
     }
   ]
+}
+
