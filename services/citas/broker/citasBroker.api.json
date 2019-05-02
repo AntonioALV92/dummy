@@ -1,6 +1,6 @@
 {
     "title": "Citas Broker por mes",
-    "endpoint": "/citas/inquilino",
+    "endpoint": "/citas/broker",
     "method": "POST",
     "responses": [{
             "status": "200",
@@ -8,7 +8,7 @@
             "headers": {
                 "Content-Type": "application/json"
             },
-            "bodyFile": "response.json"
+            "bodyFile": "citasBrokerResponse.json"
         },
         {
             "status": "500",

@@ -23,9 +23,9 @@ function load(location) {
         o.files = glob.sync(o.location + o.name + '*');
         // o.parsed = parserAPIB.parse(input);
         let location = apiFile.split('/').slice(0, -1).join('/') + '/' + o.name + '.api.json';
-        if(fs.existsSync(location)){
+        if (fs.existsSync(location)) {
             o.parsed = JSON.parse(fs.readFileSync(location, 'utf-8'));
-            if(o.parsed.endpoint){
+            if (o.parsed.endpoint) {
                 apis.push(o);
             }
         }
@@ -40,9 +40,17 @@ function load(location) {
     });
 }
 
-function get(endpoint) {
+function get(endpoint, method) {
     endpoint = cleanEndpoint(endpoint);
-    let idxApi = endpoints.indexOf(endpoint);
+    let idxApi = NaN;
+    endpoints.filter((item, index) => {
+        if (item === endpoint) {
+            let t = apis[index];
+            if (method === t.parsed.method) {
+                idxApi = index;
+            }
+        }
+    });
     return apis[idxApi];
 }
 
@@ -67,8 +75,8 @@ function getMethodColorized(method) {
 function getRoutes() {
     return apis.map((api) => {
         return '\t' +
-            getMethodColorized(api.parsed.method)
-            + '\t' + api.parsed.endpoint;
+            getMethodColorized(api.parsed.method) +
+            '\t' + api.parsed.endpoint;
         // return api.parsed.transitions[0].method +' '+ api.parsed.endPoint;
     });
 }
@@ -97,12 +105,12 @@ function getResponse(api, responseDesired) {
 
     if (response.bodyFile == undefined && response.bodyFileAttached == undefined) {
         response.contentParsed = response.body;
-    } else if(response.bodyFile != undefined){
+    } else if (response.bodyFile != undefined) {
         response.contentParsed = fs.readFileSync(api.location + response.bodyFile, 'utf-8');
         if (response.contentType == 'application/json') {
             response.contentParsed = JSON.parse(response.contentParsed);
         }
-    } else if(response.bodyFileAttached != undefined){
+    } else if (response.bodyFileAttached != undefined) {
         return response;
     }
 
@@ -112,7 +120,7 @@ function getResponse(api, responseDesired) {
 
 function handle(req, res, config) {
     let endpoint = cleanEndpoint(req.originalUrl);
-    let api = get(endpoint);
+    let api = get(endpoint, req.method);
     let methods = getMethodsApi(api);
 
     // Revisamos si está definido el método HTTP
@@ -132,17 +140,17 @@ function handle(req, res, config) {
 
             let responseObject = getResponse(api, responseDesired);
 
-            if(!responseObject.bodyFileAttached){
-                if(responseObject.headers){
+            if (!responseObject.bodyFileAttached) {
+                if (responseObject.headers) {
                     Object.keys(responseObject.headers).forEach((h) => {
                         res.header(h, responseObject.headers[h])
                     });
                 }
                 res
-                .status(responseObject.status)
-                .set('Access-Control-Expose-Headers', 'Authorization, Date')
-                .send(responseObject.contentParsed);
-            }else{
+                    .status(responseObject.status)
+                    .set('Access-Control-Expose-Headers', 'Authorization, Date')
+                    .send(responseObject.contentParsed);
+            } else {
                 let filePath = api.location + responseObject.bodyFileAttached;
                 filePath = path.join(__dirname, filePath);
                 res.sendFile(filePath);

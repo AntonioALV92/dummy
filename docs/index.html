@@ -2094,7 +2094,7 @@
   "<span class="hljs-attribute">result</span>": <span class="hljs-value"><span class="hljs-literal">null</span>
 </span>}</code></pre><div style="height: 1px;"></div></div></div></div></div></section><section id="citas" class="resource-group"><h2 class="group-heading">Citas <a href="#citas" class="permalink">&para;</a></h2><div id="citas-actualizar-citas-broker-por-mes" class="resource"><h3 class="resource-heading">Actualizar citas Broker por mes <a href="#citas-actualizar-citas-broker-por-mes" class="permalink">&nbsp;&para;</a></h3><div id="citas-actualizar-citas-broker-por-mes-put" class="action put"><h4 class="action-heading"><div class="name">actualizarBroker</div><a href="#citas-actualizar-citas-broker-por-mes-put" class="method put">PUT</a><code class="uri">/citas/broker</code></h4><h4>Example URI</h4><div class="definition"><span class="method put">PUT</span>&nbsp;<span class="uri"><span class="hostname">http://localhost:3050</span>/citas/broker</span></div><div class="title"><strong>Request&nbsp;&nbsp;<code>Ejemplo</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><h5>Headers</h5><pre><code><span class="hljs-attribute">Authorization</span>: <span class="hljs-string">YWxhZGRpbjpvcGVuc2VzYW1l</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
   "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
-  "<span class="hljs-attribute"> estatus </span>": <span class="hljs-value"><span class="hljs-number">1</span>
+  "<span class="hljs-attribute">estatus </span>": <span class="hljs-value"><span class="hljs-number">1</span>
 </span>}</code></pre><div style="height: 1px;"></div></div></div><div class="title"><strong>Response&nbsp;&nbsp;<code>200</code></strong><div class="collapse-button"><span class="close">Hide</span><span class="open">Show</span></div></div><div class="collapse-content"><div class="inner"><h5>Headers</h5><pre><code><span class="hljs-attribute">Content-Type</span>: <span class="hljs-string">application/json</span></code></pre><div style="height: 1px;"></div><h5>Body</h5><pre><code>{
   "<span class="hljs-attribute">error</span>": <span class="hljs-value"><span class="hljs-literal">null</span></span>,
   "<span class="hljs-attribute">result</span>": <span class="hljs-value"><span class="hljs-literal">null</span>
@@ -2112,19 +2112,99 @@
   "<span class="hljs-attribute">error</span>": <span class="hljs-value"><span class="hljs-literal">null</span></span>,
   "<span class="hljs-attribute">result</span>": <span class="hljs-value">[
     {
-      "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">0</span></span>,
-      "<span class="hljs-attribute">nombre_inquilino</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
-      "<span class="hljs-attribute">url_imagen</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
-      "<span class="hljs-attribute">fecha_inicio</span>": <span class="hljs-value"><span class="hljs-string">"dd-mm-yyyy HH:mm:sss"</span></span>,
-      "<span class="hljs-attribute">fecha_fin</span>": <span class="hljs-value"><span class="hljs-string">"dd-mm-yyyy HH:mm:sss"</span></span>,
-      "<span class="hljs-attribute">estatus</span>": <span class="hljs-value"><span class="hljs-number">0</span></span>,
+      "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
+      "<span class="hljs-attribute">nombre_inquilino</span>": <span class="hljs-value"><span class="hljs-string">"Danni Ortiz Rodríguez"</span></span>,
+      "<span class="hljs-attribute">url_imagen</span>": <span class="hljs-value"><span class="hljs-string">"https://wakyma.com/blog/wp-content/uploads/2017/08/Hablamos-de-la-incontinencia-urinaria-en-gatos-770x460."</span></span>,
+      "<span class="hljs-attribute">fecha_inicio</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 16:00:00"</span></span>,
+      "<span class="hljs-attribute">fecha_fin</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 18:00:00"</span></span>,
+      "<span class="hljs-attribute">estatus</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
       "<span class="hljs-attribute">direccion_propiedad</span>": <span class="hljs-value">{
-        "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
-        "<span class="hljs-attribute">numero</span>": <span class="hljs-value"><span class="hljs-number">0</span></span>,
-        "<span class="hljs-attribute">cp</span>": <span class="hljs-value"><span class="hljs-number">0</span></span>,
-        "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
-        "<span class="hljs-attribute">municipio</span>": <span class="hljs-value"><span class="hljs-string">"string"</span></span>,
-        "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"string"</span>
+        "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"Cerrada de Tecamachalco"</span></span>,
+        "<span class="hljs-attribute">numero</span>": <span class="hljs-value"><span class="hljs-number">45</span></span>,
+        "<span class="hljs-attribute">cp</span>": <span class="hljs-value"><span class="hljs-number">11650</span></span>,
+        "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"Reforma Soc"</span></span>,
+        "<span class="hljs-attribute">municipio</span>": <span class="hljs-value"><span class="hljs-string">"Miguel Hidalgo"</span></span>,
+        "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"Ciudad de México"</span>
+      </span>}
+    </span>},
+    {
+      "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">2</span></span>,
+      "<span class="hljs-attribute">nombre_inquilino</span>": <span class="hljs-value"><span class="hljs-string">"Santiago Flores Lopez"</span></span>,
+      "<span class="hljs-attribute">url_imagen</span>": <span class="hljs-value"><span class="hljs-string">"https://i.ytimg.com/vi/I9C0gTMJens/maxresdefault.jpg"</span></span>,
+      "<span class="hljs-attribute">fecha_inicio</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 12:00:00"</span></span>,
+      "<span class="hljs-attribute">fecha_fin</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 13:00:00"</span></span>,
+      "<span class="hljs-attribute">estatus</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
+      "<span class="hljs-attribute">direccion_propiedad</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"Cerrada de Tecamachalco"</span></span>,
+        "<span class="hljs-attribute">numero</span>": <span class="hljs-value"><span class="hljs-number">45</span></span>,
+        "<span class="hljs-attribute">cp</span>": <span class="hljs-value"><span class="hljs-number">11650</span></span>,
+        "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"Reforma Soc"</span></span>,
+        "<span class="hljs-attribute">municipio</span>": <span class="hljs-value"><span class="hljs-string">"Miguel Hidalgo"</span></span>,
+        "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"Ciudad de México"</span>
+      </span>}
+    </span>},
+    {
+      "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">3</span></span>,
+      "<span class="hljs-attribute">nombre_inquilino</span>": <span class="hljs-value"><span class="hljs-string">"Antonio Lopez"</span></span>,
+      "<span class="hljs-attribute">url_imagen</span>": <span class="hljs-value"><span class="hljs-string">"https://vignette.wikia.nocookie.net/drwhofanfilm/images/6/69/23-emoji-cliparts-uTSgAQ-clipart.jpg.png/revision/latest?cb=20160829234112"</span></span>,
+      "<span class="hljs-attribute">fecha_inicio</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 10:00:00"</span></span>,
+      "<span class="hljs-attribute">fecha_fin</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 11:00:00"</span></span>,
+      "<span class="hljs-attribute">estatus</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
+      "<span class="hljs-attribute">direccion_propiedad</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"Cerrada de Tecamachalco"</span></span>,
+        "<span class="hljs-attribute">numero</span>": <span class="hljs-value"><span class="hljs-number">45</span></span>,
+        "<span class="hljs-attribute">cp</span>": <span class="hljs-value"><span class="hljs-number">11650</span></span>,
+        "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"Reforma Soc"</span></span>,
+        "<span class="hljs-attribute">municipio</span>": <span class="hljs-value"><span class="hljs-string">"Miguel Hidalgo"</span></span>,
+        "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"Ciudad de México"</span>
+      </span>}
+    </span>},
+    {
+      "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">4</span></span>,
+      "<span class="hljs-attribute">nombre_inquilino</span>": <span class="hljs-value"><span class="hljs-string">"Christian Rangel"</span></span>,
+      "<span class="hljs-attribute">url_imagen</span>": <span class="hljs-value"><span class="hljs-string">"https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/07/18/emoji-hey-600_M9RRgzt.jpg"</span></span>,
+      "<span class="hljs-attribute">fecha_inicio</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 18:00:00"</span></span>,
+      "<span class="hljs-attribute">fecha_fin</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 20:00:00"</span></span>,
+      "<span class="hljs-attribute">estatus</span>": <span class="hljs-value"><span class="hljs-number">1</span></span>,
+      "<span class="hljs-attribute">direccion_propiedad</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"Cerrada de Tecamachalco"</span></span>,
+        "<span class="hljs-attribute">numero</span>": <span class="hljs-value"><span class="hljs-number">45</span></span>,
+        "<span class="hljs-attribute">cp</span>": <span class="hljs-value"><span class="hljs-number">11650</span></span>,
+        "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"Reforma Soc"</span></span>,
+        "<span class="hljs-attribute">municipio</span>": <span class="hljs-value"><span class="hljs-string">"Miguel Hidalgo"</span></span>,
+        "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"Ciudad de México"</span>
+      </span>}
+    </span>},
+    {
+      "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">5</span></span>,
+      "<span class="hljs-attribute">nombre_inquilino</span>": <span class="hljs-value"><span class="hljs-string">"Karina Ortiz Rodríguez"</span></span>,
+      "<span class="hljs-attribute">url_imagen</span>": <span class="hljs-value"><span class="hljs-string">"https://finland.fi/wp-content/uploads/2016/05/emoji-a_trusted_friend.png"</span></span>,
+      "<span class="hljs-attribute">fecha_inicio</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 16:00:00"</span></span>,
+      "<span class="hljs-attribute">fecha_fin</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 18:00:00"</span></span>,
+      "<span class="hljs-attribute">estatus</span>": <span class="hljs-value"><span class="hljs-number">2</span></span>,
+      "<span class="hljs-attribute">direccion_propiedad</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"Cerrada de Tecamachalco"</span></span>,
+        "<span class="hljs-attribute">numero</span>": <span class="hljs-value"><span class="hljs-number">45</span></span>,
+        "<span class="hljs-attribute">cp</span>": <span class="hljs-value"><span class="hljs-number">11650</span></span>,
+        "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"Reforma Soc"</span></span>,
+        "<span class="hljs-attribute">municipio</span>": <span class="hljs-value"><span class="hljs-string">"Miguel Hidalgo"</span></span>,
+        "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"Ciudad de México"</span>
+      </span>}
+    </span>},
+    {
+      "<span class="hljs-attribute">id</span>": <span class="hljs-value"><span class="hljs-number">6</span></span>,
+      "<span class="hljs-attribute">nombre_inquilino</span>": <span class="hljs-value"><span class="hljs-string">"Luis Flores Lopez"</span></span>,
+      "<span class="hljs-attribute">url_imagen</span>": <span class="hljs-value"><span class="hljs-string">"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBENZC_gsC3A9O2RQIzli_K_yejngh1VM-iy8CVfBWUOEZkOQ"</span></span>,
+      "<span class="hljs-attribute">fecha_inicio</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 12:00:00"</span></span>,
+      "<span class="hljs-attribute">fecha_fin</span>": <span class="hljs-value"><span class="hljs-string">"29-04-2019 13:00:00"</span></span>,
+      "<span class="hljs-attribute">estatus</span>": <span class="hljs-value"><span class="hljs-number">2</span></span>,
+      "<span class="hljs-attribute">direccion_propiedad</span>": <span class="hljs-value">{
+        "<span class="hljs-attribute">calle</span>": <span class="hljs-value"><span class="hljs-string">"Cerrada de Tecamachalco"</span></span>,
+        "<span class="hljs-attribute">numero</span>": <span class="hljs-value"><span class="hljs-number">45</span></span>,
+        "<span class="hljs-attribute">cp</span>": <span class="hljs-value"><span class="hljs-number">11650</span></span>,
+        "<span class="hljs-attribute">colonia</span>": <span class="hljs-value"><span class="hljs-string">"Reforma Soc"</span></span>,
+        "<span class="hljs-attribute">municipio</span>": <span class="hljs-value"><span class="hljs-string">"Miguel Hidalgo"</span></span>,
+        "<span class="hljs-attribute">estado</span>": <span class="hljs-value"><span class="hljs-string">"Ciudad de México"</span>
       </span>}
     </span>}
   ]
@@ -2211,7 +2291,7 @@
     "<span class="hljs-attribute">mensaje</span>": <span class="hljs-value"><span class="hljs-string">"Internal Server Error"</span>
   </span>}</span>,
   "<span class="hljs-attribute">result</span>": <span class="hljs-value"><span class="hljs-literal">null</span>
-</span>}</code></pre><div style="height: 1px;"></div></div></div></div></div></section></div></div></div><p style="text-align: center;" class="text-muted">Generated by&nbsp;<a href="https://github.com/danielgtaylor/aglio" class="aglio">aglio</a>&nbsp;on 29 Apr 2019</p><script>/* eslint-env browser */
+</span>}</code></pre><div style="height: 1px;"></div></div></div></div></div></section></div></div></div><p style="text-align: center;" class="text-muted">Generated by&nbsp;<a href="https://github.com/danielgtaylor/aglio" class="aglio">aglio</a>&nbsp;on 01 May 2019</p><script>/* eslint-env browser */
 /* eslint quotes: [2, "single"] */
 'use strict';
 
