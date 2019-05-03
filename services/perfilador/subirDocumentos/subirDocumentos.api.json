@@ -1,0 +1,13 @@
+{
+    "title": "Subir Documentos",
+    "endpoint": "/perfilador/subirDocumentos",
+    "method": "POST",
+    "responses": [{
+        "status": "200",
+        "label": "200",
+        "headers": {
+            "Content-Type": "multipart/form-data"
+        },
+        "bodyFile": "response.json"
+    }]
+}

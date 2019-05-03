@@ -1,0 +1,7 @@
+{
+    "documentos": [{
+        "idContrato": 1,
+        "datoDocumento": "multiparte",
+        "mime": "string"
+    }]
+}

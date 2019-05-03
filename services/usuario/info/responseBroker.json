@@ -1,0 +1,14 @@
+{
+    "error": null,
+    "result": {
+        "nombres": "Antonio",
+        "apellidoPaterno": "López",
+        "apellidoMaterno": "Vásquez",
+        "urlImagen": "https://pmcvariety.files.wordpress.com/2018/04/mq-tdh.jpg",
+        "correoElectronico": "antonio.lopez@stratplus.net",
+        "telefono": "1234567898",
+        "nacionalidad": 1,
+        "idBanco": 2,
+        "clabe": "02394802948230948203498"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "error": null,
+    "result": {
+        "materno": "Bahena",
+        "paterno": "Blancas",
+        "persona": {
+            "tipousuarioDefault": "Inquilino",
+            "cuenta": {
+                "tipousuario": "Inquilino",
+                "estatus": "Activo"
+            },
+            "imagen": "https://pmcvariety.files.wordpress.com/2018/04/mq-tdh.jpg",
+            "banco": "(vacio)",
+            "tipopersona": "Individual",
+            "clabe": "(vacio)"
+        },
+        "caduca": "2020-03-27T17:21:47.730+0000",
+        "usuario": "luis.blancas@stratplus.net",
+        "id": 100,
+        "nombre": "Luis Adrian",
+        "email": "luis.blancas@stratplus.net",
+        "rfc": "BABL791225"
+    }
+}

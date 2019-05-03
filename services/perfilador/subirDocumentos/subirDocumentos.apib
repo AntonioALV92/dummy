@@ -1,27 +1,18 @@
-## Usuario info  [/usuario/info/{tipoCuenta}]
+## Subir Documentos  [/perfilador/subirDocumentos]
 
-### usuarioInfo[GET]
-
-+ Parameters
-    + tipoCuenta (number, required) - Tipo de cuenta del usuario 
+### subirDocumentos [POST]
 
 + Request Ejemplo
 
     + Headers
         Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
 
-+ Response 200 (application/json)
-    + Relation: 200: Broker
-
     + Body
-<!-- include(responseBroker.json) -->
+<!-- include(request.json) -->
 
 + Response 200 (application/json)
-    + Relation: 200: Inquilino
-
-    + Body
-<!-- include(responseInquilino.json) -->
-
+<!-- include(response.json) -->
+       
 + Response 500 (application/json)
     + Relation: 500: Error
     

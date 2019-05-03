@@ -1,26 +1,19 @@
-## Usuario info  [/usuario/info/{tipoCuenta}]
+## Búsqueda propietario  [/usuario/busquedaPropietario]
 
-### usuarioInfo[GET]
-
-+ Parameters
-    + tipoCuenta (number, required) - Tipo de cuenta del usuario 
+### busquedaPropietario [POST]
 
 + Request Ejemplo
 
     + Headers
         Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
+    
+    + Body
+<!-- include(request.json) -->
 
 + Response 200 (application/json)
-    + Relation: 200: Broker
 
     + Body
-<!-- include(responseBroker.json) -->
-
-+ Response 200 (application/json)
-    + Relation: 200: Inquilino
-
-    + Body
-<!-- include(responseInquilino.json) -->
+<!-- include(response.json) -->
 
 + Response 500 (application/json)
     + Relation: 500: Error

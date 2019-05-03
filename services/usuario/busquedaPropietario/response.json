@@ -1,0 +1,14 @@
+{
+    "error": null,
+    "result": {
+        "BBLL121212HOCPSN01": [{
+            "nombres": "Antonio",
+            "apellidoPaterno": "López",
+            "apellidoMaterno": "Vásquez",
+            "correoElectronico": "antonio.lopez@stratplus.net",
+            "telefono": "1234567898",
+            "nacionalidad": 1,
+            "curp": "asdf121212hocpsn01"
+        }]
+    }
+}

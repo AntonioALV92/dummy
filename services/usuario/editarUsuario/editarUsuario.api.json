@@ -1,0 +1,42 @@
+{
+    "title": "Editar usuario",
+    "endpoint": "/usuario/editar",
+    "method": "PUT",
+    "responses": [{
+            "status": "200",
+            "label": "200: Ok",
+            "headers": {
+                "Content-Type": "application/json"
+            },
+            "body": {
+
+            }
+        },
+        {
+            "status": "400",
+            "label": "400: Problemas al editar el usuario",
+            "headers": {
+                "Content-Type": "application/json"
+            },
+            "body": {
+                "menssage": "Problemas al editar el usuario [luis.blancas@stratplus.net]",
+                "code": 400,
+                "result": "Problemas al editar usuario"
+            }
+        },
+        {
+            "status": "500",
+            "label": "500: Error",
+            "headers": {
+                "Content-Type": "application/json"
+            },
+            "body": {
+                "error": {
+                    "code": 500,
+                    "message": "Internal Server Error"
+                },
+                "result": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "error": null,
+    "result": {
+        "materno": "Bahena",
+        "paterno": "Blancas",
+        "persona": {
+            "tipousuarioDefault": "Broker",
+            "cuenta": {
+                "tipousuario": "Broker",
+                "estatus": "Activo"
+            },
+            "imagen": "https://pmcvariety.files.wordpress.com/2018/04/mq-tdh.jpg",
+            "banco": "BBVA Bancomer, S.A., Institucion de Banca Multiple, Grupo Financiero BBVA Bancomer",
+            "tipopersona": "Individual",
+            "clabe": "01801-23456-45678-296"
+        },
+        "caduca": "2020-03-27T17:21:47.730+0000",
+        "usuario": "luis.blancas@stratplus.net",
+        "id": 100,
+        "nombre": "Luis Adrian",
+        "email": "luis.blancas@stratplus.net",
+        "rfc": "BABL791225"
+    }
+}

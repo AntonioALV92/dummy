@@ -1,6 +1,6 @@
 {
-    "title": "Usuario Info",
-    "endpoint": "/usuario/info/{tipoCuenta}",
+    "title": "Ver Contratos Firmados",
+    "endpoint": "/perfilador/contratosFirmados",
     "method": "GET",
     "responses": [{
             "status": "200",
@@ -8,7 +8,7 @@
             "headers": {
                 "Content-Type": "application/json"
             },
-            "bodyFile": "responseUsuarioInfo.json"
+            "bodyFile": "response.json"
         },
         {
             "status": "500",

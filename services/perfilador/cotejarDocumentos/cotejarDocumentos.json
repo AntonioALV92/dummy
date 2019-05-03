@@ -1,14 +1,14 @@
 {
-    "title": "Usuario Info",
-    "endpoint": "/usuario/info/{tipoCuenta}",
-    "method": "GET",
+    "title": "Cotejar Documentos",
+    "endpoint": "/perfilador/cotejarDocumentos",
+    "method": "POST",
     "responses": [{
             "status": "200",
             "label": "200: Ok",
             "headers": {
                 "Content-Type": "application/json"
             },
-            "bodyFile": "responseUsuarioInfo.json"
+            "bodyFile": "response.json"
         },
         {
             "status": "500",

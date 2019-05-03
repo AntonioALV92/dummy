@@ -1,7 +1,7 @@
 {
-    "title": "Usuario Info",
-    "endpoint": "/usuario/info/{tipoCuenta}",
-    "method": "GET",
+    "title": "Búsqueda Propietario",
+    "endpoint": "/usuario/busquedaPropietario",
+    "method": "POST",
     "responses": [{
             "status": "200",
             "label": "200: Ok",

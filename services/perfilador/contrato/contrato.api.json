@@ -1,0 +1,13 @@
+{
+    "title": "Contrato",
+    "endpoint": "/perfilador/contrato/{id}",
+    "method": "GET",
+    "responses": [{
+        "status": "200",
+        "label": "200",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFile": "responseBancos.json"
+    }]
+}

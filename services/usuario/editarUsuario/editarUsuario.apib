@@ -1,0 +1,57 @@
+## Editar usuario [/usuario/editar/]
+
+### editarUsuario [PUT]
+Se encarga de editar un registro
+
++ Request Broker
+
+    + Headers
+        Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
+
+    + Body
+<!-- include(broker.json) -->
+
++ Request Inquilino
+
+    + Headers
+        Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
+    
+    + Body
+<!-- include(inquilino.json) -->
+
++ Request propietario
+
+    + Headers
+        Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
+    
+    + Body
+<!-- include(propietario.json) -->
+
++ Response 200 (application/json)
+    + Relation: 200: Ok
+
+    + Body
+        {
+           "message": "Usuario editado"
+        }
+
++ Response 400 (application/json)
+ + Relation: 400: Error
+
+ + Body
+ {
+    "error": {
+        "mensaje": "Problemas al editar usuario"
+    }
+     "result": null
+ }
++ Response 500 (application/json)
+    + Relation: 500: Error
+    
+    + Body
+        {
+            "error": {
+                "mensaje": "string"
+            },
+            "result": null
+        }

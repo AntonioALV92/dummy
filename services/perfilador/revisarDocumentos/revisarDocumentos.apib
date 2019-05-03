@@ -1,9 +1,9 @@
-## Usuario info  [/usuario/info/{tipoCuenta}]
+## Revisar documentos  [/perfilador/revisarDocumentos/{idContrato}]
 
-### usuarioInfo[GET]
+### revisarDocumentos [GET]
 
 + Parameters
-    + tipoCuenta (number, required) - Tipo de cuenta del usuario 
+    + idContrato (number, required) - Id del contrato
 
 + Request Ejemplo
 
@@ -11,16 +11,7 @@
         Authorization: YWxhZGRpbjpvcGVuc2VzYW1l
 
 + Response 200 (application/json)
-    + Relation: 200: Broker
-
-    + Body
-<!-- include(responseBroker.json) -->
-
-+ Response 200 (application/json)
-    + Relation: 200: Inquilino
-
-    + Body
-<!-- include(responseInquilino.json) -->
+<!-- include(response.json) -->
 
 + Response 500 (application/json)
     + Relation: 500: Error
