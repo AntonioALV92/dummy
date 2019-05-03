@@ -1,0 +1,132 @@
+{
+    "error": null,
+    "result": [{
+            "id": 1,
+            "nombre_inquilino": "Danni Ortiz Rodríguez",
+            "url_imagen": "https://wakyma.com/blog/wp-content/uploads/2017/08/Hablamos-de-la-incontinencia-urinaria-en-gatos-770x460.",
+            "fecha_inicio": "29-04-2019 16:00:00",
+            "fecha_fin": "29-04-2019 18:00:00",
+            "estatus": 1,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 2,
+            "nombre_inquilino": "Santiago Flores Lopez",
+            "url_imagen": "https://i.ytimg.com/vi/I9C0gTMJens/maxresdefault.jpg",
+            "fecha_inicio": "29-04-2019 12:00:00",
+            "fecha_fin": "29-04-2019 13:00:00",
+            "estatus": 1,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 3,
+            "nombre_inquilino": "Antonio Lopez",
+            "url_imagen": "https://vignette.wikia.nocookie.net/drwhofanfilm/images/6/69/23-emoji-cliparts-uTSgAQ-clipart.jpg.png/revision/latest?cb=20160829234112",
+            "fecha_inicio": "29-04-2019 10:00:00",
+            "fecha_fin": "29-04-2019 11:00:00",
+            "estatus": 1,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 4,
+            "nombre_inquilino": "Christian Rangel",
+            "url_imagen": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/07/18/emoji-hey-600_M9RRgzt.jpg",
+            "fecha_inicio": "29-04-2019 18:00:00",
+            "fecha_fin": "29-04-2019 20:00:00",
+            "estatus": 1,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 5,
+            "nombre_inquilino": "Karina Ortiz Rodríguez",
+            "url_imagen": "https://finland.fi/wp-content/uploads/2016/05/emoji-a_trusted_friend.png",
+            "fecha_inicio": "29-04-2019 16:00:00",
+            "fecha_fin": "29-04-2019 18:00:00",
+            "estatus": 2,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 6,
+            "nombre_inquilino": "Luis Flores Lopez",
+            "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBENZC_gsC3A9O2RQIzli_K_yejngh1VM-iy8CVfBWUOEZkOQ",
+            "fecha_inicio": "29-04-2019 12:00:00",
+            "fecha_fin": "29-04-2019 13:00:00",
+            "estatus": 2,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 7,
+            "nombre_inquilino": "Karina Ortiz Rodríguez",
+            "url_imagen": "https://finland.fi/wp-content/uploads/2016/05/emoji-a_trusted_friend.png",
+            "fecha_inicio": "02-05-2019 16:00:00",
+            "fecha_fin": "02-05-2019 18:00:00",
+            "estatus": 3,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 8,
+            "nombre_inquilino": "Luis Flores Lopez",
+            "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBENZC_gsC3A9O2RQIzli_K_yejngh1VM-iy8CVfBWUOEZkOQ",
+            "fecha_inicio": "03-05-2019 12:00:00",
+            "fecha_fin": "03-05-2019 13:00:00",
+            "estatus": 3,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        }
+    ]
+}
