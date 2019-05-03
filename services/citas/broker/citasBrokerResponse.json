@@ -95,6 +95,38 @@
                 "municipio": "Miguel Hidalgo",
                 "estado": "Ciudad de México"
             }
+        },
+        {
+            "id": 7,
+            "nombre_inquilino": "Karina Ortiz Rodríguez",
+            "url_imagen": "https://finland.fi/wp-content/uploads/2016/05/emoji-a_trusted_friend.png",
+            "fecha_inicio": "02-05-2019 16:00:00",
+            "fecha_fin": "02-05-2019 18:00:00",
+            "estatus": 3,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
+        },
+        {
+            "id": 8,
+            "nombre_inquilino": "Luis Flores Lopez",
+            "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBENZC_gsC3A9O2RQIzli_K_yejngh1VM-iy8CVfBWUOEZkOQ",
+            "fecha_inicio": "03-05-2019 12:00:00",
+            "fecha_fin": "03-05-2019 13:00:00",
+            "estatus": 3,
+            "direccion_propiedad": {
+                "calle": "Cerrada de Tecamachalco",
+                "numero": 45,
+                "cp": 11650,
+                "colonia": "Reforma Soc",
+                "municipio": "Miguel Hidalgo",
+                "estado": "Ciudad de México"
+            }
         }
     ]
 }

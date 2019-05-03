@@ -1,11 +1,8 @@
 {
     "error": null,
-    "result": [
-      {
+    "result": [{
         "id": 1,
         "fecha_inicio": "dd-mm-yyyy HH:mm:sss",
         "fecha_final": "dd-mm-yyyy HH:mm:sss"
-      }
-    ]
-  }
-  
+    }]
+}
