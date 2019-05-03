@@ -2,88 +2,87 @@
 	"error": { 
 			"mensaje": "string"
 	},
-	"result": {
-		"categorias": [
+	"result": [
+		{
+			"id": 1,
+			"categoria": "Amenidades",
+			"items": [
 			{
-			  "id": 1,
-			  "categoria": "Amenidades",
-			  "items": [
-				{
-				  "id": 1,
-				  "conicono": 0,
-				  "icono": "Gimnasio",
-				  "descripcion": "Gimnasio",
-				  "tipo_dato": 2
-				},
-				{
-				  "id": 2,
-				  "conicono": 1,
-				  "icono": "Spa",
-				  "descripcion": "Spa",
-				  "tipo_dato": 2
-				}
-			  ]
+				"id": 1,
+				"conicono": 0,
+				"icono": "Gimnasio",
+				"descripcion": "Gimnasio",
+				"tipo_dato": 2
 			},
 			{
-			  "id": 2,
-			  "categoria": "Obligatoria",
-			  "items": [
-				{
-				  "id": 1,
-				  "conicono": 0,
-				  "icono": "Recámara",
-				  "descripcion": "Recámara",
-				  "tipo_dato": 1
-				},
-				{
-				  "id": 2,
-				  "conicono": 1,
-				  "icono": "Baño",
-				  "descripcion": "Baño",
-				  "tipo_dato": 1
-				}
-			  ]
-			},
-			{
-			  "id": 3,
-			  "categoria": "Caracteristicas",
-			  "items": [
-				{
-				  "id": 1,
-				  "conicono": 0,
-				  "icono": "Amueblado",
-				  "descripcion": "Amueblado",
-				  "tipo_dato": 2
-				},
-				{
-				  "id": 2,
-				  "conicono": 1,
-				  "icono": "Estudio",
-				  "descripcion": "Estudio",
-				  "tipo_dato": 2
-				}
-			  ]
-			},
-			{
-			  "id": 4,
-			  "categoria": "Reglas",
-			  "items": [
-				{
-				  "id": 1,
-				  "conicono": 0,
-				  "icono": "Mascotas",
-				  "descripcion": "Mascotas",
-				  "tipo_dato": 2
-				},
-				{
-				  "id": 2,
-				  "conicono": 1,
-				  "icono": "Ruido",
-				  "descripcion": "Ruido",
-				  "tipo_dato": 2
-				}
-			  ]
+				"id": 2,
+				"conicono": 1,
+				"icono": "Spa",
+				"descripcion": "Spa",
+				"tipo_dato": 2
 			}
-		  ]
+			]
+		},
+		{
+			"id": 2,
+			"categoria": "Obligatoria",
+			"items": [
+			{
+				"id": 1,
+				"conicono": 0,
+				"icono": "Recámara",
+				"descripcion": "Recámara",
+				"tipo_dato": 1
+			},
+			{
+				"id": 2,
+				"conicono": 1,
+				"icono": "Baño",
+				"descripcion": "Baño",
+				"tipo_dato": 1
+			}
+			]
+		},
+		{
+			"id": 3,
+			"categoria": "Caracteristicas",
+			"items": [
+			{
+				"id": 1,
+				"conicono": 0,
+				"icono": "Amueblado",
+				"descripcion": "Amueblado",
+				"tipo_dato": 2
+			},
+			{
+				"id": 2,
+				"conicono": 1,
+				"icono": "Estudio",
+				"descripcion": "Estudio",
+				"tipo_dato": 2
+			}
+			]
+		},
+		{
+			"id": 4,
+			"categoria": "Reglas",
+			"items": [
+			{
+				"id": 1,
+				"conicono": 0,
+				"icono": "Mascotas",
+				"descripcion": "Mascotas",
+				"tipo_dato": 2
+			},
+			{
+				"id": 2,
+				"conicono": 1,
+				"icono": "Ruido",
+				"descripcion": "Ruido",
+				"tipo_dato": 2
+			}
+			]
+		}
+	]
+			
 	}
-}
